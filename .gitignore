@@ -1,0 +1,4 @@
+*.csv
+readme.md
+.claude/
+node_modules/
