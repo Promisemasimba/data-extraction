@@ -307,10 +307,10 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 563,,,CUOTS00138,1,Lorraine Tapiwanashe,,Chitete,F,,,Resigned,2004-06-22T00:00:00,0001-01-01T00:00:00,,632384665K63,STUDENT PLAN,false,263789039847,chitetelorraine8gmail.com,,,,0
 564,,,CUOTS00139,1,Blessed,,Madembo,M,,,Resigned,2004-01-06T00:00:00,0001-01-01T00:00:00,,222015265P27,STUDENT PLAN,false,263773901663,blessedmadembo2004@gmail.com,,,,0
 565,,,INDIP00008,1,Dulcie,,Mromo,F,,,Active,1960-05-19T00:00:00,0001-01-01T00:00:00,,63455270T25,Private Care 20,false,263773390587,sammiebanda@gmail.com,,,,0
-566,,,INDIP00009,1,Gift,,Makawa,M,,,Resigned,1966-10-28T00:00:00,0001-01-01T00:00:00,,63556246A47,Private Care 20,false,263778533770,giftmakawa@gmail.com,,,,0
-567,,,INDIP00009,2,Chapo,,Makawa,F,,,Resigned,1973-11-17T00:00:00,0001-01-01T00:00:00,,63844527Z71,Private Care 20,true,263778533770,giftmakawa@gmail.com,,,,0
-568,,,INDIP00009,3,Lilian ,,Makawa,F,,,Resigned,1968-05-28T00:00:00,0001-01-01T00:00:00,,63577578M47,Private Care 20,true,263778533770,giftmakawa@gmail.com,,,,0
-569,,,INDIP00009,4,Mary,,Kondo,F,,,Resigned,1947-12-16T00:00:00,0001-01-01T00:00:00,,63135082N38,Private Care 20,true,263778533770,giftmakawa@gmail.com,,,,0
+566,,,INDIP00009,1,Gift,,Makawa,M,,,Resigned,1966-10-28T00:00:00,0001-01-01T00:00:00,,63556246A47,Private Care 20,false,,giftmakawa@gmail.com,,,,0
+567,,,INDIP00009,2,Chapo,,Makawa,F,,,Resigned,1973-11-17T00:00:00,0001-01-01T00:00:00,,63844527Z71,Private Care 20,true,,giftmakawa@gmail.com,,,,0
+568,,,INDIP00009,3,Lilian ,,Makawa,F,,,Resigned,1968-05-28T00:00:00,0001-01-01T00:00:00,,63577578M47,Private Care 20,true,,giftmakawa@gmail.com,,,,0
+569,,,INDIP00009,4,Mary,,Kondo,F,,,Resigned,1947-12-16T00:00:00,0001-01-01T00:00:00,,63135082N38,Private Care 20,true,,giftmakawa@gmail.com,,,,0
 570,,,CUOTS00140,1,Courage,,Nyakusekwa,M,,,Resigned,2001-09-13T00:00:00,0001-01-01T00:00:00,,632228577Z49,STUDENT PLAN,false,263714787411,couragescotch@gmail.com,,,,0
 571,,,CUOTS00141,1,Tadiwanashe,,Faskho,F,,,Resigned,2003-12-18T00:00:00,0001-01-01T00:00:00,,632624696N63,STUDENT PLAN,false,263779119985,tadiwanashefoskho@gmail.com,,,,0
 572,,,CUOTS00142,1,Craig,,Mareya,M,,,Resigned,2003-08-21T00:00:00,0001-01-01T00:00:00,,632337139B50,STUDENT PLAN,false,263771758759,craigmareyat@gmail.com,,,,0
@@ -423,10 +423,10 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 688,,,INDIS00002,1,Fungisai,,Mupazviriho,F,,,Resigned,1971-06-24T00:00:00,0001-01-01T00:00:00,,63846746L43,General Care 10,false,263712540602,mupatheo@yahoo.co.uk,,,,0
 689,,,INDIS00002,2,Tawanda,Noel,Mafurirano,M,,,Resigned,2003-06-03T00:00:00,0001-01-01T00:00:00,,632336810T27,General Care 10,true,,,,,,0
 690,,,CUOTS00236,1,Michelle,,Chipare,F,,,Resigned,2004-06-10T00:00:00,0001-01-01T00:00:00,,242012046W12,STUDENT PLAN,false,263780559143,,,,,0
-691,,,INDIP00015,1,Stephanie ,Elsie,Cranston,F,,,Suspended,1990-06-25T00:00:00,0001-01-01T00:00:00,,052003534E00,Private Care 20,false,263773198457,stephaniechisholm16@hotmail.com,,,,0
-692,,,INDIP00015,2,Dustin,Mark,Cranston,M,,,Suspended,1986-08-04T00:00:00,0001-01-01T00:00:00,,79128057G00,Private Care 20,true,263773198457,stephaniechisholm16@hotmail.com,,,,0
-693,,,INDIP00015,3,Carmen,Jean,Cranston,F,,,Suspended,2017-03-16T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263773198457,stephaniechisholm16@hotmail.com,,,,0
-694,,,INDIP00015,4,Elsie,Paige,Cranston,F,,,Suspended,2021-06-22T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263773198457,stephaniechisholm16@hotmail.com,,,,0
+691,,,INDIP00015,1,Stephanie ,Elsie,Cranston,F,,,Active,1990-06-25T00:00:00,0001-01-01T00:00:00,,052003534E00,Private Care 20,false,263773198457,stephaniechisholm16@hotmail.com,,,,0
+692,,,INDIP00015,2,Dustin,Mark,Cranston,M,,,Active,1986-08-04T00:00:00,0001-01-01T00:00:00,,79128057G00,Private Care 20,true,263773198457,stephaniechisholm16@hotmail.com,,,,0
+693,,,INDIP00015,3,Carmen,Jean,Cranston,F,,,Active,2017-03-16T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263773198457,stephaniechisholm16@hotmail.com,,,,0
+694,,,INDIP00015,4,Elsie,Paige,Cranston,F,,,Active,2021-06-22T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263773198457,stephaniechisholm16@hotmail.com,,,,0
 695,,,INDIP00016,1,Ethel,,Jakachira,F,,,Active,1975-03-10T00:00:00,0001-01-01T00:00:00,,63970228F32,Private Care 20,false,263788479348,ejakachira@gmail.com,,,,0
 696,,,INDIP00016,2,Tadisa,,Jakachira,F,,,Active,2007-07-29T00:00:00,0001-01-01T00:00:00,,632564178H75,Private Care 20,true,263788479348,ejakachira@gmail.com,,,,0
 697,,,INDIP00016,3,Tanaka,,Jakachira,M,,,Active,2010-03-08T00:00:00,0001-01-01T00:00:00,,632676189J75,Private Care 20,true,263788479348,ejakachira@gmail.com,,,,0
@@ -456,16 +456,16 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 729,,,INDIP00025,1,Lucia,,Nkomo,F,,,Suspended,1972-08-16T00:00:00,0001-01-01T00:00:00,,75268539D7,Private Care 20,false,263771570143,,,,,0
 730,,,INDIP00026,1,Martha,,Mupfeki,F,,,Suspended,1952-01-01T00:00:00,0001-01-01T00:00:00,,29105007B27,Private Care 20,false,263774529063,,,,,0
 731,,,INDIP00027,1,Shingi Tiiso,,Mugomba,F,,,Resigned,1988-05-30T00:00:00,0001-01-01T00:00:00,,6321792448F42,Private Care 20,false,263785832088,,,,,0
-732,,,INDIP00029,2,Ronald,,Mugomba,M,,,Suspended,1954-04-11T00:00:00,0001-01-01T00:00:00,,63-286122M42,Private Care 20,true,263785832088,,,,,0
+732,,,INDIP00029,2,Ronald,,Mugomba,M,,,Active,1954-04-11T00:00:00,0001-01-01T00:00:00,,63-286122M42,Private Care 20,true,263785832088,,,,,0
 733,,,INDIP00027,3,Ruwarashe,,Mugomba,F,,,Resigned,2009-12-25T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,,,,,,0
 734,,,INDIP00027,4,Tinodiwa,,Mugomba,M,,,Resigned,2011-01-07T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,,,,,,0
 735,,,INDIP00027,5,Ronald,,Mugomba, ,,,Resigned,1950-09-10T00:00:00,0001-01-01T00:00:00,,63286122M42,Private Care 20,true,,,,,,0
 736,,,INDIP00001,2,Joas,,Musoko,M,,,Resigned,1968-06-10T00:00:00,0001-01-01T00:00:00,,63703243 E 80,Prestige Care 30,true,,,,,,0
-737,,,INDIP00028,1,Tichaona,,Mandeya,M,,,Suspended,1956-12-29T00:00:00,0001-01-01T00:00:00,,63146095J80,Private Care 20,false,263785411088,justicemadeya@gmail.com,,,,0
-738,,,INDIP00029,1,Angeline,,Mugomba,F,,,Suspended,1954-04-11T00:00:00,0001-01-01T00:00:00,,75045431V75,Private Care 20,false,263785832088,,,,,0
-739,,,INDIP00029,5,Ronald,,Mugomba,M,,,Resigned,1950-09-10T00:00:00,0001-01-01T00:00:00,,63-286122M4200,Private Care 20,true,263785832088,,,,,0
-740,,,INDIP00029,3,Tinodiwa,,Mugomba,M,,,Suspended,2011-01-07T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263785832088,,,,,0
-741,,,INDIP00029,4,Ruwarashe,,Mugomba,F,,,Suspended,2009-12-25T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263785832088,,,,,0
+737,,,INDIP00028,1,Tichaona,,Mandeya,M,,,Active,1956-12-29T00:00:00,0001-01-01T00:00:00,,63146095J80,Private Care 20,false,263785411088,justicemadeya@gmail.com,,,,0
+738,,,INDIP00029,1,Angeline,,Mugomba,F,,,Active,1954-04-11T00:00:00,0001-01-01T00:00:00,,75045431V75,Private Care 20,false,263785832088,,,,,0
+739,,,INDIP00029,5,Ronald,,Mugomba,M,,,Active,1950-09-10T00:00:00,0001-01-01T00:00:00,,63-286122M4200,Private Care 20,true,263785832088,,,,,0
+740,,,INDIP00029,3,Tinodiwa,,Mugomba,M,,,Active,2011-01-07T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263785832088,,,,,0
+741,,,INDIP00029,4,Ruwarashe,,Mugomba,F,,,Active,2009-12-25T00:00:00,0001-01-01T00:00:00,,,Private Care 20,true,263785832088,,,,,0
 742,,,INDIS00006,1,Joel,,Muzeya,M,,,Active,1975-01-16T00:00:00,0001-01-01T00:00:00,,63947259P70,Access Care 5,false,263774093095,jmuzeya@gmail.com,,,,0
 743,,,INDIS00006,2,Jesita,,Chatikobo,F,,,Active,1971-08-21T00:00:00,0001-01-01T00:00:00,,07058985J07,Access Care 5,true,263774093095,jmuzeya@gmail.com,,,,0
 744,,,INDIS00006,3,MIicheal,A.J,Muzeya,F,,,Active,1999-03-08T00:00:00,0001-01-01T00:00:00,,75514111 E 70,Access Care 5,true,263774093095,jmuzeya@gmail.com,,,,0
@@ -978,9 +978,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 1371,,,AB0000030,2,Nyasha,,Fani,F,,,Resigned,2001-04-13T00:00:00,0001-01-01T00:00:00,,632367599K22,Access Basic,true,,,,,,0
 1372,,,AB0000030,3,Tarnicia,,Kumba,F,,,Resigned,2022-01-13T00:00:00,0001-01-01T00:00:00,,a30,Access Basic,true,,,,,,0
 1373,,,AB0000030,4,Innocent,,Makova,M,,,Resigned,1976-02-05T00:00:00,0001-01-01T00:00:00,,63889613F,Access Basic,true,,,,,,0
-1374,,,AB0000031,1,Tabeth Thandiwe,,Jacha,F,,,Suspended,1996-02-24T00:00:00,0001-01-01T00:00:00,,631528765J18,Access Basic,false,0774041113,,,,,0
-1375,,,AB0000031,2,Darrell Tatenda,,Mahachi,M,,,Suspended,1994-04-25T00:00:00,0001-01-01T00:00:00,,632634428S70,Access Basic,true,0774041113,,,,,0
-1376,,,AB0000031,3,Abdiel David,,Mahachi,M,,,Suspended,2023-02-04T00:00:00,0001-01-01T00:00:00,,633836709T70,Access Basic,true,0774041113,,,,,0
+1374,,,AB0000031,1,Tabeth Thandiwe,,Jacha,F,,,Active,1996-02-24T00:00:00,0001-01-01T00:00:00,,631528765J18,Access Basic,false,0774041113,,,,,0
+1375,,,AB0000031,2,Darrell Tatenda,,Mahachi,M,,,Active,1994-04-25T00:00:00,0001-01-01T00:00:00,,632634428S70,Access Basic,true,0774041113,,,,,0
+1376,,,AB0000031,3,Abdiel David,,Mahachi,M,,,Active,2023-02-04T00:00:00,0001-01-01T00:00:00,,633836709T70,Access Basic,true,0774041113,,,,,0
 1377,,,PB0000006,1,Simbarashe Patrick,SPC,Chakauya,M,,,Resigned,1982-09-24T00:00:00,0001-01-01T00:00:00,,661163220C61,Private Basic,false,,,,,,0
 1378,,,PB0000006,2,Michelle,Anotida,Chakauya,F,,,Resigned,2008-01-19T00:00:00,0001-01-01T00:00:00,,752070552Q61,Private Basic,true,,,,,,0
 1379,,,PB0000006,3,Marshal,Anesu,Chakauya,M,,,Resigned,2009-12-13T00:00:00,0001-01-01T00:00:00,,632659062S61,Private Basic,true,,,,,,0
@@ -1958,8 +1958,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 2411,,,AB0000236,3,Luckson ,LM,Madzuramende,M,,,Active,2000-07-17T00:00:00,0001-01-01T00:00:00,,632165662N15,Access Basic,true,263772716590,,,,,0
 2412,,,AB0000236,4,Tinotenda ,TM,Madzuramende,F,,,Active,2007-07-19T00:00:00,0001-01-01T00:00:00,,25162450N15,Access Basic,true,263772716590,,,,,0
 2413,,,AB0000236,5,Veronica R,VRM,Madzuramende,F,,,Active,1948-06-29T00:00:00,0001-01-01T00:00:00,,14026300C15,Access Basic,true,263772716590,,,,,0
-2414,,,AB0000237,1,Elias ,EG,Gutsa,M,,,Active,1976-03-28T00:00:00,0001-01-01T00:00:00,,63901201B18,Access Basic,false,263772468760,,,,,0
-2415,,,AB0000237,2,Peggymay,PG,Gutsa,F,,,Active,1972-04-25T00:00:00,0001-01-01T00:00:00,,631075518Z75,Access Basic,true,263772468760,,,,,0
+2414,,,AB0000237,1,Elias ,EG,Gutsa,M,,,Suspended,1976-03-28T00:00:00,0001-01-01T00:00:00,,63901201B18,Access Basic,false,263772468760,,,,,0
+2415,,,AB0000237,2,Peggymay,PG,Gutsa,F,,,Suspended,1972-04-25T00:00:00,0001-01-01T00:00:00,,631075518Z75,Access Basic,true,263772468760,,,,,0
 2416,,,AB0000238,1,Michael,MH,Haruperi,M,,,Active,1969-05-09T00:00:00,0001-01-01T00:00:00,,63588149C50,Access Basic,false,263774066629,,,,,0
 2417,,,AB0000238,2,Charity ,CH,Haruperi,F,,,Active,1971-05-20T00:00:00,0001-01-01T00:00:00,,50064434M50,Access Basic,true,263774066629,,,,,0
 2418,,,AB0000238,3,Tanatswa M,TMH,Haruperi,M,,,Active,2008-05-21T00:00:00,0001-01-01T00:00:00,,a430,Access Basic,true,263774066629,,,,,0
@@ -2420,9 +2420,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 2889,,,PB0000048,1,Alison ,AP,Phiri,F,,,Resigned,1997-06-08T00:00:00,0001-01-01T00:00:00,,58319973Z58,Private Basic,false,263783369786,,,,,0
 2890,,,PB0000048,2,Munyaradzi,MM,Mawere,M,,,Resigned,1991-12-13T00:00:00,0001-01-01T00:00:00,,29275037R70,Private Basic,true,263783369786,,,,,0
 2891,,,PB0000048,3,Natalie,NM,Mawere,F,,,Resigned,2021-06-05T00:00:00,0001-01-01T00:00:00,,a662,Private Basic,true,263783369786,,,,,0
-2892,,,AB0000296,1,Faith ,FK,Kanyanha,F,,,Suspended,1982-12-06T00:00:00,0001-01-01T00:00:00,,631211045L63,Access Basic,false,263712777743,,,,,0
-2893,,,AB0000296,2,Tapuwa F,TFK,Kanyanha,M,,,Suspended,1982-02-13T00:00:00,0001-01-01T00:00:00,,752000822X75,Access Basic,true,263712777743,,,,,0
-2894,,,AB0000296,3,Dylan ,DK,Kanyanha,M,,,Suspended,2006-07-23T00:00:00,0001-01-01T00:00:00,,6.32496785E+83,Access Basic,true,263712777743,,,,,0
+2892,,,AB0000296,1,Faith ,FK,Kanyanha,F,,,Active,1982-12-06T00:00:00,0001-01-01T00:00:00,,631211045L63,Access Basic,false,263712777743,,,,,0
+2893,,,AB0000296,2,Tapuwa F,TFK,Kanyanha,M,,,Active,1982-02-13T00:00:00,0001-01-01T00:00:00,,752000822X75,Access Basic,true,263712777743,,,,,0
+2894,,,AB0000296,3,Dylan ,DK,Kanyanha,M,,,Active,2006-07-23T00:00:00,0001-01-01T00:00:00,,6.32496785E+83,Access Basic,true,263712777743,,,,,0
 2895,,,AB0000297,1,Bongeka ,BK,Makovere,F,,,Resigned,2000-01-11T00:00:00,0001-01-01T00:00:00,,662002179K66,Access Basic,false,263780489835,,,,,0
 2896,,,AB0000297,2,Nobuhle ,NN,Ncube,F,,,Resigned,2020-02-09T00:00:00,0001-01-01T00:00:00,,a663,Access Basic,true,263780489835,,,,,0
 2897,,,AB0000298,1,Winfrida,WM,Mubaiwa,F,,,Resigned,1960-11-11T00:00:00,0001-01-01T00:00:00,,58102062P26,Access Basic,false,263783373983,,,,,0
@@ -2917,7 +2917,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 3398,,,GA0000297,3,Mayah,MM,Moyo,F,,,Resigned,2013-12-13T00:00:00,0001-01-01T00:00:00,,a784,Access Basic,true,263773974679,,,,,0
 3399,,,GA0000297,4,Myra,MM,Moyo,F,,,Resigned,2024-07-21T00:00:00,0001-01-01T00:00:00,,a785,Access Basic,true,263773974679,,,,,0
 3400,,,GA0000297,5,Aaliyah,AM,Moyo,F,,,Resigned,2020-02-28T00:00:00,0001-01-01T00:00:00,,a786,Access Basic,true,263773974679,,,,,0
-3401,,,GP0000022,1,Juliana,JN,Ngundu,F,,,Active,1971-05-16T00:00:00,0001-01-01T00:00:00,,08553315F18,Private Basic,false,263716377583/0772311961,,,,,0
+3401,,,GP0000022,1,Juliana,JN,Ngundu,F,,,Active,1971-05-16T00:00:00,0001-01-01T00:00:00,,08553315F18,Private Basic,false,263716377583/0772311961,julianangundu@gmail.com,,,,0
 3402,,,GP0000023,1,Irene,IM,Marange,F,,,Resigned,1970-03-16T00:00:00,0001-01-01T00:00:00,,63793903Y32,Private Basic,false,263776631167,,,,,0
 3405,,,GA0000298,1,Angeline,AS,Sanhani,F,,,Active,1963-04-05T00:00:00,0001-01-01T00:00:00,,63442793G34,Access Basic,false,263716250579/0772808432,,,,,0
 3408,,,GA0000299,1,Tafadzwa ,TT,Tigere,M,,,Resigned,1997-12-16T00:00:00,0001-01-01T00:00:00,,3408118F27,Access Basic,false,263773449266,,,,,0
@@ -3302,9 +3302,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 3794,,,GA0000009,2,Tendai Victor,,Ururu,M,,,Active,1987-09-11T00:00:00,0001-01-01T00:00:00,,a1008,Access Basic,true,263775215417,,,,,0
 3795,,,GA0000009,3,Wadzanai Hillary,WHU,Ururu,F,,,Active,1997-08-04T00:00:00,0001-01-01T00:00:00,,a1009,Access Basic,true,263775215417,,,,,0
 3796,,,GA0000007,2,Faides,FC,Chingoma,F,,,Active,1948-01-06T00:00:00,0001-01-01T00:00:00,,05017958B15,Access Basic,true,,,,,,0
-3797,,,PB0000071,1,Nyaradzo,NF,Foroma,F,,,Active,1977-10-18T00:00:00,0001-01-01T00:00:00,,58171666W77,Private Basic,false,263781570310,,,,,0
-3798,,,PB0000071,2,Tanyaradzwa,TF,Foroma,F,,,Active,2009-08-31T00:00:00,0001-01-01T00:00:00,,582029014G22,Private Basic,true,263781570310,,,,,0
-3799,,,PB0000071,3,Jerry Muchasekwa,JMF,Foroma,M,,,Active,2013-09-27T00:00:00,0001-01-01T00:00:00,,582034332M22,Private Basic,true,263781570310,,,,,0
+3797,,,PB0000071,1,Nyaradzo,NF,Foroma,F,,,Active,1977-10-18T00:00:00,0001-01-01T00:00:00,,58171666W77,Access Basic,false,263781570310,,,,,0
+3798,,,PB0000071,2,Tanyaradzwa,TF,Foroma,F,,,Active,2009-08-31T00:00:00,0001-01-01T00:00:00,,582029014G22,Access Basic,true,263781570310,,,,,0
+3799,,,PB0000071,3,Jerry Muchasekwa,JMF,Foroma,M,,,Active,2013-09-27T00:00:00,0001-01-01T00:00:00,,582034332M22,Access Basic,true,263781570310,,,,,0
 3800,,,PB0000072,1,Tendai Sylvester,TSM,Mugari,M,,,Resigned,1988-09-13T00:00:00,0001-01-01T00:00:00,,58240851X58,Private Basic,false,26377610930,,,,,0
 3801,,,PB0000072,2,Patience,PC,Chabata,F,,,Resigned,1999-07-22T00:00:00,0001-01-01T00:00:00,,632116619F27,Private Basic,true,26377610930,,,,,0
 3802,,,PB0000072,3,Margaret ,MN,Ndhlovu,F,,,Resigned,1959-05-01T00:00:00,0001-01-01T00:00:00,,58045637H26,Private Basic,true,26377610930,,,,,0
@@ -3368,7 +3368,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 3860,,,AB0000466,2,Tinenyasha,TM,Mlauzi,F,,,Resigned,2023-03-02T00:00:00,0001-01-01T00:00:00,,a1043,Access Basic,true,,,,,,0
 3861,,,AB0000466,3,Tendesai ,TM,Mativenga,F,,,Resigned,1965-09-15T00:00:00,0001-01-01T00:00:00,,a1044,Access Basic,true,,,,,,0
 3862,,,PB0000081,1,Shine ,SS,Sekete,F,,,Resigned,1983-09-07T00:00:00,0001-01-01T00:00:00,,43125625D43,Private Basic,false,,,,,,0
-3863,,,AB0000467,1,Melander Machingura,MM,Nyamhunga,F,,,Active,1993-06-22T00:00:00,0001-01-01T00:00:00,,63175093C25,Access Basic,false,,,,,,0
+3863,,,AB0000467,1,Melander Machingura,MM,Nyamhunga,F,,,Active,1993-06-22T00:00:00,0001-01-01T00:00:00,,59175093C25,Access Basic,false,,,,,,0
 3865,,,VAR000117,1,Rufaro A,RAM,Matunga,F,,,Resigned,2004-05-27T00:00:00,0001-01-01T00:00:00,,182001246Q18,Varsity Package,false,,,,,,0
 3866,,,VAR000118,1,Lillian ,LM,Mudzami,F,,,Resigned,2001-12-07T00:00:00,0001-01-01T00:00:00,,04206648S04,Varsity Package,false,,,,,,0
 3867,,,VAR000119,1,Ruramai,RM,Marere,M,,,Resigned,2000-09-23T00:00:00,0001-01-01T00:00:00,,688452,Varsity Package,false,,,,,,0
@@ -4336,10 +4336,10 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 4899,,,PB0000155,1,Ndakaitei ,NG,Gora,F,,,Resigned,1987-12-30T00:00:00,0001-01-01T00:00:00,,631415455W18,Private Basic,false,7.77377e+008,,,,,0
 4900,,,PB0000155,2,Gilmour,GZ,Zaranyika,M,,,Resigned,1979-11-03T00:00:00,0001-01-01T00:00:00,,631060199Y47,Private Basic,true,7.77377e+008,,,,,0
 4901,,,PB0000155,3,Millan,MZ,Zaranyika,M,,,Resigned,2009-09-10T00:00:00,0001-01-01T00:00:00,,632652258X47,Private Basic,true,7.77377e+008,,,,,0
-4902,,,PB0000156,1,Milpah,MM,Mapfumo,F,,,Suspended,1992-05-13T00:00:00,0001-01-01T00:00:00,,59147996Z70,Private Basic,false,7.7471e+008,,,,,0
-4903,,,PB0000156,2,Divine A,DAN,Nyawira,M,,,Suspended,2015-03-06T00:00:00,0001-01-01T00:00:00,,633023668D86,Private Basic,true,7.7471e+008,,,,,0
-4904,,,PB0000156,3,Aubrey T,ATN,Nyawira,M,,,Suspended,2018-09-01T00:00:00,0001-01-01T00:00:00,,633491350D86,Private Basic,true,7.7471e+008,,,,,0
-4905,,,PB0000156,4,Eli M,EN,Nyawira,M,,,Suspended,2024-02-14T00:00:00,0001-01-01T00:00:00,,a1441,Private Basic,true,7.7471e+008,,,,,0
+4902,,,PB0000156,1,Milpah,MM,Mapfumo,F,,,Active,1992-05-13T00:00:00,0001-01-01T00:00:00,,59147996Z70,Private Basic,false,7.7471e+008,,,,,0
+4903,,,PB0000156,2,Divine A,DAN,Nyawira,M,,,Active,2015-03-06T00:00:00,0001-01-01T00:00:00,,633023668D86,Private Basic,true,7.7471e+008,,,,,0
+4904,,,PB0000156,3,Aubrey T,ATN,Nyawira,M,,,Active,2018-09-01T00:00:00,0001-01-01T00:00:00,,633491350D86,Private Basic,true,7.7471e+008,,,,,0
+4905,,,PB0000156,4,Eli M,EN,Nyawira,M,,,Active,2024-02-14T00:00:00,0001-01-01T00:00:00,,a1441,Private Basic,true,7.7471e+008,,,,,0
 4906,,,PB0000157,1,Leroy,LN,Ndlovu,M,,,Resigned,1994-06-27T00:00:00,0001-01-01T00:00:00,,082103255S73,Private Basic,false,,,,,,0
 4907,,,AB0000650,1,Masimba,MM,Manangazira,M,,,Resigned,1962-11-01T00:00:00,0001-01-01T00:00:00,,63152927K18,Access Basic,false,7.75494e+008,,,,,0
 4908,,,AB0000650,2,Nancy,NM,Manangazira,F,,,Resigned,1965-09-20T00:00:00,0001-01-01T00:00:00,,a1453,Access Basic,true,,,,,,0
@@ -4598,7 +4598,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 5166,,,GA0000602,3,Angellah,AM,Matshazi,F,,,Active,2015-01-12T00:00:00,0001-01-01T00:00:00,,a1559,Access Basic,true,,,,,,0
 5167,,,GA0000603,1,Blessing ,BM,Sibanda,F,,,Active,1979-09-11T00:00:00,0001-01-01T00:00:00,,03099719J03,Access Basic,false,7.75614e+008,,,,,0
 5168,,,GA0000604,1,Hamufari,HS,Siziba,M,,,Active,1968-07-31T00:00:00,0001-01-01T00:00:00,,67078744C67,Access Basic,false,7.13314e+008,,,,,0
-5169,,,GA0000604,2,Muchaneta,,K,F,,,Active,1972-12-15T00:00:00,0001-01-01T00:00:00,,67079923J12,Access Basic,true,,,,,,0
+5169,,,GA0000604,2,Muchaneta,,Kwanisai,F,,,Active,1972-12-15T00:00:00,0001-01-01T00:00:00,,67079923J12,Access Basic,true,,,,,,0
 5170,,,GA0000604,3,Anozivashe ,AS,Siziba,M,,,Active,2007-03-16T00:00:00,0001-01-01T00:00:00,,a1560,Access Basic,true,,,,,,0
 5171,,,GA0000604,4,Tadiwanashe ,TS,Siziba,M,,,Active,2001-06-21T00:00:00,0001-01-01T00:00:00,,67173378Q67,Access Basic,true,,,,,,0
 5172,,,GA0000605,1,Dainah ,DH ,Hwanda,F,,,Active,1983-02-02T00:00:00,0001-01-01T00:00:00,,63873824T12,Access Basic,false,7.78505e+008,,,,,0
@@ -4671,20 +4671,20 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 5241,,,AB0000721,4,Sharlean,SM,Mapunga,F,,,Resigned,2012-04-09T00:00:00,0001-01-01T00:00:00,,582066959B27,Access Basic,true,,,,,,0
 5242,,,AB0000721,5,Shayne L,SLM,Mapunga,M,,,Resigned,2014-07-23T00:00:00,0001-01-01T00:00:00,,a1594,Access Basic,true,,,,,,0
 5243,,,PB0000163,1,Tobias,TN, Ncube,M,,,Resigned,1972-08-04T00:00:00,0001-01-01T00:00:00,,58127220K58,Private Basic,false,7.72249e+008,,,,,0
-5244,,,PB0000164,1,Marian,MK,Khan,F,,,Resigned,1975-03-14T00:00:00,0001-01-01T00:00:00,,58154224M00,Access Basic,false,7.76815e+008,,,,,0
-5245,,,PB0000164,2,Imraan,IJ,Jammo,M,,,Resigned,1995-07-11T00:00:00,0001-01-01T00:00:00,,292022404F47,Access Basic,true,,,,,,0
-5246,,,PB0000164,3,Gordon,GB,Black,M,,,Resigned,2016-03-21T00:00:00,0001-01-01T00:00:00,,582050794F00,Access Basic,true,,,,,,0
-5247,,,PB0000164,4,Cian,CB,Black,M,,,Resigned,2012-07-11T00:00:00,0001-01-01T00:00:00,,582026467N00,Access Basic,true,,,,,,0
-5248,,,PB0000164,5,Gerald,GB,Black,M,,,Resigned,1976-12-11T00:00:00,0001-01-01T00:00:00,,58154377D00,Access Basic,true,,,,,,0
+5244,,,PB0000164,1,Marian,MK,Khan,F,,,Active,1975-03-14T00:00:00,0001-01-01T00:00:00,,58154224M00,Access Basic,false,7.76815e+008,,,,,0
+5245,,,PB0000164,2,Imraan,IJ,Jammo,M,,,Active,1995-07-11T00:00:00,0001-01-01T00:00:00,,292022404F47,Access Basic,true,,,,,,0
+5246,,,PB0000164,3,Gordon,GB,Black,M,,,Active,2016-03-21T00:00:00,0001-01-01T00:00:00,,582050794F00,Access Basic,true,,,,,,0
+5247,,,PB0000164,4,Cian,CB,Black,M,,,Active,2012-07-11T00:00:00,0001-01-01T00:00:00,,582026467N00,Access Basic,true,,,,,,0
+5248,,,PB0000164,5,Gerald,GB,Black,M,,,Active,1976-12-11T00:00:00,0001-01-01T00:00:00,,58154377D00,Access Basic,true,,,,,,0
 5249,,,AB0000722,1,Nomusa,NN,Ncube,F,,,Active,1976-03-05T00:00:00,0001-01-01T00:00:00,,58169112V58,Access Basic,false,7.73301e+008,,,,,0
 5250,,,AB0000722,2,Chiedza N,CNS,Sanzu,F,,,Active,2009-11-16T00:00:00,0001-01-01T00:00:00,,a1595,Access Basic,true,,,,,,0
-5251,,,AB0000723,1,Livingstone,LC,Chihlaba,M,,,Suspended,1975-12-01T00:00:00,0001-01-01T00:00:00,,58172843A58,Acess Basic + Funeral,false,7.75535e+008,,,,,0
+5251,,,AB0000723,1,Livingstone,LC,Chihlaba,M,,,Active,1975-12-01T00:00:00,0001-01-01T00:00:00,,58172843A58,Acess Basic + Funeral,false,7.75535e+008,,,,,0
 5252,,,AB0000724,1,Patricia,PTM,Matangira,F,,,Resigned,1994-02-09T00:00:00,0001-01-01T00:00:00,,58289143M07,Access Basic,false,7.18486e+008,,,,,0
 5253,,,AB0000724,2,Miguel K,MKM,Matangira,M,,,Resigned,2018-05-08T00:00:00,0001-01-01T00:00:00,,a1596,Access Basic,true,,,,,,0
 5254,,,AB0000725,1,Elizabeth,EM,Manyau,F,,,Resigned,1999-07-09T00:00:00,0001-01-01T00:00:00,,58324826Z34,Access Basic,false,7.76156e+008,,,,,0
 5255,,,AB0000725,2,Caien,CN,Ncube,F,,,Resigned,2024-03-15T00:00:00,0001-01-01T00:00:00,,a1597,Access Basic,true,,,,,,0
 5256,,,AB0000726,1,Nonhlanhla,NAP,Phiri,F,,,Resigned,1996-10-14T00:00:00,0001-01-01T00:00:00,,582001959Z58,Access Basic,false,7.8449e+008,,,,,0
-5257,,,AB0000727,1,Cynthia Tendai,CTM,Murombedzi,F,,,Suspended,1982-04-10T00:00:00,0001-01-01T00:00:00,,58193446v71,Access Basic,false,7.72925e+008,,,,,0
+5257,,,AB0000727,1,Cynthia Tendai,CTM,Murombedzi,F,,,Active,1982-04-10T00:00:00,0001-01-01T00:00:00,,58193446v71,Access Basic,false,7.72925e+008,,,,,0
 5258,,,AB0000728,1,Rhoda,RM,Mugarisi,F,,,Resigned,1979-12-18T00:00:00,0001-01-01T00:00:00,,77016669V77,Access Basic,false,7.76032e+008,,,,,0
 5259,,,AB0000728,2,Trish,TT,Tapera,F,,,Resigned,2012-10-12T00:00:00,0001-01-01T00:00:00,,582030869Y07,Access Basic,true,,,,,,0
 5260,,,AB0000728,3,Jayden,JT,Tapera,M,,,Resigned,2016-12-02T00:00:00,0001-01-01T00:00:00,,582071800N07,Access Basic,true,,,,,,0
@@ -5147,7 +5147,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 5729,,,AB0000862,2,Learnmore,LM,Mukumene,M,,,Resigned,2010-08-20T00:00:00,0001-01-01T00:00:00,,a1813,Access Basic,true,263774063007,,,,,0
 5730,,,AB0000863,1,Mitiyabo,MN,Nkomo,F,,,Active,1970-08-05T00:00:00,0001-01-01T00:00:00,,3062409000,Access Basic,false,263772213867,,,,,0
 5731,,,AB0000863,2,Ndakaziva,NM,Mataga,F,,,Active,1951-06-04T00:00:00,0001-01-01T00:00:00,,03022471T03,Access Basic,true,263772213867,,,,,0
-5732,,,AB0000864,1,Petty,PZ,Zvoma,F,,,Suspended,1960-05-05T00:00:00,0001-01-01T00:00:00,,63271569T32,Access Basic,false,263775070366,,,,,0
+5732,,,AB0000864,1,Petty,PZ,Zvoma,F,,,Active,1960-05-05T00:00:00,0001-01-01T00:00:00,,63271569T32,Access Basic,false,263775070366,,,,,0
 5733,,,AB0000865,1,Amanda,AN,Ncube,F,,,Resigned,2001-03-16T00:00:00,0001-01-01T00:00:00,,58325894K58,Access Basic,false,263782838869,,,,,0
 5734,,,AB0000865,2,Grace Minenhle,GMM,Mukozho,F,,,Resigned,2023-01-08T00:00:00,0001-01-01T00:00:00,,a1819,Access Basic,true,263782838869,,,,,0
 5735,,,AB0000865,3,Loyce,LC,Chibanda,F,,,Resigned,1967-02-03T00:00:00,0001-01-01T00:00:00,,a1816,Access Basic,true,263782838869,,,,,0
@@ -5271,8 +5271,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 5858,,,AB0000893,1,Blessing,BM,Mandemo,F,,,Resigned,1999-08-25T00:00:00,0001-01-01T00:00:00,,272001844C27,Access Basic,false,263713732461,,,,,0
 5859,,,AB0000893,2,Rawando,RC,Chawira,M,,,Resigned,1998-07-18T00:00:00,0001-01-01T00:00:00,,a1858,Access Basic,true,263713732461,,,,,0
 5860,,,AB0000893,3,Juan A,JAC,Chawira,M,,,Resigned,2022-05-15T00:00:00,0001-01-01T00:00:00,,a1859,Access Basic,true,263713732461,,,,,0
-5861,,,RB0000019,1,Benjamin,BM,Magumise,M,,,Suspended,1952-06-29T00:00:00,0001-01-01T00:00:00,,08231044L2,Private Basic,false,263773665687,,,,,0
-5862,,,RB0000019,2,Peggy,PM,Magumise,F,,,Suspended,1958-10-09T00:00:00,0001-01-01T00:00:00,,220332036P27,Private Basic,true,263773665687,,,,,0
+5861,,,RB0000019,1,Benjamin,BM,Magumise,M,,,Active,1952-06-29T00:00:00,0001-01-01T00:00:00,,08231044L2,Private Basic,false,263773665687,,,,,0
+5862,,,RB0000019,2,Peggy,PM,Magumise,F,,,Active,1958-10-09T00:00:00,0001-01-01T00:00:00,,220332036P27,Private Basic,true,263773665687,,,,,0
 5863,,,AB0000894,1,Pretty,PN,Nunu,F,,,Resigned,1996-06-17T00:00:00,0001-01-01T00:00:00,,082166018N56,Access Basic,false,263782533000,,,,,0
 5864,,,AB0000894,2,Obert,OM,Moyo ,M,,,Resigned,1996-07-06T00:00:00,0001-01-01T00:00:00,,a1860,Access Basic,true,263782533000,,,,,0
 5865,,,AB0000895,1,Sithembile,SM,Moyo ,F,,,Resigned,1995-12-10T00:00:00,0001-01-01T00:00:00,,29299544R29,Access Basic,false,263775407296,,,,,0
@@ -5722,8 +5722,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 6315,,,GA0000775,1,Tanyaradzwa L ,TLM,Mawoko,F,,,Active,1995-05-27T00:00:00,0001-01-01T00:00:00,,43176494W50,Access Basic,false,263783802154,,,,,0
 6316,,,GA0000775,2,Heavenly Joy,HJM,Muza,F,,,Active,2018-04-03T00:00:00,0001-01-01T00:00:00,,a2085,Access Basic,true,263783802154,,,,,0
 6317,,,GA0000775,3,Theresa N,TNS,Saunyama ,F,,,Active,1966-09-15T00:00:00,0001-01-01T00:00:00,,a2086,Access Basic,true,263783802154,,,,,0
-6318,,,GP0000053,1,Kuda Virginia,KVM,Magonjo,F,,,Resigned,1966-10-25T00:00:00,0001-01-01T00:00:00,,43023246X22,Private Basic,false,0773523967,,,,,0
-6319,,,GP0000053,2,Marianne  Varaidzo,MVT,Tonde,F,,,Resigned,1990-01-28T00:00:00,0001-01-01T00:00:00,,4.3156492E+52,Private Basic,true,0773523967,,,,,0
+6318,,,GP0000053,1,Kuda Virginia,KVM,Magonjo,F,,,Active,1966-10-25T00:00:00,0001-01-01T00:00:00,,43023246X22,Private Basic,false,0773523967,,,,,0
+6319,,,GP0000053,2,Marianne  Varaidzo,MVT,Tonde,F,,,Active,1990-01-28T00:00:00,0001-01-01T00:00:00,,4.3156492E+52,Private Basic,true,0773523967,,,,,0
 6320,,,GP0000054,1,Joyce ,JZ,Zharare,F,,,Active,1960-02-10T00:00:00,0001-01-01T00:00:00,,27050356K27,Private Basic,false,,,,,,0
 6321,,,GA0000776,1,Ivy ,IZ,Zvomuya,F,,,Active,1989-10-17T00:00:00,0001-01-01T00:00:00,,631415161B25,Access Basic,false,263772591047,,,,,0
 6322,,,GA0000776,2,Siroka,SM,Madanire,F,,,Active,1988-10-10T00:00:00,0001-01-01T00:00:00,,631394766H23,Access Basic,true,263772591047,,,,,0
@@ -5989,9 +5989,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 6587,,,GA0000856,6,Redfan ,RC,Chiparaushe,M,,,Active,1958-03-14T00:00:00,0001-01-01T00:00:00,,58025132V38,Access Basic,true,263715324530,,,,,0
 6588,,,GP0000057,1,Catherine Kuziwa,CKC,Chimusoro,F,,,Resigned,1971-06-08T00:00:00,0001-01-01T00:00:00,,3.4044536E+54,Private Basic,false,263772266250,,,,,0
 6589,,,GP0000057,2,Patricia ,PZ,Zimucha,F,,,Resigned,1988-06-11T00:00:00,0001-01-01T00:00:00,,18119478J18,Private Basic,true,263772266250,,,,,0
-6590,,,AB0000948,1,Milvette Miranda,, Chishakwe,F,,,Suspended,1995-06-03T00:00:00,0001-01-01T00:00:00,,42265313G75,Access Basic,false,263788264656,,,,,0
-6591,,,AB0000948,2,Godfrey,GM,Chishakwe,M,,,Suspended,1957-08-20T00:00:00,0001-01-01T00:00:00,,75042474F75,Access Basic,true,263788264656,,,,,0
-6592,,,AB0000948,3,Thamary,TC,Chishakwe,F,,,Suspended,1966-06-25T00:00:00,0001-01-01T00:00:00,,75143019T50,Access Basic,true,263788264656,,,,,0
+6590,,,AB0000948,1,Milvette Miranda,, Chishakwe,F,,,Active,1995-06-03T00:00:00,0001-01-01T00:00:00,,42265313G75,Access Basic,false,263788264656,,,,,0
+6591,,,AB0000948,2,Godfrey,GM,Chishakwe,M,,,Active,1957-08-20T00:00:00,0001-01-01T00:00:00,,75042474F75,Access Basic,true,263788264656,,,,,0
+6592,,,AB0000948,3,Thamary,TC,Chishakwe,F,,,Active,1966-06-25T00:00:00,0001-01-01T00:00:00,,75143019T50,Access Basic,true,263788264656,,,,,0
 6593,,,AB0000949,1,Haziel,HS,Sekiwa,F,,,Resigned,1991-03-02T00:00:00,0001-01-01T00:00:00,,7.92002406E+35,Access Basic,false,263772373121,,,,,0
 6594,,,AB0000949,2,Zororo B,ZS,Sekiwa,M,,,Resigned,1982-09-09T00:00:00,0001-01-01T00:00:00,,a2228,Access Basic,true,263772373121,,,,,0
 6595,,,AB0000949,3,Zoe B,ZBS,Sekiwa,M,,,Resigned,2010-08-21T00:00:00,0001-01-01T00:00:00,,a2229,Access Basic,true,263772373121,,,,,0
@@ -6016,7 +6016,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 6616,,,AB0000952,2,Denford,DM,Masiya,M,,,Resigned,1966-05-29T00:00:00,0001-01-01T00:00:00,,14075185N14,Access Basic,true,263772623958,,,,,0
 6617,,,AB0000952,3,Dhana ,DM,Masiya,F,,,Resigned,2010-07-26T00:00:00,0001-01-01T00:00:00,,a2238,Access Basic,true,263772623958,,,,,0
 6618,,,AB0000952,4,Sheluzani Destiny ,SDM,Masiya,F,,,Resigned,2016-05-31T00:00:00,0001-01-01T00:00:00,,a2239,Access Basic,true,263772623958,,,,,0
-6619,,,RB0000021,1,Patricia Mae,PMD,Dhlakama,F,,,Suspended,1950-05-28T00:00:00,0001-01-01T00:00:00,,63505648C48,Prestige Basic,false,263774069902,,,,,0
+6619,,,RB0000021,1,Patricia Mae,PMD,Dhlakama,F,,,Active,1950-05-28T00:00:00,0001-01-01T00:00:00,,63505648C48,Prestige Basic,false,263774069902,pmdhlakama5@gmail.com,,,,0
 6620,,,AB0000953,1,Netsai,NH,Hungwe,F,,,Resigned,1988-10-10T00:00:00,0001-01-01T00:00:00,,67134954A67,Access Basic,false,263783111254,,,,,0
 6621,,,AB0000954,1,Florence,FH,Hungwe,F,,,Resigned,1996-07-26T00:00:00,0001-01-01T00:00:00,,67153702D67,Access Basic,false,263776695450,,,,,0
 6622,,,AB0000955,1,Majury,MM,Magagana,F,,,Resigned,1980-05-20T00:00:00,0001-01-01T00:00:00,,12082430A12,Access Basic,false,263773843735,,,,,0
@@ -6177,7 +6177,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 6779,,,GA0000890,5,Selena ,SV,Venganai,F,,,Active,2020-04-01T00:00:00,0001-01-01T00:00:00,,a2309,Access Basic,true,263773522953,,,,,0
 6780,,,GA0000890,6,Artwell ,AV,Venganai,M,,,Active,2024-02-08T00:00:00,0001-01-01T00:00:00,,a2310,Access Basic,true,263773522953,,,,,0
 6781,,,GA0000890,7,Martha ,MV,Venganai,F,,,Active,1955-10-16T00:00:00,0001-01-01T00:00:00,,a2311,Access Basic,true,263773522953,,,,,0
-6782,,,GA0000891,1,Tariro ,TM,Muzimbandi ,F,,,Active,1991-04-04T00:00:00,0001-01-01T00:00:00,,67083049G67,Access Basic,false,263778357597,,,,,0
+6782,,,GA0000891,1,Tariro ,TM,Muzimbande,F,,,Active,1991-04-04T00:00:00,0001-01-01T00:00:00,,67083049G67,Access Basic,false,263778357597,,,,,0
 6783,,,GA0000891,2,Anesuishe Blessing ,AB,Sik,F,,,Active,2012-12-31T00:00:00,0001-01-01T00:00:00,,a2312,Access Basic,true,263778357597,,,,,0
 6784,,,GA0000892,1,Nelson,NP,Pakete,M,,,Resigned,1982-03-14T00:00:00,0001-01-01T00:00:00,,11062146W11,Access Basic,false,263783606661,,,,,0
 6785,,,GA0000892,2,Nelson Junior ,NJP,Pakete,M,,,Resigned,2023-07-31T00:00:00,0001-01-01T00:00:00,,a2313,Access Basic,true,263783606661,,,,,0
@@ -6745,7 +6745,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 7364,,,GA0000972,1,Kudzai,KM,Mutakwa,M,,,Active,1985-12-27T00:00:00,0001-01-01T00:00:00,,22240894J22,Access Basic,false,,,,,,0
 7365,,,GA0000972,2,Dzidzai Daylight ,DDS,Shumba,F,,,Active,1990-11-02T00:00:00,0001-01-01T00:00:00,,12123723J12,Access Basic,true,,,,,,0
 7366,,,GA0000973,1,Fungai,FM,Murerekwa,M,,,Active,1978-11-14T00:00:00,0001-01-01T00:00:00,,58194360N42,Access Basic,false,,,,,,0
-7367,,,GA0000974,1,Ledwina ,LM,Mhike,F,,,Active,1977-02-13T00:00:00,0001-01-01T00:00:00,,86014971H86,Access Basic,false,,,,,,0
+7367,,,GA0000974,1,Ledwina ,LM,Mhike,F,,,Active,1977-02-13T00:00:00,0001-01-01T00:00:00,,86014971H86,Access Basic,false,0777782637,,,,,0
 7368,,,GA0000975,1,Agness,AK,Kimu,F,,,Active,1972-12-04T00:00:00,0001-01-01T00:00:00,,702045667Q70,Access Basic,false,,,,,,0
 7369,,,GA0000976,1,Patience ,PC,Chimhandamba,F,,,Active,1988-01-03T00:00:00,0001-01-01T00:00:00,,22227494T22,Access Basic,false,,,,,,0
 7370,,,GA0000977,1,Josephine ,JD,Dzirutwe,F,,,Active,1964-10-03T00:00:00,0001-01-01T00:00:00,,50026802H50,Access Basic,false,,,,,,0
@@ -7248,7 +7248,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 7887,,,GA0001057,1,Juliet ,JK ,Katsande ,F,,,Active,1964-09-06T00:00:00,0001-01-01T00:00:00,,63576065S48,Access Basic,false,263773653808,,,,,0
 7888,,,GA0001058,1,Chiedza ,CM,Mapuranga ,F,,,Active,1981-06-04T00:00:00,0001-01-01T00:00:00,,13158586K13,Access Basic,false,263780311119,,,,,0
 7889,,,GA0001059,1,Lynette ,LM,Majichi ,F,,,Resigned,1980-12-02T00:00:00,0001-01-01T00:00:00,,80054925X42,Access Basic,false,263785963778,,,,,0
-7893,,,RB0000025,1,Beata ,BS,Shambare,F,,,Suspended,1949-03-24T00:00:00,0001-01-01T00:00:00,,7002103770,Private Basic,false,,,,,,0
+7893,,,RB0000025,1,Beata ,BS,Shambare,F,,,Active,1949-03-24T00:00:00,0001-01-01T00:00:00,,7002103770,Private Basic,false,263777006333,,,,,0
 7895,,,GA0001060,1,Susan ,SM,Magutorima ,F,,,Active,1988-03-13T00:00:00,0001-01-01T00:00:00,,58228376M22,Access Basic,false,263778250898,,,,,0
 7896,,,GA0001060,2,Wayne ,WC,Chiwara,M,,,Active,2010-06-09T00:00:00,0001-01-01T00:00:00,,a2852,Access Basic,true,263778250898,,,,,0
 7897,,,GA0001061,1,Onias ,OK,Karimatsenga,M,,,Active,1987-08-22T00:00:00,0001-01-01T00:00:00,,45183830H45,Access Basic,false,263782107145,,,,,0
@@ -7942,7 +7942,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 8617,,,AB0001246,1,Knowledge ,KM ,Maele ,M,,,Resigned,1998-02-12T00:00:00,0001-01-01T00:00:00,,37107877Y38,Access Basic,false,263775417339,,,,,0
 8618,,,AB0001246,2,Mary ,MM,Maruku ,F,,,Resigned,2000-01-01T00:00:00,0001-01-01T00:00:00,,a3220,Access Basic,true,263775417339,,,,,0
 8619,,,AB0001247,1,Eustina ,EH ,Huna ,F,,,Active,1974-09-05T00:00:00,0001-01-01T00:00:00,,29173361Z58,Access Basic,false,263772619031,,,,,0
-8621,,,AB0001248,1,Rosemary ,RC,Chihombori ,F,,,Suspended,1968-01-02T00:00:00,0001-01-01T00:00:00,,29139604G13,Acess Basic + Funeral,false,,,,,,0
+8621,,,AB0001248,1,Rosemary ,RC,Chihombori ,F,,,Active,1968-01-02T00:00:00,0001-01-01T00:00:00,,29139604G13,Acess Basic + Funeral,false,,,,,,0
 8622,,,AB0001249,1,Beritha Ivy ,BIM ,Maphosa ,F,,,Active,1965-03-06T00:00:00,0001-01-01T00:00:00,,22080499R12,Access Basic,false,,,,,,0
 8623,,,AB0001249,2,Serie Light ,SLM ,Maphosa ,F,,,Active,2022-12-02T00:00:00,0001-01-01T00:00:00,,582134398E 03,Access Basic,true,,,,,,0
 8624,,,AB0001249,3,Mthulisi F,MFM ,Maphosa ,M,,,Active,1994-08-11T00:00:00,0001-01-01T00:00:00,,58291339A03,Access Basic,true,,,,,,0
@@ -7988,7 +7988,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 8667,,,GA0001248,3,Nenyasha,NN,Nyamashuka ,F,,,Active,2014-03-19T00:00:00,0001-01-01T00:00:00,,a3237,Access Basic,true,263714041140,,,,,0
 8668,,,GA0001249,1,Synodia ,SC,Chinoona,F,,,Resigned,1992-08-10T00:00:00,0001-01-01T00:00:00,,75458327V75,Access Basic,false,263783577478,,,,,0
 8669,,,GA0001249,2,Tacey,TC,Chitate,F,,,Resigned,2018-03-04T00:00:00,0001-01-01T00:00:00,,a3238,Access Basic,true,263783577478,,,,,0
-8670,,,PB0000222,1,Doreen,DM,Mhlanga,F,,,Suspended,1975-01-05T00:00:00,0001-01-01T00:00:00,,42137180G42,Private Basic,false,263772132108,,,,,0
+8670,,,PB0000222,1,Doreen,DM,Mhlanga,F,,,Active,1975-01-05T00:00:00,0001-01-01T00:00:00,,42137180G42,Private Basic,false,263772132108,,,,,0
 8671,,,AB0001251,1,Tatenda E,TES,Sithole ,F,,,Resigned,1993-09-09T00:00:00,0001-01-01T00:00:00,,59147628Z13,Access Basic,false,263775970157,,,,,0
 8672,,,AB0001252,1,Venencia,VM,Magwenjere,F,,,Resigned,1972-08-08T00:00:00,0001-01-01T00:00:00,,47120685K47,Access Basic,false,263777101655,,,,,0
 8673,,,GA0000655,3,Nelson,NC,Chikowore,M,,,Active,1959-06-12T00:00:00,0001-01-01T00:00:00,,63151823K24,Access Basic,true,,,,,,0
@@ -8244,10 +8244,10 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 8930,,,GA0001329,1,Mavis,MM,Masote,F,,,Resigned,1981-05-05T00:00:00,0001-01-01T00:00:00,,38145457C37,Access Basic,false,263779466623,,,,,0
 8931,,,GA0001329,2,Tadiwanashe,TM,Masote,F,,,Resigned,2010-09-11T00:00:00,0001-01-01T00:00:00,,a3379,Access Basic,true,263779466623,,,,,0
 8932,,,GA0000099,5,Rumbidzai,RZ,Zharare,F,,,Resigned,2012-12-31T00:00:00,0001-01-01T00:00:00,,31/12/12,Access Basic,true,263773426111,,,,,0
-8933,,,INDIP00055,1,Takawira Muchineripi ,TM,Chipamaunga,M,,,Suspended,1974-03-06T00:00:00,0001-01-01T00:00:00,,29154654Q18,Private Care 20,false,,,,,,0
-8934,,,INDIP00055,2,Cynthia,CC,Chipamaunga,F,,,Suspended,1978-04-23T00:00:00,0001-01-01T00:00:00,,29191799G01,Private Care 20,true,,,,,,0
-8935,,,INDIP00055,3,Mazvita,MC,Chipamaunga,F,,,Suspended,2006-06-13T00:00:00,0001-01-01T00:00:00,,292040162H18,Private Care 20,true,,,,,,0
-8936,,,INDIP00055,4,Anesu,AC,Chipamaunga,M,,,Suspended,2002-10-04T00:00:00,0001-01-01T00:00:00,,292018017M18,Private Care 20,true,,,,,,0
+8933,,,INDIP00055,1,Takawira Muchineripi ,TM,Chipamaunga,M,,,Active,1974-03-06T00:00:00,0001-01-01T00:00:00,,29154654Q18,Private Care 20,false,,,,,,0
+8934,,,INDIP00055,2,Cynthia,CC,Chipamaunga,F,,,Active,1978-04-23T00:00:00,0001-01-01T00:00:00,,29191799G01,Private Care 20,true,,,,,,0
+8935,,,INDIP00055,3,Mazvita,MC,Chipamaunga,F,,,Active,2006-06-13T00:00:00,0001-01-01T00:00:00,,292040162H18,Private Care 20,true,,,,,,0
+8936,,,INDIP00055,4,Anesu,AC,Chipamaunga,M,,,Active,2002-10-04T00:00:00,0001-01-01T00:00:00,,292018017M18,Private Care 20,true,,,,,,0
 8937,,,GA0001330,1,Jonathan,JK,Kakwere,M,,,Resigned,1977-03-26T00:00:00,0001-01-01T00:00:00,,59006031P38,Access Basic,false,,,,,,0
 8938,,,GA0001330,2,Vyn EJ,VEJK,Kakwere,M,,,Resigned,2019-10-29T00:00:00,0001-01-01T00:00:00,,a3380,Access Basic,true,,,,,,0
 8939,,,GA0001331,1,Simbarashe,SN,Nyakudya,M,,,Active,1982-05-23T00:00:00,0001-01-01T00:00:00,,86024184X86,Access Basic,false,263774360719,,,,,0
@@ -8306,7 +8306,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 8993,,,GA0001353,2,Zviito,ZP,Psweda,F,,,Active,1983-10-11T00:00:00,0001-01-01T00:00:00,,a3408,Access Basic,true,,,,,,0
 8994,,,GA0001353,3,Procculate,PZ,Zhuwau,F,,,Active,2011-12-16T00:00:00,0001-01-01T00:00:00,,a3409,Access Basic,true,,,,,,0
 8995,,,GA0001353,4,Prixylyney,PZ,Zhuwau,F,,,Active,2013-06-13T00:00:00,0001-01-01T00:00:00,,a3410,Access Basic,true,,,,,,0
-8996,,,GA0001353,5,Prxodence,PZ,Zhuwau,M,,,Active,2018-04-07T00:00:00,0001-01-01T00:00:00,,a3411,Access Basic,true,,,,,,0
+8996,,,GA0001353,5,Prxdence,PZ,Zhuwau,M,,,Active,2018-04-08T00:00:00,0001-01-01T00:00:00,,a3411,Access Basic,true,,,,,,0
 8997,,,GA0001354,1,Ciciliah,CM,Mhlanga,F,,,Active,1983-03-02T00:00:00,0001-01-01T00:00:00,,631239269P49,Access Basic,false,263779284340,,,,,0
 8998,,,GA0001355,1,Grace,GN,Nyamvura,F,,,Active,1968-09-26T00:00:00,0001-01-01T00:00:00,,42122847C42,Access Basic,false,,,,,,0
 8999,,,GA0001355,2,Reginald,RN,Nyamvura,M,,,Active,1997-05-23T00:00:00,0001-01-01T00:00:00,,a3412,Access Basic,true,,,,,,0
@@ -9427,7 +9427,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 10139,,,GA0001668,1,Annamore,AM,Marange,F,,,Resigned,1979-10-11T00:00:00,0001-01-01T00:00:00,,631197340P75,Access Basic,false,263784076019,,,,,0
 10140,,,GA0001668,2,Nabort,NZ,Zvirongedza,M,,,Resigned,2000-01-01T00:00:00,0001-01-01T00:00:00,,a4055,Access Basic,true,263784076019,,,,,0
 10141,,,GA0001668,3,Prisca,PM,Marange,F,,,Resigned,1939-03-03T00:00:00,0001-01-01T00:00:00,,a4056,Access Basic,true,263784076019,,,,,0
-10142,,,GA0001669,1,Shiella,SN,Nhinhi,F,,,Active,1987-03-02T00:00:00,0001-01-01T00:00:00,,59093183T18,Access Basic,false,,,,,,0
+10142,,,GA0001669,1,Shiella,SN,Nhinhi,F,,,Active,1987-03-02T00:00:00,0001-01-01T00:00:00,,59093183T18,Access Basic,false,0774176197,,,,,0
 10145,,,AB0001335,1,Tichaona,TC,Chiparausha,M,,,Active,1974-10-16T00:00:00,0001-01-01T00:00:00,,61026576J61,Access Basic,false,,,,,,0
 10146,,,AB0001335,2,Jane,JC,Chiparausha,F,,,Active,1947-04-17T00:00:00,0001-01-01T00:00:00,,61004460V61,Access Basic,true,,,,,,0
 10147,,,AB0001336,1,Beauty,BZ,Zipingani,F,,,Active,1966-08-02T00:00:00,0001-01-01T00:00:00,,63541582L32,Access Basic,false,,,,,,0
@@ -9459,7 +9459,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 10173,,,AB0001350,4,Stefani,SM,Mafunde,M,,,Active,1959-02-15T00:00:00,0001-01-01T00:00:00,,a4064,Access Basic,true,,,,,,0
 10174,,,GA0001670,1,Simiso,SM,Mlevu,F,,,Active,1986-05-28T00:00:00,0001-01-01T00:00:00,,08799053M73,Access Basic,false,263773675472,,,,,0
 10175,,,GA0001670,2,Denzel,DM,Mlevu,M,,,Active,2007-02-01T00:00:00,0001-01-01T00:00:00,,081000829D73,Access Basic,true,263773675472,,,,,0
-10176,,,GA0001670,3,Sifelani,SM,Mlevu,F,,,Active,2000-01-01T00:00:00,0001-01-01T00:00:00,,a4065,Access Basic,true,263773675472,,,,,0
+10176,,,GA0001670,3,Sifelani,SM,Mlevu,F,,,Active,1974-12-18T00:00:00,0001-01-01T00:00:00,,a4065,Access Basic,true,263773675472,,,,,0
 10177,,,GA0001670,4,Nkosana,NM,Mlevu,M,,,Active,1933-03-14T00:00:00,0001-01-01T00:00:00,,a4066,Access Basic,true,263773675472,,,,,0
 10178,,,GA0001671,1,Vimbai Lilian,VLN,Ndonde,F,,,Active,1988-09-24T00:00:00,0001-01-01T00:00:00,,22252696M04,Access Basic,false,263773098581,,,,,0
 10179,,,GA0001671,2,Larisa P,LPC,Chikozho,F,,,Active,2009-10-09T00:00:00,0001-01-01T00:00:00,,a4067,Access Basic,true,263773098581,,,,,0
@@ -10016,7 +10016,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 10745,,,AB0001406,1,Mack,MS,Sakala,M,,,Active,1980-05-08T00:00:00,0001-01-01T00:00:00,,24116551R24,Access Basic,false,263774377368,,,,,0
 10746,,,AB0001407,1,Abraham Seremiah,AS,Machote,M,,,Active,1980-05-04T00:00:00,0001-01-01T00:00:00,,631196364D07,Access Basic,false,263773112219,,,,,0
 10747,,,AB0001408,1,Simbarashe,SN,Ngombe,M,,,Active,1994-10-14T00:00:00,0001-01-01T00:00:00,,49107156S49,Access Basic,false,263778273712,,,,,0
-10748,,,AB0001409,1,Emmanuel,EM,Masawi,M,,,Resigned,1962-12-06T00:00:00,0001-01-01T00:00:00,,47009352W47,Access Basic,false,263773086880,,,,,0
+10748,,,AB0001409,1,Emmanuel,EM,Masawi,M,,,Active,1962-12-06T00:00:00,0001-01-01T00:00:00,,47009352W47,Access Basic,false,263773086880,,,,,0
 10749,,,AB0001410,1,Sylevester,SN,Ngayisayi,M,,,Active,1970-03-25T00:00:00,0001-01-01T00:00:00,,42127487W42,Access Basic,false,263773086880,,,,,0
 10750,,,AB0001411,1,Branden Mugove,BMM,Manditsvanga,M,,,Active,1996-07-23T00:00:00,0001-01-01T00:00:00,,42276272L42,Access Basic,false,263783649926,,,,,0
 10751,,,AB0001412,1,Patrick,PZ,Zvidza,M,,,Active,1982-04-15T00:00:00,0001-01-01T00:00:00,,66060042S66,Access Basic,false,263773425219,,,,,0
@@ -10204,8 +10204,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 10940,,,GA0001825,1,Promise,PM,Matyangove,F,,,Resigned,2003-06-01T00:00:00,0001-01-01T00:00:00,,222017266P22,Access Basic,false,263778770257,,,,,0
 10941,,,GA0001825,2,Esther,EG,Gangata,F,,,Resigned,2000-01-01T00:00:00,0001-01-01T00:00:00,,a4412,Access Basic,true,,,,,,0
 10942,,,GA0001825,3,Nelson,NM,Matyangove,M,,,Resigned,2000-01-01T00:00:00,0001-01-01T00:00:00,,a4413,Access Basic,true,,,,,,0
-10943,,,GA0001826,1,Lucia,LNC,Chananuka,F,,,Active,1988-11-23T00:00:00,0001-01-01T00:00:00,,75423131N50,Access Basic,false,263773504173,lucia.chananuka.com,,,,0
-10944,,,GA0001826,2,James,JS,Samushong,M,,,Active,2009-02-02T00:00:00,0001-01-01T00:00:00,,a4414,Access Basic,true,,,,,,0
+10943,,,GA0001826,1,Lucia,LNC,Chananuka,F,,,Active,1988-11-23T00:00:00,0001-01-01T00:00:00,,75423131N50,Access Basic + Funeral,false,263773504173,lucia.chananuka.com,,,,0
+10944,,,GA0001826,2,James,JS,Samushonga,M,,,Deceased,2009-02-02T00:00:00,0001-01-01T00:00:00,,a4414,Access Basic + Funeral,true,,,,,,0
 10945,,,GA0001827,1,Vimbai Mitchel,VMV,Vafana,F,,,Active,2000-09-25T00:00:00,0001-01-01T00:00:00,,082074251R77,Access Basic,false,263776195432,veevafana@icloud.com,,,,0
 10946,,,GA0001828,1,Mishel,MM,Munzwa,F,,,Active,1977-08-27T00:00:00,0001-01-01T00:00:00,,752038827G04,Access Basic,false,263782399012,munzwamishel@gmail.com,,,,0
 10947,,,GA0001828,2,Ponziano,PM,Mandizvo,M,,,Active,1993-02-26T00:00:00,0001-01-01T00:00:00,,a4415,Access Basic,true,,,,,,0
@@ -10467,15 +10467,15 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11205,,,GA0001916,3,Cresnerge,CN,Nyasha,F,,,Active,2009-06-14T00:00:00,0001-01-01T00:00:00,,052018560M47,Access Basic,true,,,,,,0
 11206,,,GA0001916,4,Innocent Junior,IJN,Ngoni,M,,,Active,2012-03-06T00:00:00,0001-01-01T00:00:00,,862029545K05,Access Basic,true,,,,,,0
 11207,,,AB0001317,3,Sekani Sibusiso,SSJ,Jonga, ,,,Active,2024-07-21T00:00:00,0001-01-01T00:00:00,,252070356R47,Access Basic,true,263782705789,,,,,0
-11208,,,AB0001455,1,Marko ,MJ,Jakopo,M,,,Suspended,1969-12-17T00:00:00,0001-01-01T00:00:00,,47086957Z47,Access Basic,false,263786271349,,,,,0
-11209,,,AB0001455,2,Moreblessing,MJ,Jakopo,F,,,Suspended,1985-04-09T00:00:00,0001-01-01T00:00:00,,592001843N70,Access Basic,true,263786271349,,,,,0
-11210,,,AB0001455,3,Micheal,MJ,Jakopo,M,,,Suspended,1983-07-24T00:00:00,0001-01-01T00:00:00,,30521,Access Basic,true,263786271349,,,,,0
-11211,,,AB0001456,1,William,WM,Magombedze,M,,,Suspended,1975-05-04T00:00:00,0001-01-01T00:00:00,,83089261N83,Access Basic,false,263774746017,wil.magombedze@gmail.com,,,,0
-11212,,,AB0001456,2,Erina,EM,Matimbira,F,,,Suspended,1965-03-25T00:00:00,0001-01-01T00:00:00,,50023675H50,Access Basic,true,,,,,,0
-11213,,,AB0001456,3,Obert,OG,Gwanya,M,,,Suspended,1955-06-16T00:00:00,0001-01-01T00:00:00,,08445779T83,Access Basic,true,,,,,,0
-11214,,,AB0001456,4,Lucia,LJ,Joseph,F,,,Suspended,1969-09-09T00:00:00,0001-01-01T00:00:00,,32084893H32,Access Basic,true,,,,,,0
-11215,,,RB0000027,1,Racheal,RM,Mhlanga,F,,,Suspended,1953-01-01T00:00:00,0001-01-01T00:00:00,,75067592H29,Prestige Basic,false,263772311505,rachaelsmhlanga@gmail.com,,,,0
-11216,,,RB0000027,2,Zvaidamoyo,ZM,Murasikwa,F,,,Suspended,1969-05-11T00:00:00,0001-01-01T00:00:00,,63788540T42,Prestige Basic,true,263772311505,rachaelsmhlanga@gmail.com,,,,0
+11208,,,AB0001455,1,Marko ,MJ,Jakopo,M,,,Active,1969-12-17T00:00:00,0001-01-01T00:00:00,,47086957Z47,Access Basic,false,263786271349,,,,,0
+11209,,,AB0001455,2,Moreblessing,MJ,Jakopo,F,,,Active,1985-04-09T00:00:00,0001-01-01T00:00:00,,592001843N70,Access Basic,true,263786271349,,,,,0
+11210,,,AB0001455,3,Micheal,MJ,Jakopo,M,,,Active,2023-07-24T00:00:00,0001-01-01T00:00:00,,30521,Access Basic,true,263786271349,,,,,0
+11211,,,AB0001456,1,William,WM,Magombedze,M,,,Active,1975-05-04T00:00:00,0001-01-01T00:00:00,,83089261N83,Access Basic,false,263774746017,wil.magombedze@gmail.com,,,,0
+11212,,,AB0001456,2,Erina,EM,Matimbira,F,,,Active,1965-03-25T00:00:00,0001-01-01T00:00:00,,50023675H50,Access Basic,true,,,,,,0
+11213,,,AB0001456,3,Obert,OG,Gwanya,M,,,Active,1955-06-16T00:00:00,0001-01-01T00:00:00,,08445779T83,Access Basic,true,,,,,,0
+11214,,,AB0001456,4,Lucia,LJ,Joseph,F,,,Active,1969-09-09T00:00:00,0001-01-01T00:00:00,,32084893H32,Access Basic,true,,,,,,0
+11215,,,RB0000027,1,Racheal,RM,Mhlanga,F,,,Active,1953-01-01T00:00:00,0001-01-01T00:00:00,,75067592H29,Prestige Basic,false,263772311505,rachaelsmhlanga@gmail.com,,,,0
+11216,,,RB0000027,2,Zvaidamoyo,ZM,Murasikwa,F,,,Active,1969-05-11T00:00:00,0001-01-01T00:00:00,,63788540T42,Prestige Basic,true,263772311505,rachaelsmhlanga@gmail.com,,,,0
 11217,,,PB0000258,1,Tafadzwa Lizzy,TLM,Murindagomo,F,,,Active,1981-07-11T00:00:00,0001-01-01T00:00:00,,59037759B18,Private Basic,false,263772611116,tatahclean@gmail.com,,,,0
 11218,,,PB0000258,2,Tapiwanashe,TM,Murindagomo,M,,,Active,2015-11-25T00:00:00,0001-01-01T00:00:00,,42333,Private Basic,true,263772611116,tatahclean@gmail.com,,,,0
 11219,,,PB0000258,3,Tadiwanashe,TM,Muchairi,M,,,Active,2003-12-04T00:00:00,0001-01-01T00:00:00,,632349825Q25,Private Basic,true,263772611116,tatahclean@gmail.com,,,,0
@@ -10486,7 +10486,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11224,,,GP0000102,3,Hazel,HZ,Zvigerenani,F,,,Active,2009-07-21T00:00:00,0001-01-01T00:00:00,,632633676Z42,Private Basic,true,,,,,,0
 11225,,,PB0000260,1,Adelaide,AM,Mafukidze,F,,,Active,1985-10-26T00:00:00,0001-01-01T00:00:00,,75369785D75,Private Basic,false,263773398458,adechinoperekwei@gmail.com,,,,0
 11226,,,PB0000260,2,David T,DTC,Chinoperekwei,M,,,Active,1985-08-20T00:00:00,0001-01-01T00:00:00,,75366430G42,Private Basic,true,263773398458,adechinoperekwei@gmail.com,,,,0
-11227,,,PB0000260,3,Mukundi K,MKC,Chinoperekwei,M,,,Active,2021-07-11T00:00:00,0001-01-01T00:00:00,,44388,Private Basic,true,263773398458,adechinoperekwei@gmail.com,,,,0
+11227,,,PB0000260,3,Mukundi K,MKC,Chinoperekwei,M,,,Active,2009-02-13T00:00:00,0001-01-01T00:00:00,,44388,Private Basic,true,263773398458,adechinoperekwei@gmail.com,,,,0
 11228,,,PB0000260,4,Munesu B,MBC,Chinoperekwei,F,,,Active,2023-11-11T00:00:00,0001-01-01T00:00:00,,45241,Private Basic,true,263773398458,adechinoperekwei@gmail.com,,,,0
 11229,,,PB0000261,1,Kundiso,KM,Mabhena,F,,,Active,2001-08-17T00:00:00,0001-01-01T00:00:00,,032016922B03,Private Basic,false,263784860218,kundymabhena@gmail.com,,,,0
 11230,,,GA0001917,1,Emelia,EH,Hove,F,,,Active,1996-03-08T00:00:00,0001-01-01T00:00:00,,631590023T03,Access Basic,false,263714327876,emeliahove@gmail.com,,,,0
@@ -10633,9 +10633,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11383,,,GA0001932,1,Linda,LZ,Ziocha,F,,,Active,1970-01-04T00:00:00,0001-01-01T00:00:00,,63776492Y25,Access Basic,false,263772917630,,,,,0
 11384,,,GA0001932,2,Tiffany M,TMZ,Ziocha,F,,,Active,2009-09-19T00:00:00,0001-01-01T00:00:00,,a4591,Access Basic,true,,,,,,0
 11385,,,PB0000149,2,Jane,JM,Musetekwa,F,,,Active,1970-10-29T00:00:00,0001-01-01T00:00:00,,63995777B63,Private Basic,true,,,,,,0
-11387,,,GA0001933,1,Eunah,EC,Chitimbe,F,,,Active,1965-08-14T00:00:00,0001-01-01T00:00:00,,63579448V47,Access Basic,false,263772235276,,,,,0
-11388,,,GA0001933,2,Luke,LG,Gatsi,M,,,Active,1988-12-24T00:00:00,0001-01-01T00:00:00,,a4592,Access Basic,true,,,,,,0
-11389,,,GA0001933,3,Caroline,CG,Gatsi,F,,,Active,1991-04-30T00:00:00,0001-01-01T00:00:00,,a4593,Access Basic,true,,,,,,0
+11387,,,GA0001933,1,Eunah,EC,Chitimbe,F,,,Resigned,1965-08-14T00:00:00,0001-01-01T00:00:00,,63579448V47,Access Basic,false,263772235276,,,,,0
+11388,,,GA0001933,2,Luke,LG,Gatsi,M,,,Resigned,1988-12-24T00:00:00,0001-01-01T00:00:00,,a4592,Access Basic,true,,,,,,0
+11389,,,GA0001933,3,Caroline,CG,Gatsi,F,,,Resigned,1991-04-30T00:00:00,0001-01-01T00:00:00,,a4593,Access Basic,true,,,,,,0
 11390,,,GA0001934,1,Tanyaradziwa,TT,Takawira,M,,,Active,1966-03-03T00:00:00,0001-01-01T00:00:00,,29111431J26,Access Basic,false,263773108971,takawira1010@gmail.com,,,,0
 11391,,,GA0001934,2,Tendai,TT,Takawira,F,,,Active,1967-11-10T00:00:00,0001-01-01T00:00:00,,58111847A26,Access Basic,true,,,,,,0
 11392,,,GA0001934,3,Lashainne,LH,Hanna,F,,,Active,2021-06-17T00:00:00,0001-01-01T00:00:00,,a4594,Access Basic,true,,,,,,0
@@ -10933,9 +10933,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11701,,,GA0002026,2,Proud,PAN,Ndebele,M,,,Resigned,2017-01-15T00:00:00,0001-01-01T00:00:00,,a4777,Access Basic,true,263717927496,,,,,0
 11702,,,GA0002026,3,Ntokozo,NN,Ndebele,M,,,Resigned,2021-04-07T00:00:00,0001-01-01T00:00:00,,a4778,Access Basic,true,263717927496,,,,,0
 11703,,,GA0002027,1,Olivia,ON,Ndlovu,F,,,Active,1992-09-22T00:00:00,0001-01-01T00:00:00,,73099772Y73,Access Basic,false,263778487654,,,,,0
-11704,,,GA0002027,2,Nqoba,NN,Nkiwane,M,,,Active,2022-02-20T00:00:00,0001-01-01T00:00:00,,a4779,Access Basic,true,263778487654,,,,,0
-11705,,,GA0002027,3,Bekezela,BS,Sibanda,M,,,Active,1992-07-04T00:00:00,0001-01-01T00:00:00,,a4780,Access Basic,true,263778487654,,,,,0
-11706,,,GA0002027,4,Ashley,AS,Sibanda,F,,,Active,2019-07-21T00:00:00,0001-01-01T00:00:00,,a4781,Access Basic,true,263778487654,,,,,0
+11704,,,GA0002027,2,Nqoba,NN,Nkiwane,M,,,Active,2022-02-26T00:00:00,0001-01-01T00:00:00,,082387376V53,Access Basic,true,263778487654,,,,,0
+11705,,,GA0002027,3,Bekezela,BS,Sibanda,M,,,Resigned,1992-07-04T00:00:00,0001-01-01T00:00:00,,a4780,Access Basic,true,263778487654,,,,,0
+11706,,,GA0002027,4,Ashley,AS,Sibanda,F,,,Resigned,2019-07-21T00:00:00,0001-01-01T00:00:00,,a4781,Access Basic,true,263778487654,,,,,0
 11707,,,GA0002028,1,Lilian,LM,Mlala,F,,,Resigned,1993-03-11T00:00:00,0001-01-01T00:00:00,,39067766M39,Access Basic,false,263717041002,,,,,0
 11708,,,GA0002028,2,Descent,DD,Dube,M,,,Resigned,1991-08-31T00:00:00,0001-01-01T00:00:00,,a4782,Access Basic,true,,,,,,0
 11709,,,GA0002028,3,Shayne,SD,Dube,M,,,Resigned,2014-08-31T00:00:00,0001-01-01T00:00:00,,a4783,Access Basic,true,,,,,,0
@@ -10967,17 +10967,17 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11738,,,GP0000105,1,Fadzai ,FS,Sundire,F,,,Resigned,1980-01-17T00:00:00,0001-01-01T00:00:00,,a4791,Access Basic,false,,,,,,0
 11740,,,AB0001503,1,Farai,FN,Nyamhunga,M,,,Active,1993-08-18T00:00:00,0001-01-01T00:00:00,,72001791Q68,Private Basic,false,2630771639401,,,,,0
 11741,,,AB0001504,1,Zeria,ZM,Muringazuva, ,,,Active,1958-01-16T00:00:00,0001-01-01T00:00:00,,08053814V45,Access Basic,false,263772330970,gozchip@gmail.com,,,,0
-11742,,,AB0001505,1,Craig Takudzwa,CTN,Ndineyi,M,,,Active,1993-03-18T00:00:00,0001-01-01T00:00:00,,292001997Z18,Access Basic,false,263776428718,ctndineyi@gmail.com,,,,0
-11743,,,AB0001505,2,Mandy Nyasha,MNC,Chipendo,F,,,Active,1992-10-01T00:00:00,0001-01-01T00:00:00,,082120834A11,Access Basic,true,,,,,,0
-11744,,,AB0001505,3,Joan Mayah,JMN,Ndineyi,F,,,Active,2019-05-01T00:00:00,0001-01-01T00:00:00,,a4792,Access Basic,true,,,,,,0
+11742,,,AB0001505,1,Craig Takudzwa,CTN,Ndineyi,M,,,Resigned,1993-03-18T00:00:00,0001-01-01T00:00:00,,292001997Z18,Access Basic,false,263776428718,ctndineyi@gmail.com,,,,0
+11743,,,AB0001505,2,Mandy Nyasha,MNC,Chipendo,F,,,Resigned,1992-10-01T00:00:00,0001-01-01T00:00:00,,082120834A11,Access Basic,true,,,,,,0
+11744,,,AB0001505,3,Joan Mayah,JMN,Ndineyi,F,,,Resigned,2019-05-01T00:00:00,0001-01-01T00:00:00,,a4792,Access Basic,true,,,,,,0
 11745,,,PB0000272,1,Francis Papa,FPD,Dendere,M,,,Active,1993-04-27T00:00:00,0001-01-01T00:00:00,,632155634N27,Private Basic,false,263779518015,francisdendera@gmail.com,,,,0
 11746,,,PB0000272,2,Tanaka Chimusoro,TC,Chimusoro ,F,,,Active,1994-11-06T00:00:00,0001-01-01T00:00:00,,632432861x48,Private Basic,true,263779518015,francisdendera@gmail.com,,,,0
 11747,,,PB0000272,3,Jermaine Dendere,JD,Dendere,M,,,Active,2018-06-17T00:00:00,0001-01-01T00:00:00,,633606109R27,Private Basic,true,263779518015,francisdendera@gmail.com,,,,0
 11748,,,PB0000272,4,Kyle Dendere ,KD,Dendere,M,,,Active,2021-01-18T00:00:00,0001-01-01T00:00:00,,63360614x27,Private Basic,true,263779518015,francisdendera@gmail.com,,,,0
 11749,,,PB0000272,5,Wayne Mudonzvo,WM,Mudonzo,M,,,Active,2010-07-02T00:00:00,0001-01-01T00:00:00,,632682379M18,Private Basic,true,263779518015,francisdendera@gmail.com,,,,0
 11750,,,PB0000272,6,Beauty Dendere,BD,Dendere ,F,,,Active,1959-04-05T00:00:00,0001-01-01T00:00:00,,63363542P28,Private Basic,true,263779518015,francisdendera@gmail.com,,,,0
-11751,,,PB0000273,1,Marian,MC,Chisango,F,,,Suspended,1969-09-20T00:00:00,0001-01-01T00:00:00,,80028535M80,Private Basic,false,263771522748,,,,,0
-11752,,,PB0000273,2,Eliora M,EMN,Nyovi,F,,,Suspended,2025-02-21T00:00:00,0001-01-01T00:00:00,,a4794,Private Basic,true,,,,,,0
+11751,,,PB0000273,1,Marian,MC,Chisango,F,,,Active,1969-09-20T00:00:00,0001-01-01T00:00:00,,80028535M80,Private Basic,false,263771522748,,,,,0
+11752,,,PB0000273,2,Eliora M,EMN,Nyovi,F,,,Active,2025-02-21T00:00:00,0001-01-01T00:00:00,,a4794,Private Basic,true,,,,,,0
 11753,,,RB0000029,1,John Maxwell,JMC,Chishakwe,M,,,Resigned,1961-06-25T00:00:00,0001-01-01T00:00:00,,75014418K75,Prestige Basic,false,263772713443,jchishakwe@gmail.com,,,,0
 11754,,,AB0001506,1,Courage,CM,Mugari,M,,,Resigned,1995-08-17T00:00:00,0001-01-01T00:00:00,,70279156D15,Access Basic,false,263776795611,,,,,0
 11755,,,AB0001506,2,Precious,PK,Kereke,F,,,Resigned,1999-05-11T00:00:00,0001-01-01T00:00:00,,a4803,Access Basic,true,,,,,,0
@@ -11038,10 +11038,10 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11814,,,ABF0000011,2,Shingirai,SM,Muchenje,F,,,Resigned,2000-01-01T00:00:00,0001-01-01T00:00:00,,a4828,Acess Basic + Funeral,true,,,,,,0
 11815,,,ABF0000011,3,Shalin ,SM,Mashambanhaka,F,,,Resigned,2008-01-21T00:00:00,0001-01-01T00:00:00,,a4829,Acess Basic + Funeral,true,,,,,,0
 11816,,,ABF0000011,4,Michelin,MM,Mashambanhaka,F,,,Resigned,2002-08-18T00:00:00,0001-01-01T00:00:00,,a4830,Acess Basic + Funeral,true,,,,,,0
-11817,,,ABF0000012,1,Tawengwa,TC,Chakanyuka,M,,,Suspended,1978-09-08T00:00:00,0001-01-01T00:00:00,,24117956I24,Acess Basic + Funeral,false,263784998279,chakanyukat35@gmail.com,,,,0
-11818,,,ABF0000012,2,Shane,SC,Chakanyuka,M,,,Suspended,2010-04-26T00:00:00,0001-01-01T00:00:00,,a4832,Acess Basic + Funeral,true,263784998279,chakanyukat35@gmail.com,,,,0
-11819,,,ABF0000012,3,Mukundi,MC,Chakanyuka,M,,,Suspended,2022-09-21T00:00:00,0001-01-01T00:00:00,,a4833,Acess Basic + Funeral,true,263784998279,chakanyukat35@gmail.com,,,,0
-11820,,,ABF0000012,4,Ninah,NC,Chakanyuka,F,,,Suspended,2021-06-28T00:00:00,0001-01-01T00:00:00,,a4834,Acess Basic + Funeral,true,263784998279,chakanyukat35@gmail.com,,,,0
+11817,,,ABF0000012,1,Tawengwa,TC,Chakanyuka,M,,,Resigned,1978-09-08T00:00:00,0001-01-01T00:00:00,,24117956I24,Acess Basic + Funeral,false,263784998279,chakanyukat35@gmail.com,,,,0
+11818,,,ABF0000012,2,Shane,SC,Chakanyuka,M,,,Resigned,2010-04-26T00:00:00,0001-01-01T00:00:00,,a4832,Acess Basic + Funeral,true,263784998279,chakanyukat35@gmail.com,,,,0
+11819,,,ABF0000012,3,Mukundi,MC,Chakanyuka,M,,,Resigned,2022-09-21T00:00:00,0001-01-01T00:00:00,,a4833,Acess Basic + Funeral,true,263784998279,chakanyukat35@gmail.com,,,,0
+11820,,,ABF0000012,4,Ninah,NC,Chakanyuka,F,,,Resigned,2021-06-28T00:00:00,0001-01-01T00:00:00,,a4834,Acess Basic + Funeral,true,263784998279,chakanyukat35@gmail.com,,,,0
 11821,,,PB0000275,1,Promise,PM,Masimba,M,,,Active,2000-07-17T00:00:00,0001-01-01T00:00:00,,631611994A22,Private Basic,false,263778113974,promisemasimbah11@gmail.com,,,,0
 11822,,,ABF0000013,1,Caroline Nyasha,CNM,Mukodza,F,,,Active,1991-09-19T00:00:00,0001-01-01T00:00:00,,752030713M50,Acess Basic + Funeral,false,263774850207,mukodzacaroline@gmail.com,,,,0
 11823,,,ABF0000013,2,Simon,SM,Magumbo,M,,,Active,1973-10-10T00:00:00,0001-01-01T00:00:00,,2214341X22,Acess Basic + Funeral,true,263774850207,mukodzacaroline@gmail.com,,,,0
@@ -11118,10 +11118,10 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11894,,,ABF0000020,2,Tapiwanashe D,TDM,Muzavazi,M,,,Active,2007-09-02T00:00:00,0001-01-01T00:00:00,,a4879,Acess Basic + Funeral,true,,,,,,0
 11895,,,INDIP00056,1,Amos,AT,Tazai,M,,,Suspended,1993-08-18T00:00:00,0001-01-01T00:00:00,,83131121N83,Private Care 20,false,263774138580,amostiza@gmail.com,,,,0
 11896,,,INDIP00056,2,Felisters,FT,Tanyanyiwa,F,,,Suspended,1992-04-29T00:00:00,0001-01-01T00:00:00,,83182427F83,Private Care 20,true,,,,,,0
-11901,,,ABF0000021,1,Girlie,GC,Chikondo,F,,,Suspended,1995-09-12T00:00:00,0001-01-01T00:00:00,,14206150R83,Acess Basic + Funeral,false,263773446988,,,,,0
+11901,,,ABF0000021,1,Girlie,GC,Chikondo,F,,,Active,1995-09-12T00:00:00,0001-01-01T00:00:00,,14206150R83,Acess Basic + Funeral,false,263773446988,,,,,0
 11902,,,ABF0000021,2,Shantel ,SM,Mirirai,F,,,Resigned,2015-12-08T00:00:00,0001-01-01T00:00:00,,a4880,Acess Basic + Funeral,true,263773446988,,,,,0
-11903,,,ABF0000021,3,Natasha,NM,Mirirai,F,,,Suspended,2020-03-28T00:00:00,0001-01-01T00:00:00,,a4881,Acess Basic + Funeral,true,263773446988,,,,,0
-11904,,,ABF0000021,4,Nyla,NM,Mirirai,F,,,Suspended,2025-04-20T00:00:00,0001-01-01T00:00:00,,a4882,Acess Basic + Funeral,true,263773446988,,,,,0
+11903,,,ABF0000021,3,Natasha,NM,Mirirai,F,,,Active,2020-03-28T00:00:00,0001-01-01T00:00:00,,a4881,Acess Basic + Funeral,true,263773446988,,,,,0
+11904,,,ABF0000021,4,Nyla,NM,Mirirai,F,,,Active,2025-04-20T00:00:00,0001-01-01T00:00:00,,a4882,Acess Basic + Funeral,true,263773446988,,,,,0
 11905,,,ABF0000022,1,Promise ,PC,Chipazi,M,,,Resigned,1990-08-20T00:00:00,0001-01-01T00:00:00,,61058486T61,Acess Basic + Funeral,false,263775458529,promisechipazi82@gmail.com,,,,0
 11906,,,ABF0000022,2,Blessing ,BC,Chipazi,F,,,Resigned,2020-03-20T00:00:00,0001-01-01T00:00:00,,a4883,Acess Basic + Funeral,true,263775458529,promisechipazi82@gmail.com,,,,0
 11907,,,ABF0000023,1,Trust,TM,Muzamba,M,,,Resigned,1997-12-24T00:00:00,0001-01-01T00:00:00,,6099418B06,Acess Basic + Funeral,false,263780357175,,,,,0
@@ -11132,7 +11132,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 11912,,,ABF0000025,2,Benson,BL,Lusito,M,,,Resigned,2011-08-11T00:00:00,0001-01-01T00:00:00,,a4886,Acess Basic + Funeral,true,,,,,,0
 11913,,,ABF0000025,3,Tawananyasha,TL,Lusito,M,,,Resigned,2015-10-30T00:00:00,0001-01-01T00:00:00,,a4887,Acess Basic + Funeral,true,,,,,,0
 11914,,,ABF0000026,1,Abel,AL,Lusito,M,,,Active,1982-09-13T00:00:00,0001-01-01T00:00:00,,631179038W63,Acess Basic + Funeral,false,263785988424,lusitoabel5@gmail.com,,,,0
-11915,,,ABF0000027,1,Benjamin,BK,Katuli,M,,,Resigned,1969-03-07T00:00:00,0001-01-01T00:00:00,,70086681Z70,Acess Basic + Funeral,false,263772707144,katulibenjamine@gmail.com,,,,0
+11915,,,ABF0000027,1,Benjamin,BK,Katuli,M,,,Active,1969-03-07T00:00:00,0001-01-01T00:00:00,,70086681Z70,Acess Basic + Funeral,false,263772707144,katulibenjamine@gmail.com,,,,0
 11916,,,GA0001117,8,Vannessa Mirirai,VMC,Chitambira,F,,,Active,2001-07-10T00:00:00,0001-01-01T00:00:00,,632216719K27,Access Basic,true,,,,,,0
 11919,,,CSFAZP00001,1,Amasa,AN,Nhenjana,M,,,Active,1960-11-11T00:00:00,0001-01-01T00:00:00,,08372283G83,Prestige Care 30,false,263772950017,,,,,0
 11920,,,CSFAZP00001,2,Otilida,ON,Nhenjana,F,,,Active,1986-04-02T00:00:00,0001-01-01T00:00:00,,08437679P83,Private Care 20,true,263772950017,,,,,0
@@ -11267,8 +11267,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 12049,,,CSFAZP00032,1,Peter Abel ,PAM,Mugodi,M,,,Active,1958-08-31T00:00:00,0001-01-01T00:00:00,,29038616M12,Executive Care 50,false,263773473772,petermugodi@gmail.com,,,,0
 12050,,,CSFAZP00032,2,Loveness,LM,Mugodi,F,,,Active,1964-11-28T00:00:00,0001-01-01T00:00:00,,27074786P12,Executive Care 50,true,263773473772,petermugodi@gmail.com,,,,0
 12051,,,CSFAZP00032,3,Anashe Charles,ACM,Madyangove,M,,,Active,2011-03-03T00:00:00,0001-01-01T00:00:00,,a4915,Private Basic Premium,true,263773473772,petermugodi@gmail.com,,,,0
-12053,,,CSFAZP00033,1,Daniel,DT,Tsingo,M,,,Active,1969-05-31T00:00:00,0001-01-01T00:00:00,,04052623Z04,Prestige Care 30,false,263772399238,,,,,0
-12054,,,CSFAZP00033,2,Constance,CT,Tsingo,F,,,Active,1969-12-06T00:00:00,0001-01-01T00:00:00,,07046126G04,Executive Care 50,true,263772399238,,,,,0
+12053,,,CSFAZP00033,1,Daniel,DT,Tsingo,M,,,Active,1969-05-31T00:00:00,0001-01-01T00:00:00,,04052623Z04,Private Care 20,false,263772399238,,,,,0
+12054,,,CSFAZP00033,2,Constance,CT,Tsingo,F,,,Active,1969-12-06T00:00:00,0001-01-01T00:00:00,,07046126G04,Prestige Care 30,true,263772399238,,,,,0
 12055,,,CSFAZP00033,3,Tafara DJ,TDJT,Tsingo,M,,,Active,2007-06-26T00:00:00,0001-01-01T00:00:00,,142005563X04,Private Care 20,true,263772399238,,,,,0
 12056,,,CSFAZP00033,4,Kudzaishe E,KET,Tsingo,F,,,Active,1998-12-04T00:00:00,0001-01-01T00:00:00,,1420055557Q04,Private Care 20,true,263772399238,,,,,0
 12057,,,CSFAZP00033,5,Kudakwashe A,KAT,Tsingo,M,,,Active,1991-02-17T00:00:00,0001-01-01T00:00:00,,14198218V04,Private Care 20,true,263772399238,,,,,0
@@ -11334,7 +11334,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 12118,,,PB0000276,3,Micheal,MM,Munemo,M,,,Suspended,1962-12-30T00:00:00,0001-01-01T00:00:00,,a4993,Private Basic,true,,,,,,0
 12119,,,PB0000277,1,Esimu,EH,Hasani,M,,,Resigned,1978-05-13T00:00:00,0001-01-01T00:00:00,,631038551563,Private Basic,false,26377286421,esimuhasani@gmail.com,,,,0
 12120,,,PB0000277,2,Cynthia Nyarai,CNH,Hunda,F,,,Resigned,1982-11-04T00:00:00,0001-01-01T00:00:00,,631317526B47,Private Basic,true,,,,,,0
-12121,,,AB0000237,3,Emmanuel,EG,Gutsa,M,,,Active,2024-03-23T00:00:00,0001-01-01T00:00:00,,633914712E18,Access Basic,true,,,,,,0
+12121,,,AB0000237,3,Emmanuel,EG,Gutsa,M,,,Suspended,2024-03-23T00:00:00,0001-01-01T00:00:00,,633914712E18,Access Basic,true,,,,,,0
 12122,,,GAF0000035,1,Agness,AM,Matare,F,,,Active,1952-10-10T00:00:00,0001-01-01T00:00:00,,67026546Q12,Access Basic + Funeral,false,263777760457,,,,,0
 12123,,,GAF0000036,1,Tinotenda T,TTN,Nyambu,F,,,Active,2002-04-24T00:00:00,0001-01-01T00:00:00,,342008440034,Access Basic + Funeral,false,263713322680,,,,,0
 12124,,,GAF0000037,1,Sibusisiwe,SM,Mudavanhu,F,,,Resigned,1980-03-06T00:00:00,0001-01-01T00:00:00,,58187705E 65,Access Basic + Funeral,false,263775386646,busimuda06@gmail.com,,,,0
@@ -11381,9 +11381,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 12165,,,ABF0000031,1,Farai,FN,Ndihama,M,,,Active,1972-09-18T00:00:00,0001-01-01T00:00:00,,63941413K75,Acess Basic + Funeral,false,263773819600,fndihama@capitallaser.co.zw,,,,0
 12166,,,ABF0000031,2,Linda,LN,Ndihama,F,,,Active,1997-11-29T00:00:00,0001-01-01T00:00:00,,251333635S75,Acess Basic + Funeral,true,,,,,,0
 12167,,,ABF0000031,3,Lionel,LN,Ndihama,M,,,Active,2010-01-01T00:00:00,0001-01-01T00:00:00,,a5017,Acess Basic + Funeral,true,,,,,,0
-12168,,,ABF0000032,1,Washington,WC,Chipaumire,M,,,Active,1969-09-02T00:00:00,0001-01-01T00:00:00,,75189975H75,Acess Basic + Funeral,false,263773939341,wchipaumire@capitaller.co.zw,,,,0
-12169,,,ABF0000032,2,Susan ,SC,Chipaumire,F,,,Active,1974-09-25T00:00:00,0001-01-01T00:00:00,,75808075N75,Acess Basic + Funeral,true,,,,,,0
-12170,,,ABF0000033,1,Christine Tombi,CTN,Nyarirangwe,F,,,Active,1963-03-15T00:00:00,0001-01-01T00:00:00,,50031294Q50,Acess Basic + Funeral,false,263774067112,,,,,0
+12168,,,ABF0000032,1,Washington,WC,Chipaumire,M,,,Resigned,1969-09-02T00:00:00,0001-01-01T00:00:00,,75189975H75,Acess Basic + Funeral,false,263773939341,wchipaumire@capitaller.co.zw,,,,0
+12169,,,ABF0000032,2,Susan ,SC,Chipaumire,F,,,Resigned,1974-09-25T00:00:00,0001-01-01T00:00:00,,75808075N75,Acess Basic + Funeral,true,,,,,,0
+12170,,,ABF0000033,1,Christine Tombi,CTN,Nyarirangwe,F,,,Suspended,1963-03-15T00:00:00,0001-01-01T00:00:00,,50031294Q50,Acess Basic + Funeral,false,263774067112,,,,,0
 12171,,,ABF0000034,1,Benard,BM,Machiva,M,,,Active,1969-08-18T00:00:00,0001-01-01T00:00:00,,83032413X83,Acess Basic + Funeral,false,263779285037,,,,,0
 12172,,,ABF0000034,2,Ratidzo,RM,Machiva,F,,,Active,1971-03-02T00:00:00,0001-01-01T00:00:00,,83088785W83,Acess Basic + Funeral,true,,,,,,0
 12173,,,ABF0000035,1,Kudzai V V,KVVV,Vhinyu,F,,,Active,2000-05-06T00:00:00,0001-01-01T00:00:00,,43202611J43,Acess Basic + Funeral,false,263780271163,kvioletv@gmail.com,,,,0
@@ -11848,9 +11848,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 12650,,,AB0001512,4,Rafael,RM,Madiye,M,,,Awaiting Approval,2012-12-31T00:00:00,0001-01-01T00:00:00,,a5260,Access Basic,true,263778098714,dummy@gmail.com,,,,0
 12651,,,AB0001512,5,Gabriel,GM,Madiye,M,,,Awaiting Approval,2019-06-02T00:00:00,0001-01-01T00:00:00,,a5261,Access Basic,true,263778098714,dummy@gmail.com,,,,0
 12652,,,AB0001512,6,Amani,AM,Madiye,M,,,Awaiting Approval,2024-10-26T00:00:00,0001-01-01T00:00:00,,a5262,Access Basic,true,263778098714,dummy@gmail.com,,,,0
-12653,,,GA0001669,2,Irene,IN,Nhinhi, ,,,Active,1964-06-03T00:00:00,0001-01-01T00:00:00,,63376553G18,Access Basic,true,,,,,,0
-12654,,,GA0001669,3,Rachel T,RTN,Ngara,F,,,Active,2010-11-09T00:00:00,0001-01-01T00:00:00,,RachelTNgara,Access Basic,true,,,,,,0
-12655,,,GA0001669,4,Gerald T,GTN,Ngara, ,,,Active,2017-03-31T00:00:00,0001-01-01T00:00:00,,GeraldTNgara,Access Basic,true,,,,,,0
+12653,,,GA0001669,2,Irene,IN,Nhinhi, ,,,Active,1964-06-03T00:00:00,0001-01-01T00:00:00,,63376553G18,Access Basic,true,0774176197,,,,,0
+12654,,,GA0001669,3,Rachel T,RTN,Ngara,F,,,Active,2010-11-09T00:00:00,0001-01-01T00:00:00,,RachelTNgara,Access Basic,true,0774176197,,,,,0
+12655,,,GA0001669,4,Gerald T,GTN,Ngara, ,,,Active,2017-03-31T00:00:00,0001-01-01T00:00:00,,GeraldTNgara,Access Basic,true,0774176197,,,,,0
 12656,,,GA0000425,5,Mitchel,MP,Pfumbi,F,,,Active,2000-01-01T00:00:00,0001-01-01T00:00:00,,MitchelPfumbi,Access Basic,true,,,,,,0
 12657,,,GA0000425,6,Micaih,MM,Mutika,M,,,Active,2010-01-01T00:00:00,0001-01-01T00:00:00,,MicaihMutika,Access Basic,true,,,,,,0
 12658,,,GA0001005,2,Alex A,AAM,Mushaike,M,,,Resigned,1958-05-13T00:00:00,0001-01-01T00:00:00,,63357230D77,Access Basic,true,,,,,,0
@@ -12044,7 +12044,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 12849,,,GA0000567,3,Anotida,AG,Gonda,M,,,Active,2008-06-20T00:00:00,0001-01-01T00:00:00,,634046373Y75,Access Basic,true,,,,,,0
 12850,,,ABF0000105,1, Matsweruka,MF,Finch,F,,,Active,1966-01-22T00:00:00,0001-01-01T00:00:00,,22111374B66,Acess Basic + Funeral,false,263773861848,,,,,0
 12851,,,ABF0000105,2,Daniel,DF,Finch,M,,,Active,1964-06-25T00:00:00,0001-01-01T00:00:00,,29044356B00,Acess Basic + Funeral,true,,,,,,0
-12852,,,PB0000282,1,Englebert,EM,Munyoro,M,,,Active,1979-04-30T00:00:00,0001-01-01T00:00:00,,71072182W71,Private Basic,false,263772230190,englebertmunyoro@gmail.com,,,,0
+12852,,,PB0000282,1,Englebert,EM,Munyoro,M,,,Suspended,1979-04-30T00:00:00,0001-01-01T00:00:00,,71072182W71,Private Basic,false,263772230190,englebertmunyoro@gmail.com,,,,0
 12853,,,AB0001513,1,Biggie,BZ,Zhuwao,M,,,Active,1961-01-03T00:00:00,0001-01-01T00:00:00,,63315982T70,Access Basic,false,263773905295,,,,,0
 12854,,,AB0001514,1,Japhet,JC,Chagurama,M,,,Active,1974-06-04T00:00:00,0001-01-01T00:00:00,,63926419M45,Access Basic,false,263773028087,,,,,0
 12855,,,AB0001514,2,Grace,GM,Matiwenga,F,,,Active,1982-06-25T00:00:00,0001-01-01T00:00:00,,631199920T45,Access Basic,true,,,,,,0
@@ -12057,9 +12057,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 12862,,,ABF0000106,3,Matipashe K,MKG,Gwature,F,,,Active,2013-03-22T00:00:00,0001-01-01T00:00:00,,582035156H07,Acess Basic + Funeral,true,,,,,,0
 12863,,,ABF0000106,4,Nomufaro D,NDG,Gwature,M,,,Active,2016-05-18T00:00:00,0001-01-01T00:00:00,,582053939Z07,Acess Basic + Funeral,true,,,,,,0
 12864,,,ABF0000106,5,Tamukudza M,TMG,Gwature,M,,,Active,2020-10-19T00:00:00,0001-01-01T00:00:00,,582131665J07,Acess Basic + Funeral,true,,,,,,0
-12865,,,ABF0000107,1,Tsitsi,TM,Mhlanga,F,,,Suspended,1976-02-20T00:00:00,0001-01-01T00:00:00,,14100248F22,Acess Basic + Funeral,false,263772839167,,,,,0
-12866,,,ABF0000107,2,Eltan A,EAM,Mhlanga,M,,,Suspended,2004-04-27T00:00:00,0001-01-01T00:00:00,,632364176P13,Acess Basic + Funeral,true,,,,,,0
-12867,,,ABF0000107,3,Elsie N,ENM,Mhlanga,F,,,Suspended,2006-03-27T00:00:00,0001-01-01T00:00:00,,852000287S13,Acess Basic + Funeral,true,,,,,,0
+12865,,,ABF0000107,1,Tsitsi,TM,Mhlanga,F,,,Active,1976-02-20T00:00:00,0001-01-01T00:00:00,,14100248F22,Acess Basic + Funeral,false,263772839167,,,,,0
+12866,,,ABF0000107,2,Eltan A,EAM,Mhlanga,M,,,Resigned,2004-04-27T00:00:00,0001-01-01T00:00:00,,632364176P13,Acess Basic + Funeral,true,,,,,,0
+12867,,,ABF0000107,3,Elsie N,ENM,Mhlanga,F,,,Active,2006-03-27T00:00:00,0001-01-01T00:00:00,,852000287S13,Acess Basic + Funeral,true,,,,,,0
 12868,,,GAF0000164,1,George James,GJS,Saruchera,M,,,Active,1964-08-09T00:00:00,0001-01-01T00:00:00,,34008150E 34,Access Basic + Funeral,false,263778460826,,,,,0
 12869,,,GAF0000164,2,Lucia,LC,Chapotoka,F,,,Active,1964-08-09T00:00:00,0001-01-01T00:00:00,,50063217P50,Access Basic + Funeral,true,,,,,,0
 12870,,,GAF0000164,3,Letticia,LS,Spinya,F,,,Active,2000-01-01T00:00:00,0001-01-01T00:00:00,,a5354,Access Basic + Funeral,true,,,,,,0
@@ -12552,7 +12552,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 13409,,,GAF0000272,2,Trish,TN,Nyagomba,F,,,Active,1999-01-07T00:00:00,0001-01-01T00:00:00,,a5642,Access Basic + Funeral,true,,,,,,0
 13410,,,GAF0000272,3,Nicole,NT,Towa,F,,,Active,2015-07-30T00:00:00,0001-01-01T00:00:00,,a5643,Access Basic + Funeral,true,,,,,,0
 13411,,,GAF0000272,4,Bradley,BT,Towa,M,,,Active,2019-02-19T00:00:00,0001-01-01T00:00:00,,a5644,Access Basic + Funeral,true,,,,,,0
-13412,,,ABF0000144,1,Maxmillan Nyasha,MNM,Matowa,M,,,Active,2004-09-19T00:00:00,0001-01-01T00:00:00,,633147876M42,Acess Basic + Funeral,false,263787608333,,,,,0
+13412,,,ABF0000144,1,Maxmillan Nyasha,MNM,Matowa,M,,,Suspended,2004-09-19T00:00:00,0001-01-01T00:00:00,,633147876M42,Acess Basic + Funeral,false,263787608333,,,,,0
 13413,,,ABF0000145,1,Monica,MM,Mudzongo,F,,,Active,1974-12-15T00:00:00,0001-01-01T00:00:00,,47115748T47,Acess Basic + Funeral,false,263772916642,,,,,0
 13414,,,ABF0000145,2,Traverous Anotidaishe,TAM,Mudzongo,M,,,Active,2008-04-08T00:00:00,0001-01-01T00:00:00,,632584157Z42,Acess Basic + Funeral,true,263772916642,,,,,0
 13415,,,ABF0000145,3,Tawananyasha Tarpelite,TTM,Mudzongo,F,,,Active,2011-05-16T00:00:00,0001-01-01T00:00:00,,632734646Z42,Acess Basic + Funeral,true,263772916642,,,,,0
@@ -12807,9 +12807,9 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 13669,,,GAF0000351,1,Willard,WM,Mataringe,M,,,Active,1983-11-08T00:00:00,0001-01-01T00:00:00,,83137812L83,Access Basic + Funeral,false,263774624015,,,,,0
 13670,,,GAF0000351,2,Prince,PM,Mataringe,M,,,Active,2022-02-28T00:00:00,0001-01-01T00:00:00,,a5778,Access Basic + Funeral,true,,,,,,0
 13671,,,GAF0000351,3,Maria,MM,Masinire,F,,,Active,1955-06-26T00:00:00,0001-01-01T00:00:00,,a5779,Access Basic + Funeral,true,,,,,,0
-13672,,,GAF0000352,1,Comfort Emmanuel,CES,Saini,M,,,Active,2000-01-01T00:00:00,0001-01-01T00:00:00,,42266414D42,Access Basic + Funeral,false,,,,,,0
-13673,,,GAF0000352,2,Polite N,PNK,Kandini,F,,,Active,1997-12-09T00:00:00,0001-01-01T00:00:00,,a5780,Access Basic + Funeral,true,,,,,,0
-13674,,,GAF0000352,3,Kayla N,KNS,Saini,F,,,Active,2021-05-20T00:00:00,0001-01-01T00:00:00,,a5781,Access Basic + Funeral,true,,,,,,0
+13672,,,GAF0000352,1,Comfort Emmanuel,CES,Saini,M,,,Resigned,2000-01-01T00:00:00,0001-01-01T00:00:00,,42266414D42,Access Basic + Funeral,false,,,,,,0
+13673,,,GAF0000352,2,Polite N,PNK,Kandini,F,,,Resigned,1997-12-09T00:00:00,0001-01-01T00:00:00,,a5780,Access Basic + Funeral,true,,,,,,0
+13674,,,GAF0000352,3,Kayla N,KNS,Saini,F,,,Resigned,2021-05-20T00:00:00,0001-01-01T00:00:00,,a5781,Access Basic + Funeral,true,,,,,,0
 13675,,,GAF0000353,1,Theresa,TK,Kayifa,F,,,Active,1974-09-14T00:00:00,0001-01-01T00:00:00,,63976553F42,Access Basic + Funeral,false,263773505695,,,,,0
 13676,,,GAF0000354,1,Emilda,EM,Mashanda,F,,,Active,1986-10-01T00:00:00,0001-01-01T00:00:00,,14177450W83,Access Basic + Funeral,false,263784693313,,,,,0
 13677,,,GAF0000355,1,Maggie,MM,Mafarachisi,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,75120200Q75,Access Basic + Funeral,false,263773672635,,,,,0
@@ -12832,7 +12832,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 13695,,,INDIP00059,1,Tendai,TR,Rupapa,F,,,Active,1985-04-11T00:00:00,0001-01-01T00:00:00,,43134015Y42,Private Care 20,false,263773403343,,,,,0
 13696,,,INDIP00059,2,Jayden,JR,Rupapa,M,,,Active,2015-08-18T00:00:00,0001-01-01T00:00:00,,633062800N42,Private Care 20,true,263773403343,,,,,0
 13697,,,GA0001863,6,Venissa,VM,Mupingo,F,,,Awaiting Approval,2000-10-23T00:00:00,0001-01-01T00:00:00,,VenissaMupingo,Access Basic,true,,,,,,0
-13698,,,AB0000727,2,Kyden Anashe,KAM,Murombedzi,M,,,Suspended,2024-01-16T00:00:00,0001-01-01T00:00:00,,582133500D71,Access Basic,true,,,,,,0
+13698,,,AB0000727,2,Kyden Anashe,KAM,Murombedzi,M,,,Active,2024-01-16T00:00:00,0001-01-01T00:00:00,,582133500D71,Access Basic,true,,,,,,0
 13699,,,GA0000265,6,Theodore Tawananyasha,TTN,Ngozoh,M,,,Active,2024-11-21T00:00:00,0001-01-01T00:00:00,,633978461X58,Access Basic,true,,,,,,0
 13700,,,GA0001136,5,Clatous,CM,Mabukwa,M,,,Active,1972-11-07T00:00:00,0001-01-01T00:00:00,,63885040K25,Access Basic,true,,,,,,0
 13701,,,MSFAP00014,1,Makanani Uyisayi,MUK,Kumbuyani,F,,,Active,1958-11-25T00:00:00,0001-01-01T00:00:00,,14008767V14,Private Care 20,false,,,,,,0
@@ -12903,7 +12903,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 13768,,,PMFP00004,1,Henrietta,HR,Ruzvidzo,F,,,Active,1997-11-15T00:00:00,0001-01-01T00:00:00,,632046444D24,Private Care 20,false,263719481945,govatietta@gmail.com,,,,0
 13769,,,PMFP00004,2,Allegua,AG,Govati,F,,,Active,2022-10-28T00:00:00,0001-01-01T00:00:00,,allegua,Private Care 20,true,,,,,,0
 13771,,,PB0000293,1,Joseph,JK,Kanemeyer,M,,,Deleted,1958-01-05T00:00:00,0001-01-01T00:00:00,,63458219Z,Private Basic,false,263771186671,Jkanemeyer@hotmail.com,,,,0
-13772,,,PB0000294,1,Belindah,BVM,Musonda,F,,,Active,1997-07-06T00:00:00,0001-01-01T00:00:00,,29307168R71,Private Basic,false,263786486997,musondabelindah@gmail.com,,,,0
+13772,,,PB0000294,1,Belindah,BVM,Musonza,F,,,Active,1997-07-06T00:00:00,0001-01-01T00:00:00,,29307168R71,Private Basic,false,263786486997,musondabelindah@gmail.com,,,,0
 13773,,,PB0000295,1,Serina,SM,Mataka,F,,,Suspended,1981-09-17T00:00:00,0001-01-01T00:00:00,,631197194F61,Private Basic,false,263781083842,,,,,0
 13774,,,ABF0000158,1,Constance,CT,Tasarira,F,,,Active,1982-07-19T00:00:00,0001-01-01T00:00:00,,75344891V18,Acess Basic + Funeral,false,263774862158,tasariraconstance46@gmail.com,,,,0
 13775,,,ABF0000159,1,Berita,BM,Muganyi,F,,,Active,1968-06-04T00:00:00,0001-01-01T00:00:00,,58132269Y27,Acess Basic + Funeral,false,263775997943,,,,,0
@@ -12931,7 +12931,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 13797,,,ABF0000167,1,Cuthbert,CC,Chimwanda,M,,,Resigned,1951-02-04T00:00:00,0001-01-01T00:00:00,,75069041H22,Acess Basic + Funeral,false,263773901353,,,,,0
 13798,,,INDIP00060,1,Albert,AT,Tarwireyi,M,,,Suspended,1962-06-04T00:00:00,0001-01-01T00:00:00,,63151173J43,Private Care 20,false,263772367722,Albertarwi2gmail.com,,,,0
 13799,,,INDIP00060,2,Jessie,JT,Tarwireyi,F,,,Suspended,1965-02-21T00:00:00,0001-01-01T00:00:00,,63851790T43,Private Care 20,true,263772367722,Albertarwi2gmail.com,,,,0
-13800,,,ABF0000168,1,Rutendo,RT,Taruza,F,,,Active,1998-10-14T00:00:00,0001-01-01T00:00:00,,632263820G22,Acess Basic + Funeral,false,263779705987,,,,,0
+13800,,,ABF0000168,1,Rutendo,RT,Taruza,F,,,Suspended,1998-10-14T00:00:00,0001-01-01T00:00:00,,632263820G22,Acess Basic + Funeral,false,263779705987,,,,,0
 13802,,,ABF0000169,1,Doreen,DZ,Zhou,F,,,Awaiting Approval,1989-12-27T00:00:00,0001-01-01T00:00:00,,67129953P67,Acess Basic + Funeral,false,263772844892,,,,,0
 13803,,,ABF0000169,2,Donovan T,DTG,Gwanzura,M,,,Awaiting Approval,2013-08-08T00:00:00,0001-01-01T00:00:00,,a5833,Acess Basic + Funeral,true,,,,,,0
 13804,,,ABF0000169,3,Daniella,DTG,Gwanzura,F,,,Awaiting Approval,2017-08-08T00:00:00,0001-01-01T00:00:00,,a5834,Acess Basic + Funeral,true,,,,,,0
@@ -12985,8 +12985,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 13855,,,GAF0000368,1,Faith,FM,Moyo,F,,,Active,2004-02-11T00:00:00,0001-01-01T00:00:00,,142057084Y39,Access Basic + Funeral,false,263772824127,,,,,0
 13856,,,GAF0000368,2,Moreen,MM,Moyo,F,,,Active,1986-06-23T00:00:00,0001-01-01T00:00:00,,a5856,Access Basic + Funeral,true,,,,,,0
 13857,,,GAF0000369,1,Magadalene,MM,Mvuri,F,,,Active,1980-04-04T00:00:00,0001-01-01T00:00:00,,59036861A80,Access Basic + Funeral,false,263778423254,,,,,0
-13858,,,GAF0000369,2,Mvuri,MM,Makanaka,F,,,Active,2012-03-24T00:00:00,0001-01-01T00:00:00,,a5857,Access Basic + Funeral,true,,,,,,0
-13859,,,GAF0000369,3,Tanaka,TC,Chanetsa,M,,,Active,2010-01-01T00:00:00,0001-01-01T00:00:00,,a5858,Access Basic + Funeral,true,,,,,,0
+13858,,,GAF0000369,2,Mvuri,MM,Makanaka,F,,,Active,2010-03-24T00:00:00,0001-01-01T00:00:00,,a5857,Access Basic + Funeral,true,263778423254,,,,,0
+13859,,,GAF0000369,3,Tanaka,TC,Chanetsa,M,,,Active,1989-02-24T00:00:00,0001-01-01T00:00:00,,a5858,Access Basic + Funeral,true,263778423254,,,,,0
 13860,,,GAF0000370,1,Clarieta,CN,Nyadima,F,,,Active,1994-09-18T00:00:00,0001-01-01T00:00:00,,45209732M45,Access Basic + Funeral,false,263772826199,nyadimacla@gmail.com,,,,0
 13861,,,GAF0000370,2,Leeroy Anopaishe,LAM,Mazadza,M,,,Active,2023-04-13T00:00:00,0001-01-01T00:00:00,,a5859,Access Basic + Funeral,true,,,,,,0
 13862,,,ABF0000178,1,Charity,CM,Muzembe,F,,,Active,1976-01-04T00:00:00,0001-01-01T00:00:00,,63976856K32,Acess Basic + Funeral,false,263772719841,,,,,0
@@ -12997,7 +12997,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 13867,,,ABF0000179,2,Rumbidzai,RG,Gatsi,F,,,Resigned,1978-04-26T00:00:00,0001-01-01T00:00:00,,a5862,Acess Basic + Funeral,true,,,,,,0
 13868,,,PB0000296,1,Passvelly,PC,Chiminya,M,,,Active,1965-09-09T00:00:00,0001-01-01T00:00:00,,63709227J18,Private Basic,false,263772400264,,,,,0
 13869,,,PB0000296,2,Gerly,GC,Chiminya,F,,,Active,1968-08-04T00:00:00,0001-01-01T00:00:00,,63755579R63,Private Basic,true,263772400264,,,,,0
-13870,,,PB0000297,1,Mandishorei,MS,Siziba,F,,,Suspended,1982-07-22T00:00:00,0001-01-01T00:00:00,,631166126L67,Private Basic,false,263716604809,,,,,0
+13870,,,PB0000297,1,Mandishorei,MS,Siziba,F,,,Resigned,1982-07-22T00:00:00,0001-01-01T00:00:00,,631166126L67,Private Basic,false,263716604809,,,,,0
 13871,,,ABF0000180,1,Dadi,DB,Baron,M,,,Resigned,1963-01-11T00:00:00,0001-01-01T00:00:00,,43024790A43,Acess Basic + Funeral,false,263775083948,,,,,0
 13872,,,ABF0000180,2,Monica,MK,Karichina,F,,,Resigned,1973-03-14T00:00:00,0001-01-01T00:00:00,,a5863,Acess Basic + Funeral,true,,,,,,0
 13873,,,ABF0000180,3,Tanya,TB,Baron,M,,,Resigned,2007-12-13T00:00:00,0001-01-01T00:00:00,,a5864,Acess Basic + Funeral,true,,,,,,0
@@ -13366,10 +13366,10 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 14245,,,GAF0000489,2,Sinikiwe,SV,Vushe,F,,,Active,1966-06-01T00:00:00,0001-01-01T00:00:00,,a6049,Access Basic + Funeral,true,,,,,,0
 14246,,,GAF0000489,3,Shelton,SM,Mhangami,M,,,Active,2013-09-17T00:00:00,0001-01-01T00:00:00,,a6050,Access Basic + Funeral,true,,,,,,0
 14247,,,GAF0000490,1,Masego,MN,Ngwenya,M,,,Active,1994-09-08T00:00:00,0001-01-01T00:00:00,,08919988N56,Access Basic + Funeral,false,263774665513,,,,,0
-14248,,,GAF0000490,2,Pearson ,PBM ,Mbekiswa,M,,,Active,2021-11-14T00:00:00,0001-01-01T00:00:00,,a6051,Access Basic + Funeral,true,,,,,,0
-14249,,,GAF0000490,3,Princess,PL,Lasego,F,,,Active,2024-12-10T00:00:00,0001-01-01T00:00:00,,a6052,Access Basic + Funeral,true,,,,,,0
-14250,,,GAF0000490,4,Patson,PM,Mbekiswa,M,,,Active,1985-01-15T00:00:00,0001-01-01T00:00:00,,a6053,Access Basic + Funeral,true,,,,,,0
-14251,,,GAF0000490,5,Tabeth,TM,Mbekiswa,F,,,Active,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6054,Access Basic + Funeral,true,,,,,,0
+14248,,,GAF0000490,2,Pearson ,PBM ,Mbekiswa,M,,,Active,2021-11-14T00:00:00,0001-01-01T00:00:00,,a6051,Access Basic + Funeral,true,263774665513,,,,,0
+14249,,,GAF0000490,3,Princess,PL,Lasego,F,,,Active,2024-12-10T00:00:00,0001-01-01T00:00:00,,a6052,Access Basic + Funeral,true,263774665513,,,,,0
+14250,,,GAF0000490,4,Patson,PM,Mbekiswa,M,,,Active,1985-01-15T00:00:00,0001-01-01T00:00:00,,a6053,Access Basic + Funeral,true,263774665513,,,,,0
+14251,,,GAF0000490,5,Tabeth,TM,Mbekiswa,F,,,Active,2007-04-01T00:00:00,0001-01-01T00:00:00,,a6054,Access Basic + Funeral,true,263774665513,,,,,0
 14252,,,GAF0000491,1,Lethukuthula,LN,Ncube,F,,,Awaiting Approval,1993-04-01T00:00:00,0001-01-01T00:00:00,,08834472L21,Access Basic + Funeral,false,263776421070,,,,,0
 14253,,,GAF0000492,1,Nozipho,NN,Ncube,F,,,Awaiting Approval,1999-02-19T00:00:00,0001-01-01T00:00:00,,082031942D39,Access Basic + Funeral,false,263772861648,,,,,0
 14254,,,GAF0000492,2,Lithle,LNN,Ncube,F,,,Awaiting Approval,2018-10-21T00:00:00,0001-01-01T00:00:00,,a6055,Access Basic + Funeral,true,,,,,,0
@@ -13897,8 +13897,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 14813,,,GAF0000582,2,Jeremia,JG,Gwaringesu,M,,,Active,1968-03-23T00:00:00,0001-01-01T00:00:00,,a6275,Access Basic + Funeral,true,,,,,,0
 14814,,,GAF0000582,3,Jewel,JN,Negomo,F,,,Active,2021-10-08T00:00:00,0001-01-01T00:00:00,,a6276,Access Basic + Funeral,true,,,,,,0
 14815,,,GAF0000582,4,Ropafadzo,RK,Kawanza,F,,,Active,2021-12-21T00:00:00,0001-01-01T00:00:00,,a6277,Access Basic + Funeral,true,,,,,,0
-14816,,,ABF0000072,3,Letwin,LK,Kombo,F,,,Active,1974-08-08T00:00:00,0001-01-01T00:00:00,,47139552S38,Acess Basic + Funeral,true,,,,,,0
-14817,,,ABF0000072,4,Mazvitaishe Kenisha,MKK,Komboni,F,,,Active,2020-06-02T00:00:00,0001-01-01T00:00:00,,633585704M38,Acess Basic + Funeral,true,,,,,,0
+14816,,,ABF0000072,3,Letwin,LK,Kombo,F,,,Active,1974-08-08T00:00:00,0001-01-01T00:00:00,,47139552S38,Acess Basic + Funeral,true,263774260825,,,,,0
+14817,,,ABF0000072,4,Mazvitaishe Kenisha,MKK,Komboni,F,,,Active,2020-06-02T00:00:00,0001-01-01T00:00:00,,633585704M38,Acess Basic + Funeral,true,263774260825,,,,,0
 14818,,,LFP00001,1,Ledia,LM ,Makumucha,F,,,Active,1954-05-22T00:00:00,0001-01-01T00:00:00,,07000683M83,Private Care 20,false,263772840231,,,,,0
 14819,,,LFP00001,2,Joramu,JM,Makumucha,M,,,Active,1978-01-24T00:00:00,0001-01-01T00:00:00,,14134381J83,Private Care 20,true,,,,,,0
 14820,,,LFP00001,3,Patience,PM,Makumucha,F,,,Active,2008-01-25T00:00:00,0001-01-01T00:00:00,,a6278,Private Basic Premium,true,,,,,,0
@@ -14080,7 +14080,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 14998,,,MSFAP00037,8,Nyasha,NC,Chikomo,M,,,Active,1975-12-16T00:00:00,0001-01-01T00:00:00,,12063645G12,Access Basic Premium,true,,,,,,0
 14999,,,MSFAP00038,1,Simeon Phillip,SPM,Magumire,M,,,Active,1960-12-25T00:00:00,0001-01-01T00:00:00,,54032289Y54,Private Care 20,false,263772355457,,,,,0
 15000,,,MSFAP00038,2,Jettina,JM,Magumire,F,,,Active,1967-08-19T00:00:00,0001-01-01T00:00:00,,14067683J54,Private Care 20,true,,,,,,0
-15001,,,AB0000031,4,Liana Vongai,LVM,Mahachi,F,,,Suspended,2025-06-01T00:00:00,0001-01-01T00:00:00,,862066324M70,Access Basic,true,0774041113,,,,,0
+15001,,,AB0000031,4,Liana Vongai,LVM,Mahachi,F,,,Active,2025-06-01T00:00:00,0001-01-01T00:00:00,,862066324M70,Access Basic,true,0774041113,,,,,0
 15003,,,ABF0000238,1,Chengetai,CK,Kasuso,F,,,Active,1973-04-26T00:00:00,0001-01-01T00:00:00,,47104214G47,Acess Basic + Funeral,false,263774927517,,,,,0
 15004,,,ABF0000238,2,Tanyaradzwa,TC,Chakora,F,,,Active,1994-12-01T00:00:00,0001-01-01T00:00:00,,85063618D42,Acess Basic + Funeral,true,,,,,,0
 15005,,,ABF0000238,3,Sithabile,SM,Moyo,F,,,Active,1998-07-24T00:00:00,0001-01-01T00:00:00,,85065208G41,Acess Basic + Funeral,true,,,,,,0
@@ -14449,7 +14449,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15375,,,GAF0000720,5,Rutendo,RC,Chirimumimba,F,,,Active,2018-03-14T00:00:00,0001-01-01T00:00:00,,a6532,Access Basic + Funeral,true,,,,,,0
 15376,,,GAF0000720,6,Rufaro,RC,Chirimumimba,F,,,Active,2020-06-19T00:00:00,0001-01-01T00:00:00,,a6533,Access Basic + Funeral,true,,,,,,0
 15377,,,GCP00002,1,Chenai Theresa,CTM,Makina,F,,,Awaiting Approval,1997-10-12T00:00:00,0001-01-01T00:00:00,,632021511C32,Private Care 20,false,263719257789,,,,,0
-15378,,,PB0000273,3,Charmaine Tafara,CTK,Kachaka,F,,,Suspended,2012-09-02T00:00:00,0001-01-01T00:00:00,,633132669H25,Private Basic,true,,,,,,0
+15378,,,PB0000273,3,Charmaine Tafara,CTK,Kachaka,F,,,Active,2012-09-02T00:00:00,0001-01-01T00:00:00,,633132669H25,Private Basic,true,,,,,,0
 15379,,,PB0000322,1,Nomsa,NM,Mutambwe,F,,,Active,1986-11-04T00:00:00,0001-01-01T00:00:00,,85029373F85,Private Basic,false,263773079132,,,,,0
 15380,,,PB0000322,2,Ottis,OM,Mutsvangwa,M,,,Active,1978-07-07T00:00:00,0001-01-01T00:00:00,,631009729P47,Private Basic,true,,,,,,0
 15381,,,PB0000322,3,Nyasha Gift,NGZ,Zanga,M,,,Active,2005-09-30T00:00:00,0001-01-01T00:00:00,,852014209A85,Private Basic,true,,,,,,0
@@ -14496,7 +14496,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15425,,,ABF0000271,1,Alexander,AK,Katiyo,M,,,Active,1971-06-06T00:00:00,0001-01-01T00:00:00,,63827950M48,Acess Basic + Funeral,false,,,,,,0
 15426,,,ABF0000272,1,Calvin George,CGM,Mututa,M,,,Active,1975-04-17T00:00:00,0001-01-01T00:00:00,,59001168D32,Acess Basic + Funeral,false,,,,,,0
 15427,,,PB0000325,1,Nozizwe Mildred,NMS,Sibanda,F,,,Suspended,1964-09-25T00:00:00,0001-01-01T00:00:00,,08157162E 56,Private Basic,false,263772315986,,,,,0
-15428,,,ABF0000273,1,Rosa,RR,Rwisai,F,,,Suspended,1957-06-06T00:00:00,0001-01-01T00:00:00,,63414873J66,Acess Basic + Funeral,false,0773220729,,,,,0
+15428,,,ABF0000273,1,Rosa,RR,Rwisai,F,,,Active,1957-06-06T00:00:00,0001-01-01T00:00:00,,63414873J66,Acess Basic + Funeral,false,0773220729,,,,,0
 15429,,,ABF0000274,1,Melissa Tatenda,MTK,Katete,F,,,Active,2000-02-13T00:00:00,0001-01-01T00:00:00,,58321234V34,Acess Basic + Funeral,false,263775354133,,,,,0
 15430,,,ABF0000275,1,Tariro Pamela,TPM,Maporesa,F,,,Active,1982-04-30T00:00:00,0001-01-01T00:00:00,,59085325D67,Acess Basic + Funeral,false,263777188134,,,,,0
 15431,,,ABF0000276,1,Simbarashe,SK,Kajekere,M,,,Active,1987-09-13T00:00:00,0001-01-01T00:00:00,,631324858W66,Acess Basic + Funeral,false,263772982576,,,,,0
@@ -14554,7 +14554,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15488,,,GAF0000740,2,Elizabeth,EM,Muposiwa,F,,,Active,2016-07-04T00:00:00,0001-01-01T00:00:00,,a6572,Access Basic + Funeral,true,,,,,,0
 15489,,,GAF0000740,3,Success K,SKK,Kambuya,F,,,Active,2023-02-22T00:00:00,0001-01-01T00:00:00,,a6573,Access Basic + Funeral,true,,,,,,0
 15490,,,ABF0000209,7,Ennie,EM,Madamombe,F,,,Active,1951-04-04T00:00:00,0001-01-01T00:00:00,,madamombe,Acess Basic + Funeral,true,,,,,,0
-15491,,,ABF0000209,8,Jay Reshmi,,Boka,M,,,Active,2011-10-30T00:00:00,0001-01-01T00:00:00,,reshmi,Acess Basic + Funeral,true,,,,,,0
+15491,,,ABF0000209,8,Jay Reshmi,,Stuart,M,,,Active,2011-10-30T00:00:00,0001-01-01T00:00:00,,reshmi,Acess Basic + Funeral,true,,,,,,0
 15492,,,ABF0000277,1,Emmanuel,Hayford,Tembo,M,,,Active,1999-04-05T00:00:00,0001-01-01T00:00:00,,632096786Y63,Acess Basic + Funeral,false,263771771495,,,,,0
 15494,,,GAF0000741,1,Tadiwanashe Advocate,TAM,Mtudza,M,,,Active,1998-08-16T00:00:00,0001-01-01T00:00:00,,752002789K75,Access Basic + Funeral,false,,,,,,0
 15495,,,GAF0000741,2,Philmon,PM,Mutudza,M,,,Active,1965-03-19T00:00:00,0001-01-01T00:00:00,,a6578,Access Basic + Funeral,true,,,,,,0
@@ -14606,7 +14606,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15542,,,GAF0000755,5,Tadiswa Ellain,TEM,Makaya,F,,,Active,2022-09-27T00:00:00,0001-01-01T00:00:00,,a6603,Access Basic + Funeral,true,,,,,,0
 15543,,,GP0000129,1,Tanyaradzwa,TM,Mwotowanyuka,F,,,Active,1997-03-10T00:00:00,0001-01-01T00:00:00,,432027573M75,Private Basic,false,,tanyamwotosiri@gmail.com,,,,0
 15544,,,GP0000130,1,Faith T,FTC,Chipise,F,,,Awaiting Approval,2000-10-24T00:00:00,0001-01-01T00:00:00,,44118345X75,Private Basic,false,263783683519,,,,,0
-15545,,,ABF0000146,4,Ansel,AM,Mupfupi,M,,,Awaiting Approval,2025-10-01T00:00:00,0001-01-01T00:00:00,,ansel,Acess Basic + Funeral,true,,,,,,0
+15545,,,ABF0000146,4,Ansel,AM,Mupfupi,M,,,Active,2025-10-01T00:00:00,0001-01-01T00:00:00,,ansel,Acess Basic + Funeral,true,,,,,,0
 15546,,,GA0001022,4,Vallen ,Z,Mudzonga,F,,,Active,2005-04-28T00:00:00,0001-01-01T00:00:00,,49156353S49,Access Basic,true,,,,,,0
 15547,,,GCP00003,1,Rudo,RM,Mbabvu,F,,,Awaiting Approval,1986-11-18T00:00:00,0001-01-01T00:00:00,,70228132A,Private Care 20,false,263785891002,,,,,0
 15548,,,GCP00003,2,Nigel,NM,Mbabvu,M,,,Awaiting Approval,2013-04-19T00:00:00,0001-01-01T00:00:00,,a6604,Private Care 20,true,263785891002,,,,,0
@@ -14730,7 +14730,7 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15673,,,GAF0000776,3,Lana,LM,Mutseyekwa,F,,,Rejected,2006-06-22T00:00:00,0001-01-01T00:00:00,,a6654,Access Basic + Funeral,true,,,,,,0
 15674,,,GAF0000777,1,Sylvia,SB,Bvunzani,F,,,Rejected,1983-09-10T00:00:00,0001-01-01T00:00:00,,15140402H15,Access Basic + Funeral,false,263776304729,,,,,0
 15675,,,GAF0000777,2,Renas,RK,Kasere,M,,,Rejected,1959-11-12T00:00:00,0001-01-01T00:00:00,,a6655,Access Basic + Funeral,true,,,,,,0
-15676,,,ABF0000290,1,Nicodimus,NK,Kasambarare,M,,,Suspended,2002-09-15T00:00:00,0001-01-01T00:00:00,,85077098F47,Acess Basic + Funeral,false,263785155994,,,,,0
+15676,,,ABF0000290,1,Nicodimus,NK,Kasambarare,M,,,Active,2002-09-15T00:00:00,0001-01-01T00:00:00,,85077098F47,Acess Basic + Funeral,false,263785155994,,,,,0
 15677,,,ABF0000291,1,Thomas,TC,Chatima,M,,,Active,1975-11-11T00:00:00,0001-01-01T00:00:00,,05059613D05,Acess Basic + Funeral,false,263773655771,,,,,0
 15678,,,ABF0000291,2,Farisai,FS,Siniyawo,F,,,Active,1979-11-07T00:00:00,0001-01-01T00:00:00,,a6656,Acess Basic + Funeral,true,,,,,,0
 15679,,,ABF0000291,3,Takunda,TC,Chatima,M,,,Active,1999-03-06T00:00:00,0001-01-01T00:00:00,,a6657,Acess Basic + Funeral,true,,,,,,0
@@ -14914,16 +14914,16 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15874,,,ABF0000339,1,Emmanuel,EZ,Ziwakaya,M,,,Awaiting Approval,1993-12-20T00:00:00,0001-01-01T00:00:00,,58281500F66,Acess Basic + Funeral,false,263779356241,,,,,0
 15875,,,ABF0000339,2,Chido,CM,Mapara,M,,,Awaiting Approval,1996-05-13T00:00:00,0001-01-01T00:00:00,,50143686F50,Acess Basic + Funeral,true,263779356241,,,,,0
 15876,,,ABF0000339,3,Emmet,EZ,Ziwakaya,F,,,Awaiting Approval,2024-04-26T00:00:00,0001-01-01T00:00:00,,633949304E 66,Acess Basic + Funeral,true,263779356241,,,,,0
-15877,,,PB0000339,1,Robert,RM,Muzvongi,M,,,Awaiting Approval,1981-03-14T00:00:00,0001-01-01T00:00:00,,59042483L75,Private Basic,false,263775456845,,,,,0
-15878,,,PB0000339,2,Jeraldine,JM,Muzvongi,F,,,Awaiting Approval,1983-03-02T00:00:00,0001-01-01T00:00:00,,32152133V77,Private Basic,true,263775456845,,,,,0
-15879,,,PB0000339,3,Kelly,KM,Muzvongi,F,,,Awaiting Approval,2006-06-09T00:00:00,0001-01-01T00:00:00,,a6714,Private Basic,true,263775456845,,,,,0
-15880,,,PB0000339,4,Robert A,RAM,Muzvongi,F,,,Awaiting Approval,2010-07-23T00:00:00,0001-01-01T00:00:00,,a6715,Private Basic,true,263775456845,,,,,0
-15881,,,PB0000339,5,Nokutenda,NM,Muzvongi,F,,,Awaiting Approval,2021-03-04T00:00:00,0001-01-01T00:00:00,,a6716,Private Basic,true,263775456845,,,,,0
-15882,,,PB0000339,6,Munaishe,MM,Muzvongi,F,,,Awaiting Approval,2023-09-21T00:00:00,0001-01-01T00:00:00,,a6717,Private Basic,true,263775456845,,,,,0
-15883,,,PB0000339,7,Reign,RM,Muzvongi,M,,,Awaiting Approval,2025-05-05T00:00:00,0001-01-01T00:00:00,,a6718,Private Basic,true,263775456845,,,,,0
+15877,,,PB0000339,1,Robert,RM,Muzvongi,M,,,Active,1981-03-14T00:00:00,0001-01-01T00:00:00,,59042483L75,Private Basic,false,263775456845,,,,,0
+15878,,,PB0000339,2,Jeraldine,JM,Muzvongi,F,,,Active,1983-03-02T00:00:00,0001-01-01T00:00:00,,32152133V77,Private Basic,true,263775456845,,,,,0
+15879,,,PB0000339,3,Kelly,KM,Muzvongi,F,,,Active,2006-06-09T00:00:00,0001-01-01T00:00:00,,a6714,Private Basic,true,263775456845,,,,,0
+15880,,,PB0000339,4,Robert A,RAM,Muzvongi,F,,,Active,2010-07-23T00:00:00,0001-01-01T00:00:00,,a6715,Private Basic,true,263775456845,,,,,0
+15881,,,PB0000339,5,Nokutenda,NM,Muzvongi,F,,,Active,2021-03-04T00:00:00,0001-01-01T00:00:00,,a6716,Private Basic,true,263775456845,,,,,0
+15882,,,PB0000339,6,Munaishe,MM,Muzvongi,F,,,Active,2023-09-21T00:00:00,0001-01-01T00:00:00,,a6717,Private Basic,true,263775456845,,,,,0
+15883,,,PB0000339,7,Reign,RM,Muzvongi,M,,,Active,2025-05-05T00:00:00,0001-01-01T00:00:00,,a6718,Private Basic,true,263775456845,,,,,0
 15884,,,INDIP00071,1,Abigirl,AM,Mukundwa,F,,,Awaiting Approval,1963-08-05T00:00:00,0001-01-01T00:00:00,,7509784H18,Private Care 20,false,263778069222,abigirlmukundwa@gmail.com,,,,0
-15885,,,CSFAZP00088,1,Letwin,LT,Thlelani,F,,,Awaiting Approval,1996-01-10T00:00:00,0001-01-01T00:00:00,,03179593D03,Private Care 20,false,263782804840,,,,,0
-15886,,,CSFAZP00088,2,Kayden P,KPM,Maburuse,M,,,Awaiting Approval,2021-07-08T00:00:00,0001-01-01T00:00:00,,292150008F03,Private Basic Premium,true,,,,,,0
+15885,,,CSFAZP00088,1,Letwin,LT,Thlelani,F,,,Active,1996-01-10T00:00:00,0001-01-01T00:00:00,,03179593D03,Private Care 20,false,263782804840,,,,,0
+15886,,,CSFAZP00088,2,Kayden P,KPM,Maburuse,M,,,Active,2021-07-08T00:00:00,0001-01-01T00:00:00,,292150008F03,Private Basic Premium,true,263782804840,,,,,0
 15887,,,CSFAZSP00006,1,Handmore,HM,Mugwebi,M,,,Awaiting Approval,1978-10-20T00:00:00,0001-01-01T00:00:00,,12063124Q12,Access Basic Premium,false,263786807820,,,,,0
 15888,,,CSFAZSP00006,2,Esinath,EZ,Zulu,F,,,Awaiting Approval,1992-11-03T00:00:00,0001-01-01T00:00:00,,12123731S12,Access Basic Premium,true,,,,,,0
 15889,,,CSFAZSP00006,3,Heather,HM,Mugwebi,F,,,Awaiting Approval,2012-06-20T00:00:00,0001-01-01T00:00:00,,a6719,Access Basic Premium,true,,,,,,0
@@ -14935,8 +14935,8 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15895,,,CSFAZSP00007,3,Daisy,DM,Marumba,F,,,Awaiting Approval,2017-03-17T00:00:00,0001-01-01T00:00:00,,142066375X27,Access Basic Premium,true,,,,,,0
 15896,,,CSFAZSP00007,4,Fonzina,FM,Marumba,F,,,Awaiting Approval,2019-09-28T00:00:00,0001-01-01T00:00:00,,142066374W27,Access Basic Premium,true,,,,,,0
 15897,,,CSFAZSP00007,5,Donald,DM,Marumba,M,,,Awaiting Approval,2022-01-16T00:00:00,0001-01-01T00:00:00,,142075734V27,Access Basic Premium,true,,,,,,0
-15899,,,ABF0000340,1,Enest,EZ,Zvarevashe,F,,,Awaiting Approval,1975-06-02T00:00:00,0001-01-01T00:00:00,,38088674G38,Acess Basic + Funeral,false,263778626061,,,,,0
-15900,,,ABF0000340,2,Agness,AM,Manjonjo,F,,,Awaiting Approval,1983-11-06T00:00:00,0001-01-01T00:00:00,,38141923B38,Acess Basic + Funeral,true,263778626061,,,,,0
+15899,,,ABF0000340,1,Enest,EZ,Zvarevashe,F,,,Awaiting Activation,1975-06-02T00:00:00,0001-01-01T00:00:00,,38088674G38,Acess Basic + Funeral,false,263778626061,,,,,0
+15900,,,ABF0000340,2,Agness,AM,Manjonjo,F,,,Awaiting Activation,1983-11-06T00:00:00,0001-01-01T00:00:00,,38141923B38,Acess Basic + Funeral,true,263778626061,,,,,0
 15901,,,ABF0000341,1,Jasi,JC,Chirodza,M,,,Awaiting Approval,1970-12-26T00:00:00,0001-01-01T00:00:00,,38095021F38,Acess Basic + Funeral,false,263778209825,,,,,0
 15902,,,ABF0000341,2,Agnes,AG,Govera,F,,,Awaiting Approval,1980-07-10T00:00:00,0001-01-01T00:00:00,,38129206N38,Acess Basic + Funeral,true,263778209825,,,,,0
 15903,,,ABF0000342,1,Virginia,VM,Mudekwa,F,,,Awaiting Approval,1997-09-12T00:00:00,0001-01-01T00:00:00,,38246015E 38,Acess Basic + Funeral,false,263777373295,,,,,0
@@ -15017,3 +15017,426 @@ memberId,segregatedFund,title,memberNo,suffix,firstname,initials,surname,sex,nat
 15978,,,ABF0000363,2,Violet,VM,Mpofu,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,382263649T71,Acess Basic + Funeral,true,,,,,,0
 15979,,,ABF0000363,3,Samuel,SW,White,M,,,Awaiting Approval,2008-09-01T00:00:00,0001-01-01T00:00:00,,a6767,Acess Basic + Funeral,true,,,,,,0
 15980,,,ABF0000363,4,Talent,TW,White,M,,,Awaiting Approval,2012-06-06T00:00:00,0001-01-01T00:00:00,,a6768,Acess Basic + Funeral,true,,,,,,0
+15981,,,ABF0000364,1,Melody,MC,Chitsinde,F,,,Awaiting Approval,1977-04-14T00:00:00,0001-01-01T00:00:00,,45079895K45,Acess Basic + Funeral,false,263782888985,,,,,0
+15982,,,ABF0000364,2,Givemore,GM,Mharakurwa,M,,,Awaiting Approval,1980-05-03T00:00:00,0001-01-01T00:00:00,,45039341C45,Acess Basic + Funeral,true,,,,,,0
+15983,,,ABF0000364,3,Tinotenda,TM,Mharakurwa,F,,,Awaiting Approval,2012-04-20T00:00:00,0001-01-01T00:00:00,,a6769,Acess Basic + Funeral,true,,,,,,0
+15984,,,ABF0000365,1,Onismo,OC,Chichetu,M,,,Awaiting Approval,1979-01-01T00:00:00,0001-01-01T00:00:00,,45133632V45,Acess Basic + Funeral,false,263774438244,,,,,0
+15985,,,ABF0000365,2,Zvisinei,ZC,Chinyanga,F,,,Awaiting Approval,1983-02-02T00:00:00,0001-01-01T00:00:00,,45147431T45,Acess Basic + Funeral,true,,,,,,0
+15986,,,ABF0000365,3,Sharon,SC,Chichetu,F,,,Awaiting Approval,2004-01-19T00:00:00,0001-01-01T00:00:00,,a6770,Acess Basic + Funeral,true,,,,,,0
+15987,,,ABF0000365,4,Rugare,RC,Chichetu,F,,,Awaiting Approval,2006-06-17T00:00:00,0001-01-01T00:00:00,,a6771,Acess Basic + Funeral,true,,,,,,0
+15988,,,ABF0000365,5,Kundai,KC,Chichetu,M,,,Awaiting Approval,2010-05-19T00:00:00,0001-01-01T00:00:00,,a6772,Acess Basic + Funeral,true,,,,,,0
+15989,,,ABF0000365,6,Confidence,CC,Chichetu,M,,,Awaiting Approval,2015-02-14T00:00:00,0001-01-01T00:00:00,,a6773,Acess Basic + Funeral,true,,,,,,0
+15990,,,ABF0000365,7,Tinevimbo,TB,Bure,F,,,Awaiting Approval,2022-03-22T00:00:00,0001-01-01T00:00:00,,a6774,Acess Basic + Funeral,true,,,,,,0
+15991,,,ABF0000366,1,Mafios,MN,Nyamadzawo,M,,,Awaiting Approval,1976-09-13T00:00:00,0001-01-01T00:00:00,,45136574S45,Acess Basic + Funeral,false,263777172598,,,,,0
+15992,,,ABF0000366,2,Lindiwe,LN,Ndebele,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,05118737T73,Acess Basic + Funeral,true,,,,,,0
+15993,,,ABF0000366,3,Simbarashe,SN,Nyamadzawo,M,,,Awaiting Approval,2012-12-07T00:00:00,0001-01-01T00:00:00,,a6776,Acess Basic + Funeral,true,,,,,,0
+15994,,,ABF0000367,1,Isaack,IM,Manyatera,M,,,Awaiting Approval,1970-11-10T00:00:00,0001-01-01T00:00:00,,05053709L45,Acess Basic + Funeral,false,263775207556,,,,,0
+15995,,,ABF0000367,2,Shilloh,SB,Boroma,F,,,Awaiting Approval,1970-11-10T00:00:00,0001-01-01T00:00:00,,a6777,Acess Basic + Funeral,true,,,,,,0
+15996,,,ABF0000367,3,Cloupas,CM,Manyatera,M,,,Awaiting Approval,2012-07-18T00:00:00,0001-01-01T00:00:00,,a6778,Acess Basic + Funeral,true,,,,,,0
+15997,,,ABF0000367,4,Maxwell,MM,Manyatera,F,,,Awaiting Approval,2005-09-06T00:00:00,0001-01-01T00:00:00,,a6779,Acess Basic + Funeral,true,,,,,,0
+15998,,,ABF0000368,1,Tichaona,TC,Chakufa,M,,,Awaiting Approval,1999-05-05T00:00:00,0001-01-01T00:00:00,,71172566J45,Acess Basic + Funeral,false,263714262708,,,,,0
+15999,,,ABF0000368,2,Ivyonne,IC,Chisepo,F,,,Awaiting Approval,2004-01-26T00:00:00,0001-01-01T00:00:00,,a6780,Acess Basic + Funeral,true,,,,,,0
+16000,,,ABF0000368,3,Silas,SC,Chakufa,M,,,Awaiting Approval,2022-11-17T00:00:00,0001-01-01T00:00:00,,a6781,Acess Basic + Funeral,true,,,,,,0
+16001,,,ABF0000368,4,Saymore,SC,Chakufa,M,,,Awaiting Approval,2025-11-25T00:00:00,0001-01-01T00:00:00,,a6782,Acess Basic + Funeral,true,,,,,,0
+16002,,,ABF0000369,1,Ranganai,RN,Nyamuzuwe,M,,,Awaiting Approval,1990-07-23T00:00:00,0001-01-01T00:00:00,,45185581L45,Acess Basic + Funeral,false,263771739125,,,,,0
+16003,,,ABF0000369,2,Anashe V,AVN,Nyamuzuwe,F,,,Awaiting Approval,2015-10-14T00:00:00,0001-01-01T00:00:00,,a6783,Acess Basic + Funeral,true,,,,,,0
+16004,,,ABF0000370,1,Themba,TM,Mungororo,M,,,Awaiting Approval,1977-12-24T00:00:00,0001-01-01T00:00:00,,45121565D45,Acess Basic + Funeral,false,263785138486,,,,,0
+16005,,,ABF0000370,2,Juliet,JM,Makoni,F,,,Awaiting Approval,1980-07-01T00:00:00,0001-01-01T00:00:00,,45201529W45,Acess Basic + Funeral,true,,,,,,0
+16006,,,ABF0000371,1,Nobos,NP,Paizoni,M,,,Awaiting Approval,1976-02-15T00:00:00,0001-01-01T00:00:00,,45122154T45,Acess Basic + Funeral,false,,,,,,0
+16007,,,ABF0000371,2,Orippah,OG,George,F,,,Awaiting Approval,1976-08-11T00:00:00,0001-01-01T00:00:00,,45079684F45,Acess Basic + Funeral,true,,,,,,0
+16008,,,ABF0000371,3,Nobet,NP,Paizoni,M,,,Awaiting Approval,2011-06-10T00:00:00,0001-01-01T00:00:00,,a6784,Acess Basic + Funeral,true,,,,,,0
+16009,,,ABF0000371,4,Ortilia,OP,Paizoni,F,,,Awaiting Approval,2013-10-24T00:00:00,0001-01-01T00:00:00,,a6785,Acess Basic + Funeral,true,,,,,,0
+16010,,,ABF0000371,5,Marytais,MP,Paizoni,F,,,Awaiting Approval,2016-12-19T00:00:00,0001-01-01T00:00:00,,a6786,Acess Basic + Funeral,true,,,,,,0
+16011,,,ABF0000372,1,Patrick,PM,Mupasu,M,,,Awaiting Approval,1989-03-10T00:00:00,0001-01-01T00:00:00,,45245385Q45,Acess Basic + Funeral,false,263776165308,,,,,0
+16012,,,ABF0000372,2,Shylet,SB,Butawu,F,,,Awaiting Approval,2001-10-09T00:00:00,0001-01-01T00:00:00,,a6787,Acess Basic + Funeral,true,,,,,,0
+16013,,,ABF0000372,3,Alous,AM,Mupasu,M,,,Awaiting Approval,2019-10-20T00:00:00,0001-01-01T00:00:00,,a6788,Acess Basic + Funeral,true,,,,,,0
+16014,,,ABF0000372,4,Shalom,SM,Mupasu,F,,,Awaiting Approval,2023-05-20T00:00:00,0001-01-01T00:00:00,,a6789,Acess Basic + Funeral,true,,,,,,0
+16015,,,ABF0000373,1,Dominic,DM,Magaso,M,,,Awaiting Approval,1968-02-02T00:00:00,0001-01-01T00:00:00,,45075974Y45,Acess Basic + Funeral,false,263771807833,,,,,0
+16016,,,ABF0000374,1,Linda,LD,Diya,F,,,Awaiting Approval,1985-03-26T00:00:00,0001-01-01T00:00:00,,45168714C45,Acess Basic + Funeral,false,263776417302,,,,,0
+16017,,,ABF0000374,2,Charles,CS,Sandarasi,M,,,Awaiting Approval,1977-08-27T00:00:00,0001-01-01T00:00:00,,05065736J45,Acess Basic + Funeral,true,,,,,,0
+16018,,,ABF0000366,4,Praise,PN,Nyamadzawo,F,,,Awaiting Approval,2008-09-12T00:00:00,0001-01-01T00:00:00,,a6775,Acess Basic + Funeral,true,,,,,,0
+16026,,,INDIP00072,1,Bester,BM,Maramba,F,,,Awaiting Approval,1980-02-22T00:00:00,0001-01-01T00:00:00,,631093226X27,Private Care 20,false,263773078686,bestmaramba@gmail.com,,,,0
+16027,,,INDIP00072,2,Tonderai C,TCG,Gondo,M,,,Awaiting Approval,2007-03-31T00:00:00,0001-01-01T00:00:00,,632632832G63,Private Care 20,true,,,,,,0
+16028,,,INDIP00072,3,Anenyasha R,ARZ,Zivhu,M,,,Awaiting Approval,2016-10-23T00:00:00,0001-01-01T00:00:00,,322030221Y12,Private Care 20,true,,,,,,0
+16029,,,GAF0000792,1,Ndomupei,NR,Rurevo,F,,,Awaiting Approval,1974-02-12T00:00:00,0001-01-01T00:00:00,,27130079Q27,Access Basic + Funeral,false,263772672468,,,,,0
+16030,,,GAF0000793,1,Adelaide Shupikai,ASK,Kareku,F,,,Awaiting Approval,1985-01-21T00:00:00,0001-01-01T00:00:00,,85029272W85,Access Basic + Funeral,false,263776955880,,,,,0
+16031,,,GP0000134,1,Tsitsi,TC,Chitsa,F,,,Awaiting Approval,1973-10-16T00:00:00,0001-01-01T00:00:00,,43047202L80,Private Basic,false,263772203895,,,,,0
+16032,,,GAF0000794,1,Tongai,TC,Chintenga,M,,,Awaiting Approval,1972-02-12T00:00:00,0001-01-01T00:00:00,,63917619X63,Access Basic + Funeral,false,263777175885,,,,,0
+16033,,,GAF0000794,2,Concern,CM,Mandiyamba,F,,,Awaiting Approval,1988-04-01T00:00:00,0001-01-01T00:00:00,,concern,Access Basic + Funeral,true,,,,,,0
+16034,,,GAF0000795,1,Justice,JZ,Zvarebwa,M,,,Awaiting Approval,1974-12-19T00:00:00,0001-01-01T00:00:00,,221718822W22,Access Basic + Funeral,false,263710502262,,,,,0
+16035,,,GAF0000795,2,Marvellous,MS,Sango,F,,,Awaiting Approval,1991-07-19T00:00:00,0001-01-01T00:00:00,,43173521P07,Access Basic + Funeral,true,,,,,,0
+16036,,,GAF0000795,3,Ashley,AZ,Zvarebwa,M,,,Awaiting Approval,2011-11-01T00:00:00,0001-01-01T00:00:00,,a6790,Access Basic + Funeral,true,,,,,,0
+16037,,,GAF0000795,4,Anenyasha,AZ,Zvarebwa,M,,,Awaiting Approval,2016-10-26T00:00:00,0001-01-01T00:00:00,,a6791,Access Basic + Funeral,true,,,,,,0
+16038,,,GAF0000795,5,Chiedza,CZ,Zvarebwa,F,,,Awaiting Approval,2011-01-19T00:00:00,0001-01-01T00:00:00,,a6792,Access Basic + Funeral,true,,,,,,0
+16039,,,GAF0000796,1,Sarah,SM,Manyara,F,,,Awaiting Approval,1971-01-21T00:00:00,0001-01-01T00:00:00,,63775099J42,Access Basic + Funeral,false,263779421926,,,,,0
+16040,,,GAF0000796,2,Huggins T,HTG,Gazimbi,M,,,Awaiting Approval,2010-07-22T00:00:00,0001-01-01T00:00:00,,a6793,Access Basic + Funeral,true,,,,,,0
+16041,,,GAF0000797,1,Rumbidzai Getrude,RGC,Chatindo,F,,,Awaiting Approval,1972-07-21T00:00:00,0001-01-01T00:00:00,,34049730A34,Access Basic + Funeral,false,263774093743,,,,,0
+16042,,,PB0000340,1,Lloyd,LM,Mupedziswa,M,,,Awaiting Activation,1968-01-01T00:00:00,0001-01-01T00:00:00,,47060861J47,Private Basic,false,263772357315,,,,,0
+16043,,,ABF0000375,1,Charmaine Rutendo,CRM,Mshawatu,F,,,Awaiting Activation,1998-07-26T00:00:00,0001-01-01T00:00:00,,70302138R25,Acess Basic + Funeral,false,263778819191,,,,,0
+16044,,,ABF0000376,1,Pamela,PM,Makurumidze,F,,,Awaiting Approval,1979-02-19T00:00:00,0001-01-01T00:00:00,,631167773B42,Acess Basic + Funeral,false,263784314132,,,,,0
+16045,,,ABF0000376,2,Kelly,KM,Makurumidze,F,,,Awaiting Approval,2007-07-20T00:00:00,0001-01-01T00:00:00,,752172280P42,Acess Basic + Funeral,true,,,,,,0
+16046,,,INDIP00073,1,Tawanda,TM,Mberikwazvo,M,,,Active,1994-05-09T00:00:00,0001-01-01T00:00:00,,58282896Y18,Private Care 20,false,263771255919,mberikwazvotawanda@gmail.com,,,,0
+16047,,,INDIP00073,2,Theresa,TM,Mberikwazvo,F,,,Active,1972-11-26T00:00:00,0001-01-01T00:00:00,,58148550Y26,Private Care 20,true,,,,,,0
+16048,,,INDIP00073,3,Campion,CM,Mberikwazvo,M,,,Active,1966-07-20T00:00:00,0001-01-01T00:00:00,,campion,Private Care 20,true,,,,,,0
+16049,,,PKEP00007,1,Blessing  Nyasha,BNM,Mushore,M,,,Awaiting Activation,1994-01-24T00:00:00,0001-01-01T00:00:00,,632286020M18,Private Care 20,false,263774950516,bleuash2@gmail.com,,,,0
+16050,,,ABF0000377,1,Prince,PC,Chingoveza,M,,,Awaiting Activation,2006-05-23T00:00:00,0001-01-01T00:00:00,,54151580M54,Acess Basic + Funeral,false,263771240527,,,,,0
+16051,,,ABF0000378,1,Webster,WN,Ngwenya,M,,,Awaiting Activation,2001-10-12T00:00:00,0001-01-01T00:00:00,,70312979A79,Acess Basic + Funeral,false,263786975357,,,,,0
+16052,,,ABF0000379,1,Kidas,KM,Murisa,M,,,Awaiting Activation,1987-06-02T00:00:00,0001-01-01T00:00:00,,71116629H71,Acess Basic + Funeral,false,263719714400,,,,,0
+16053,,,ABF0000380,1,Bright,BM,Murimi,M,,,Awaiting Activation,2001-03-11T00:00:00,0001-01-01T00:00:00,,brightmurimi,Acess Basic + Funeral,false,263784217256,,,,,0
+16054,,,ABF0000381,1,Douglas,DM,Makwanya,M,,,Awaiting Activation,1994-08-16T00:00:00,0001-01-01T00:00:00,,38224860K38,Acess Basic + Funeral,false,,,,,,0
+16055,,,ABF0000382,1,Elsie,EG,Ganya,F,,,Awaiting Activation,2006-01-02T00:00:00,0001-01-01T00:00:00,,631687550B47,Acess Basic + Funeral,false,263783649926,,,,,0
+16056,,,ABF0000383,1,Osten,OT,Tauro,M,,,Awaiting Approval,1974-11-16T00:00:00,0001-01-01T00:00:00,,70096488J70,Acess Basic + Funeral,false,263773208437,,,,,0
+16057,,,CSFAZP00006,5,Stansord,SN,Nhau,M,,,Awaiting Approval,1968-09-06T00:00:00,0001-01-01T00:00:00,,63773333T43,Private Care 20,true,,,,,,0
+16058,,,CSFAZP00006,6,Ella,EM,Mugwazi,F,,,Awaiting Approval,1964-01-02T00:00:00,0001-01-01T00:00:00,,43101777J43,Private Care 20,true,,,,,,0
+16059,,,ABF0000384,1,Silas,SM,Mhuka,M,,,Awaiting Approval,1972-04-04T00:00:00,0001-01-01T00:00:00,,27097532N27,Acess Basic + Funeral,false,263714551118,,,,,0
+16060,,,ABF0000384,2,Tinotenda,TM,Mhuka,M,,,Awaiting Approval,2014-08-26T00:00:00,0001-01-01T00:00:00,,772006577E 27,Acess Basic + Funeral,true,,,,,,0
+16061,,,ABF0000385,1,Lazarus,LM,Mutongoreya,M,,,Awaiting Approval,1985-02-19T00:00:00,0001-01-01T00:00:00,,63130046L07,Acess Basic + Funeral,false,263771554291,,,,,0
+16062,,,ABF0000385,2,Joyce,JM,Makombe,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6794,Acess Basic + Funeral,true,,,,,,0
+16063,,,ABF0000385,3,Takudzwa,TM,Mutongoreya,M,,,Awaiting Approval,2011-04-23T00:00:00,0001-01-01T00:00:00,,a6795,Acess Basic + Funeral,true,,,,,,0
+16064,,,ABF0000385,4,Blessing,BM,Mutongoreya,M,,,Awaiting Approval,2021-08-03T00:00:00,0001-01-01T00:00:00,,a6796,Acess Basic + Funeral,true,,,,,,0
+16065,,,ABF0000385,5,Molife,MM,Mutongoreya,M,,,Awaiting Approval,2025-09-16T00:00:00,0001-01-01T00:00:00,,a6797,Acess Basic + Funeral,true,,,,,,0
+16066,,,ABF0000386,1,Patience,PM,Murapa,F,,,Awaiting Approval,1974-03-03T00:00:00,0001-01-01T00:00:00,,63952063L42,Acess Basic + Funeral,false,263773215867,,,,,0
+16067,,,ABF0000387,1,Vimbai Catherine,VCN,Ndakaambani,F,,,Awaiting Approval,1987-07-17T00:00:00,0001-01-01T00:00:00,,75399457F75,Acess Basic + Funeral,false,263780209341,,,,,0
+16068,,,ABF0000387,2,Gugu,GM,Muguza,F,,,Awaiting Approval,2020-12-02T00:00:00,0001-01-01T00:00:00,,a6798,Acess Basic + Funeral,true,,,,,,0
+16069,,,ABF0000387,3,Abigirl,AM,Muguza,F,,,Awaiting Approval,1968-02-15T00:00:00,0001-01-01T00:00:00,,42206931Y42,Acess Basic + Funeral,true,,,,,,0
+16070,,,ABF0000387,4,Shupikayi G,SGN,Ndakaambani,M,,,Awaiting Approval,1966-01-25T00:00:00,0001-01-01T00:00:00,,75154752X75,Acess Basic + Funeral,true,,,,,,0
+16071,,,ABF0000388,1,Abraham,AL,Likosa,M,,,Awaiting Approval,1977-03-04T00:00:00,0001-01-01T00:00:00,,75364087K75,Acess Basic + Funeral,false,263774961363,,,,,0
+16072,,,ABF0000388,2,Constance,CM,Mkusha,F,,,Awaiting Approval,1985-06-01T00:00:00,0001-01-01T00:00:00,,a6799,Acess Basic + Funeral,true,,,,,,0
+16073,,,ABF0000388,3,Isabel,IL,Likosa,F,,,Awaiting Approval,2002-01-17T00:00:00,0001-01-01T00:00:00,,a6800,Acess Basic + Funeral,true,,,,,,0
+16074,,,ABF0000388,4,Sharon,SL,Likosa,F,,,Awaiting Approval,2007-07-04T00:00:00,0001-01-01T00:00:00,,a6801,Acess Basic + Funeral,true,,,,,,0
+16075,,,ABF0000388,5,Yvonne,YL,Likosa,F,,,Awaiting Approval,2007-10-17T00:00:00,0001-01-01T00:00:00,,a6802,Acess Basic + Funeral,true,,,,,,0
+16076,,,ABF0000388,6,Hannah,HL,Likosa,F,,,Awaiting Approval,2012-08-15T00:00:00,0001-01-01T00:00:00,,a6803,Acess Basic + Funeral,true,,,,,,0
+16077,,,ABF0000388,7,Junior Abraham ,JAL,Likosa,M,,,Awaiting Approval,2017-03-31T00:00:00,0001-01-01T00:00:00,,a6804,Acess Basic + Funeral,true,,,,,,0
+16078,,,ABF0000389,1,Edson,EM,Mafumba,M,,,Awaiting Approval,1972-04-03T00:00:00,0001-01-01T00:00:00,,75494129Q75,Acess Basic + Funeral,false,263785546545,,,,,0
+16079,,,ABF0000389,2,Margret,MK,Kapala,F,,,Awaiting Approval,1977-05-21T00:00:00,0001-01-01T00:00:00,,80041692N80,Acess Basic + Funeral,true,,,,,,0
+16080,,,ABF0000389,3,Talent T,TTM,Mafumba,F,,,Awaiting Approval,2013-07-24T00:00:00,0001-01-01T00:00:00,,a6805,Acess Basic + Funeral,true,,,,,,0
+16081,,,ABF0000390,1,Susan,SM,Marehwa,F,,,Awaiting Approval,1975-06-02T00:00:00,0001-01-01T00:00:00,,631121523E 50,Acess Basic + Funeral,false,263773467254,,,,,0
+16082,,,ABF0000390,2,Alous,AC,Chirango,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6806,Acess Basic + Funeral,true,,,,,,0
+16083,,,ABF0000391,1,Chido,CN,Nyamuguri,F,,,Awaiting Approval,1973-09-14T00:00:00,0001-01-01T00:00:00,,75168681M42,Acess Basic + Funeral,false,263779213716,,,,,0
+16084,,,ABF0000391,2,Mike,MN,Nyamusa,M,,,Awaiting Approval,2014-04-14T00:00:00,0001-01-01T00:00:00,,a6807,Acess Basic + Funeral,true,,,,,,0
+16085,,,ABF0000392,1,Shadreck,SM,Machodo,M,,,Awaiting Approval,1951-08-10T00:00:00,0001-01-01T00:00:00,,42057418J75,Acess Basic + Funeral,false,263778081843,,,,,0
+16086,,,ABF0000392,2,Esther,EB,Basopo,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6808,Acess Basic + Funeral,true,,,,,,0
+16087,,,ABF0000392,3,Vanessa,VM,Machodo,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6809,Acess Basic + Funeral,true,,,,,,0
+16088,,,ABF0000392,4,Patience,PM,Machodo,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6810,Acess Basic + Funeral,true,,,,,,0
+16089,,,ABF0000393,1,Mizeck,MK,Kuyangepi,M,,,Awaiting Approval,1994-10-15T00:00:00,0001-01-01T00:00:00,,42075891N75,Acess Basic + Funeral,false,263782135795,,,,,0
+16090,,,ABF0000393,2,Lizzie,LM,Mangara,F,,,Awaiting Approval,1983-12-14T00:00:00,0001-01-01T00:00:00,,a6811,Acess Basic + Funeral,true,,,,,,0
+16091,,,ABF0000393,3,Starlon,SK,Kuyangepi,M,,,Awaiting Approval,2014-11-23T00:00:00,0001-01-01T00:00:00,,a6812,Acess Basic + Funeral,true,,,,,,0
+16092,,,ABF0000394,1,Morgen ,MR,Rosi,M,,,Awaiting Approval,1984-07-31T00:00:00,0001-01-01T00:00:00,,75399358Y75,Acess Basic + Funeral,false,263777448984,,,,,0
+16093,,,ABF0000394,2,Gracious,GM,Mavunga,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6813,Acess Basic + Funeral,true,,,,,,0
+16094,,,ABF0000394,3,Tatenda,TR,Rosi,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6814,Acess Basic + Funeral,true,,,,,,0
+16095,,,ABF0000394,4,Nokutenda,NR,Rosi,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6815,Acess Basic + Funeral,true,,,,,,0
+16096,,,ABF0000394,5,Fatima,FC,Chinonzwa,F,,,Awaiting Approval,1962-03-01T00:00:00,0001-01-01T00:00:00,,a6816,Acess Basic + Funeral,true,,,,,,0
+16097,,,GA0001826,3,Godfrey Tonderai,GTS,Samushonga,M,,,Active,1987-05-16T00:00:00,0001-01-01T00:00:00,,631322078Z50,Access Basic + Funeral,true,,,,,,0
+16098,,,ABF0000395,1,Rosemary,RT,Togara,F,,,Awaiting Approval,1982-08-15T00:00:00,0001-01-01T00:00:00,,75362109K75,Acess Basic + Funeral,false,263775223092,,,,,0
+16099,,,ABF0000395,2,Takudzwa,TS,Saungweme,M,,,Awaiting Approval,2004-11-02T00:00:00,0001-01-01T00:00:00,,a6817,Acess Basic + Funeral,true,,,,,,0
+16100,,,ABF0000395,3,Precious,PS,Saungweme,F,,,Awaiting Approval,2017-06-12T00:00:00,0001-01-01T00:00:00,,a6818,Acess Basic + Funeral,true,,,,,,0
+16101,,,ABF0000396,1,Blessing,BM,Machekeche,M,,,Awaiting Approval,1990-09-17T00:00:00,0001-01-01T00:00:00,,75427577W75,Acess Basic + Funeral,false,263772713405,,,,,0
+16102,,,ABF0000396,2,Esnath,ER,Ragara,F,,,Awaiting Approval,1997-02-10T00:00:00,0001-01-01T00:00:00,,a6819,Acess Basic + Funeral,true,,,,,,0
+16103,,,ABF0000396,3,Adorable,AM,Machekeche,F,,,Awaiting Approval,2016-06-28T00:00:00,0001-01-01T00:00:00,,a6820,Acess Basic + Funeral,true,,,,,,0
+16104,,,ABF0000396,4,Adlite,AM,Machekeche,F,,,Awaiting Approval,2019-11-03T00:00:00,0001-01-01T00:00:00,,a6821,Acess Basic + Funeral,true,,,,,,0
+16105,,,ABF0000396,5,Adrian,AM,Machekeche,M,,,Awaiting Approval,2021-11-23T00:00:00,0001-01-01T00:00:00,,a6822,Acess Basic + Funeral,true,,,,,,0
+16106,,,ABF0000397,1,Isaac,IM,Murahwa,M,,,Awaiting Approval,1989-01-05T00:00:00,0001-01-01T00:00:00,,75431839D75,Acess Basic + Funeral,false,263778506401,,,,,0
+16107,,,ABF0000397,2,Moreblessing,MB,Boka,F,,,Awaiting Approval,1993-11-08T00:00:00,0001-01-01T00:00:00,,42275427A42,Acess Basic + Funeral,true,,,,,,0
+16108,,,ABF0000397,3,Kudakwashe,KM,Marahwa,M,,,Awaiting Approval,2011-06-11T00:00:00,0001-01-01T00:00:00,,a6823,Acess Basic + Funeral,true,,,,,,0
+16109,,,ABF0000397,4,Kupakwashe,KM,Marahwa,M,,,Awaiting Approval,2014-08-09T00:00:00,0001-01-01T00:00:00,,a6824,Acess Basic + Funeral,true,,,,,,0
+16110,,,ABF0000397,5,Kailer,KM,Marahwa,M,,,Awaiting Approval,2020-03-08T00:00:00,0001-01-01T00:00:00,,a6825,Acess Basic + Funeral,true,,,,,,0
+16111,,,ABF0000397,6,Keila,KM,Marahwa,F,,,Awaiting Approval,2024-05-25T00:00:00,0001-01-01T00:00:00,,a6826,Acess Basic + Funeral,true,,,,,,0
+16112,,,ABF0000397,7,Gladys,GM,Mukondwa,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,42100044R80,Acess Basic + Funeral,true,,,,,,0
+16113,,,ABF0000398,1,Viola Brenda,VBM,Mazhore,F,,,Awaiting Approval,2002-01-21T00:00:00,0001-01-01T00:00:00,,07261995X07,Acess Basic + Funeral,false,263782728121,,,,,0
+16114,,,ABF0000398,2,Divine,DK,Kasipare,M,,,Awaiting Approval,2022-10-30T00:00:00,0001-01-01T00:00:00,,a6827,Acess Basic + Funeral,true,,,,,,0
+16115,,,ABF0000398,3,Shallon,SU,Ushendibaba,F,,,Awaiting Approval,1983-06-21T00:00:00,0001-01-01T00:00:00,,75364116B75,Acess Basic + Funeral,true,,,,,,0
+16116,,,ABF0000399,1,Owen,OK,Kasipare,M,,,Awaiting Approval,2002-09-01T00:00:00,0001-01-01T00:00:00,,a6828,Acess Basic + Funeral,false,263776307999,,,,,0
+16117,,,ABF0000399,2,Constance,CC,Chirango,F,,,Awaiting Approval,2002-01-07T00:00:00,0001-01-01T00:00:00,,75549709T75,Acess Basic + Funeral,true,,,,,,0
+16118,,,ABF0000399,3,Relief,RK,Kasipare,F,,,Awaiting Approval,2025-10-25T00:00:00,0001-01-01T00:00:00,,a6829,Acess Basic + Funeral,true,,,,,,0
+16119,,,ABF0000400,1,Farai,FG,Gowero,M,,,Awaiting Approval,1985-08-05T00:00:00,0001-01-01T00:00:00,,75374570E 75,Acess Basic + Funeral,false,263773086702,,,,,0
+16120,,,ABF0000400,2,Prisca,PC,Chikeya,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6830,Acess Basic + Funeral,true,,,,,,0
+16121,,,ABF0000400,3,Leeroy,LG,Gowero,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6831,Acess Basic + Funeral,true,,,,,,0
+16122,,,ABF0000400,4,Makanaka,MG,Gowero,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6832,Acess Basic + Funeral,true,,,,,,0
+16123,,,ABF0000401,1,Takudzwa,TM,Machekeche,M,,,Awaiting Approval,1980-10-17T00:00:00,0001-01-01T00:00:00,,75338585Q75,Acess Basic + Funeral,false,263772816325,,,,,0
+16124,,,ABF0000401,2,Lucia,LW,Wede,F,,,Awaiting Approval,1987-01-20T00:00:00,0001-01-01T00:00:00,,75412534V50,Acess Basic + Funeral,true,,,,,,0
+16125,,,ABF0000401,3,Tapiwa,TM,Machekeche,F,,,Awaiting Approval,2006-06-27T00:00:00,0001-01-01T00:00:00,,75571446A75,Acess Basic + Funeral,true,,,,,,0
+16126,,,ABF0000401,4,Tadiwa,TM,Machekeche,F,,,Awaiting Approval,2011-04-15T00:00:00,0001-01-01T00:00:00,,a6834,Acess Basic + Funeral,true,,,,,,0
+16127,,,ABF0000401,5,Takunda,TM,Machekeche,M,,,Awaiting Approval,2016-05-25T00:00:00,0001-01-01T00:00:00,,a6835,Acess Basic + Funeral,true,,,,,,0
+16128,,,ABF0000401,6,Tadiswa,TM,Machekeche,F,,,Awaiting Approval,2021-08-07T00:00:00,0001-01-01T00:00:00,,a6836,Acess Basic + Funeral,true,,,,,,0
+16129,,,ABF0000401,7,Everline,EM,Machekeche,F,,,Awaiting Approval,1956-06-25T00:00:00,0001-01-01T00:00:00,,a6837,Acess Basic + Funeral,true,,,,,,0
+16130,,,ABF0000402,1,Misheck,MM,Mutero,M,,,Awaiting Approval,1969-12-08T00:00:00,0001-01-01T00:00:00,,75159628X75,Acess Basic + Funeral,false,263772334777,,,,,0
+16131,,,ABF0000402,2,Jescah,JM,Madhana,F,,,Awaiting Approval,1976-01-09T00:00:00,0001-01-01T00:00:00,,75170822P80,Acess Basic + Funeral,true,,,,,,0
+16132,,,ABF0000402,3,Lytton,LM,Mutero,M,,,Awaiting Approval,2013-12-20T00:00:00,0001-01-01T00:00:00,,a6839,Acess Basic + Funeral,true,,,,,,0
+16133,,,ABF0000402,4,Calton,CM,Mutero,M,,,Awaiting Approval,2006-10-18T00:00:00,0001-01-01T00:00:00,,a6840,Acess Basic + Funeral,true,,,,,,0
+16134,,,ABF0000403,1,David,DG,Gowero,M,,,Awaiting Approval,1978-06-16T00:00:00,0001-01-01T00:00:00,,75329828X75,Acess Basic + Funeral,false,263778492484,,,,,0
+16135,,,ABF0000403,2,Loveday,LN,Nyangani,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6841,Acess Basic + Funeral,true,,,,,,0
+16136,,,ABF0000403,3,Millicent,MG,Gwazai,F,,,Awaiting Approval,2011-05-18T00:00:00,0001-01-01T00:00:00,,a6842,Acess Basic + Funeral,true,,,,,,0
+16137,,,ABF0000403,4,Melisa,MG,Gwazai,F,,,Awaiting Approval,2017-11-17T00:00:00,0001-01-01T00:00:00,,a6843,Acess Basic + Funeral,true,,,,,,0
+16138,,,ABF0000403,5,Malon,MG,Gwazai,M,,,Awaiting Approval,2020-02-25T00:00:00,0001-01-01T00:00:00,,a6844,Acess Basic + Funeral,true,,,,,,0
+16139,,,ABF0000404,1,Mirias,MY,Yapara,M,,,Awaiting Approval,1989-06-29T00:00:00,0001-01-01T00:00:00,,42267299Q75,Acess Basic + Funeral,false,263785922264,,,,,0
+16140,,,ABF0000404,2,Lyobar,LK,Kajenga,F,,,Awaiting Approval,1999-03-13T00:00:00,0001-01-01T00:00:00,,752116510Y50,Acess Basic + Funeral,true,,,,,,0
+16141,,,ABF0000404,3,Jason,JY,Yapara,M,,,Awaiting Approval,2020-08-30T00:00:00,0001-01-01T00:00:00,,a6845,Acess Basic + Funeral,true,,,,,,0
+16142,,,ABF0000404,4,Jackson,JY,Yapara,M,,,Awaiting Approval,2023-11-24T00:00:00,0001-01-01T00:00:00,,a6846,Acess Basic + Funeral,true,,,,,,0
+16143,,,ABF0000404,5,Vennencia,VT,Tenga,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6847,Acess Basic + Funeral,true,,,,,,0
+16144,,,ABF0000405,1,Artwell,AC,Chigumhira,M,,,Awaiting Approval,1992-10-30T00:00:00,0001-01-01T00:00:00,,75496010E 75,Acess Basic + Funeral,false,263778500541,,,,,0
+16145,,,ABF0000406,1,Anderson,AD,Daure,M,,,Awaiting Approval,1983-03-17T00:00:00,0001-01-01T00:00:00,,75365479X75,Acess Basic + Funeral,false,263772611573,,,,,0
+16146,,,ABF0000407,1,Mathias,MF,Foto,M,,,Awaiting Approval,1976-02-10T00:00:00,0001-01-01T00:00:00,,75431585C75,Acess Basic + Funeral,false,263777774708,,,,,0
+16147,,,ABF0000407,2,Shepherd,SF,Foto,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6848,Acess Basic + Funeral,true,,,,,,0
+16148,,,ABF0000407,3,Sibongile,SF,Foto,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6849,Acess Basic + Funeral,true,,,,,,0
+16149,,,ABF0000408,1,Booker,BN,Nyakusanwa,M,,,Awaiting Approval,1963-10-15T00:00:00,0001-01-01T00:00:00,,50016416T50,Acess Basic + Funeral,false,263775420786,,,,,0
+16150,,,ABF0000408,2,Constance,CN,Nyakusanwa,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6850,Acess Basic + Funeral,true,,,,,,0
+16151,,,ABF0000409,1,Florence,FK,Kaukonde,F,,,Awaiting Approval,2002-07-03T00:00:00,0001-01-01T00:00:00,,48183133Z48,Acess Basic + Funeral,false,263788853225,,,,,0
+16152,,,ABF0000409,2,Tapiwa,TM,Masukume,M,,,Awaiting Approval,2007-12-22T00:00:00,0001-01-01T00:00:00,,a6851,Acess Basic + Funeral,true,,,,,,0
+16153,,,ABF0000409,3,Anesu,AM,Masukume,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6852,Acess Basic + Funeral,true,,,,,,0
+16154,,,ABF0000410,1,Ennia,EM,Muziya,F,,,Awaiting Approval,1962-01-01T00:00:00,0001-01-01T00:00:00,,75013975D75,Acess Basic + Funeral,false,263771773608,,,,,0
+16155,,,ABF0000410,2,Douglas Peter,DPG,Gore,M,,,Awaiting Approval,1952-02-10T00:00:00,0001-01-01T00:00:00,,7513977E 75,Acess Basic + Funeral,true,,,,,,0
+16156,,,ABF0000410,3,Kunashe,KG,Gore,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6853,Acess Basic + Funeral,true,,,,,,0
+16157,,,ABF0000411,1,James,JK,Kasipare,M,,,Awaiting Approval,1978-01-06T00:00:00,0001-01-01T00:00:00,,75179337Y75,Acess Basic + Funeral,false,263772732030,,,,,0
+16158,,,ABF0000411,2,Relax,RK,Kasipare,F,,,Awaiting Approval,2020-05-24T00:00:00,0001-01-01T00:00:00,,a6886,Acess Basic + Funeral,true,,,,,,0
+16159,,,ABF0000411,3,Ethapence,EK,Kasipare,F,,,Awaiting Approval,2020-09-20T00:00:00,0001-01-01T00:00:00,,a6854,Acess Basic + Funeral,true,,,,,,0
+16160,,,ABF0000412,1,Cephas,CH,Hakuna,M,,,Awaiting Approval,1993-04-23T00:00:00,0001-01-01T00:00:00,,75473901Y80,Acess Basic + Funeral,false,263787281585,,,,,0
+16161,,,ABF0000412,2,Ronia,RM,Machabe,F,,,Awaiting Approval,1998-05-28T00:00:00,0001-01-01T00:00:00,,75529907Z75,Acess Basic + Funeral,true,,,,,,0
+16162,,,ABF0000413,1,Simba,SJ,Jiriyengwa,M,,,Awaiting Approval,1968-09-08T00:00:00,0001-01-01T00:00:00,,75199795G75,Acess Basic + Funeral,false,263778079736,,,,,0
+16163,,,ABF0000413,2,Marble,MM,Murwisi,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6887,Acess Basic + Funeral,true,,,,,,0
+16164,,,ABF0000413,3,Makanaka,MM,Mapfunde,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6855,Acess Basic + Funeral,true,,,,,,0
+16165,,,ABF0000413,4,Purity,PM,Mapfunde,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6856,Acess Basic + Funeral,true,,,,,,0
+16166,,,ABF0000414,1,Josephat,JT,Tsukamuyala,M,,,Awaiting Approval,1976-09-25T00:00:00,0001-01-01T00:00:00,,75307843A75,Acess Basic + Funeral,false,263777481052,,,,,0
+16167,,,ABF0000414,2,Pamela,PD,Dehwe,F,,,Awaiting Approval,1980-02-28T00:00:00,0001-01-01T00:00:00,,75367968D75,Acess Basic + Funeral,true,,,,,,0
+16168,,,ABF0000415,1,Mezah,MS,Simtali,M,,,Awaiting Approval,1972-02-12T00:00:00,0001-01-01T00:00:00,,75297304V75,Acess Basic + Funeral,false,263783584057,,,,,0
+16169,,,ABF0000415,2,Hilda,HA,Ali,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6857,Acess Basic + Funeral,true,,,,,,0
+16170,,,ABF0000415,3,Nyasha,NS,Simtali,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6858,Acess Basic + Funeral,true,,,,,,0
+16171,,,ABF0000415,4,Believe,BS,Simtali,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6859,Acess Basic + Funeral,true,,,,,,0
+16172,,,ABF0000416,1,Simbarashe,SK,Kanyawa,M,,,Awaiting Approval,1997-06-02T00:00:00,0001-01-01T00:00:00,,75531338E 75,Acess Basic + Funeral,false,263771703790,,,,,0
+16173,,,ABF0000417,1,Augustine,AS,Shumba,M,,,Awaiting Approval,1983-03-13T00:00:00,0001-01-01T00:00:00,,75338600G75,Acess Basic + Funeral,false,263773558863,,,,,0
+16174,,,ABF0000417,2,Leslie,LN,Ngwende,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6860,Acess Basic + Funeral,true,,,,,,0
+16175,,,ABF0000417,3,Beaula,BS,Shumba,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6861,Acess Basic + Funeral,true,,,,,,0
+16176,,,ABF0000417,4,Brilliant,BS,Shumba,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6862,Acess Basic + Funeral,true,,,,,,0
+16177,,,ABF0000417,5,Augustine,AS,Shumba,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6863,Acess Basic + Funeral,true,,,,,,0
+16178,,,ABF0000417,6,Talia,TS,Shumba,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6864,Acess Basic + Funeral,true,,,,,,0
+16179,,,ABF0000418,1,Knowledge,KC,Chokore,M,,,Awaiting Approval,1978-07-19T00:00:00,0001-01-01T00:00:00,,75175446Q75,Acess Basic + Funeral,false,263773449711,,,,,0
+16180,,,ABF0000418,2,Annah,AN,Nyamugure,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6865,Acess Basic + Funeral,true,,,,,,0
+16181,,,ABF0000419,1,Cossam,CC,Chitiga,M,,,Awaiting Approval,1980-11-09T00:00:00,0001-01-01T00:00:00,,75330587X75,Acess Basic + Funeral,false,263785397626,,,,,0
+16182,,,ABF0000419,2,Agness,AM,Mupatisi,F,,,Awaiting Approval,1984-06-21T00:00:00,0001-01-01T00:00:00,,75571354A07,Acess Basic + Funeral,true,,,,,,0
+16183,,,ABF0000419,3,Auxillia,AC,Chitiga,F,,,Awaiting Approval,2002-06-04T00:00:00,0001-01-01T00:00:00,,75572568Y75,Acess Basic + Funeral,true,,,,,,0
+16184,,,ABF0000419,4,Clive,CC,Chitiga,M,,,Awaiting Approval,2004-03-03T00:00:00,0001-01-01T00:00:00,,75571369R75,Acess Basic + Funeral,true,,,,,,0
+16185,,,ABF0000419,5,Pauline,PC,Chitiga,F,,,Awaiting Approval,2009-10-08T00:00:00,0001-01-01T00:00:00,,u/0/20083/22,Acess Basic + Funeral,true,,,,,,0
+16186,,,ABF0000419,6,Glademore,GC,Chitiga,M,,,Awaiting Approval,2017-04-20T00:00:00,0001-01-01T00:00:00,,u/0/20089/22,Acess Basic + Funeral,true,,,,,,0
+16187,,,ABF0000420,1,Rachiel,RN,Nyanjowa,F,,,Awaiting Approval,1971-03-25T00:00:00,0001-01-01T00:00:00,,75265136E 75,Acess Basic + Funeral,false,263784988848,,,,,0
+16188,,,ABF0000420,2,Milton,MN,Nyanjowa,M,,,Awaiting Approval,2004-03-18T00:00:00,0001-01-01T00:00:00,,752169981Q75,Acess Basic + Funeral,true,,,,,,0
+16189,,,ABF0000420,3,Priviledge,PM,Mandoga,F,,,Awaiting Approval,2008-08-04T00:00:00,0001-01-01T00:00:00,,a6866,Acess Basic + Funeral,true,,,,,,0
+16190,,,ABF0000420,4,Tanyaradzwa,TN,Nyanjowa,M,,,Awaiting Approval,2001-07-18T00:00:00,0001-01-01T00:00:00,,a6867,Acess Basic + Funeral,true,,,,,,0
+16191,,,ABF0000420,5,Tinotenda,TN,Nyanjowa,M,,,Awaiting Approval,2000-02-27T00:00:00,0001-01-01T00:00:00,,a6868,Acess Basic + Funeral,true,,,,,,0
+16192,,,PB0000341,1,Nyasha,NS,Shumba,M,,,Awaiting Approval,1989-12-04T00:00:00,0001-01-01T00:00:00,,75399224C75,Private Basic,false,263773937883,,,,,0
+16193,,,PB0000341,2,Tracy,TN,Nyajuwa,F,,,Awaiting Approval,1959-01-05T00:00:00,0001-01-01T00:00:00,,75138530P75,Private Basic,true,,,,,,0
+16194,,,ABF0000421,1,Farai,FM,Matauranwa,M,,,Awaiting Approval,1968-12-12T00:00:00,0001-01-01T00:00:00,,07068172V07,Acess Basic + Funeral,false,263776834477,,,,,0
+16195,,,ABF0000422,1,Takesure,TC,Chiwandika,M,,,Awaiting Approval,1974-02-04T00:00:00,0001-01-01T00:00:00,,50069330J50,Acess Basic + Funeral,false,263775601742,,,,,0
+16196,,,ABF0000422,2,Florence,FM,Morotari,F,,,Awaiting Approval,1980-08-12T00:00:00,0001-01-01T00:00:00,,50129960L50,Acess Basic + Funeral,true,,,,,,0
+16197,,,ABF0000422,3,Laudorn,LC,Chiwandika,M,,,Awaiting Approval,2001-01-04T00:00:00,0001-01-01T00:00:00,,a6869,Acess Basic + Funeral,true,,,,,,0
+16198,,,ABF0000422,4,Tryness,TC,Chiwandika,M,,,Awaiting Approval,2004-07-15T00:00:00,0001-01-01T00:00:00,,a6870,Acess Basic + Funeral,true,,,,,,0
+16199,,,ABF0000422,5,Yolanda,YC,Chiwandika,F,,,Awaiting Approval,2011-12-27T00:00:00,0001-01-01T00:00:00,,a6871,Acess Basic + Funeral,true,,,,,,0
+16200,,,ABF0000422,6,Asante,AC,Chiwandika,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6872,Acess Basic + Funeral,true,,,,,,0
+16201,,,ABF0000422,7,Akelly,AC,Chiwandika,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6873,Acess Basic + Funeral,true,,,,,,0
+16202,,,ABF0000423,1,Maxwell,MM,Matauranwa,M,,,Rejected,1996-06-14T00:00:00,0001-01-01T00:00:00,,50142977K07,Acess Basic + Funeral,false,263785725664,,,,,0
+16203,,,ABF0000423,2,Everjoy,EM,Mupita,F,,,Rejected,1996-09-22T00:00:00,0001-01-01T00:00:00,,50142706Q50,Acess Basic + Funeral,true,,,,,,0
+16204,,,ABF0000424,1,Chipo,CF,Foto,F,,,Awaiting Approval,1985-08-28T00:00:00,0001-01-01T00:00:00,,75544920S07,Acess Basic + Funeral,false,263783466042,,,,,0
+16205,,,ABF0000424,2,Takunda,TM,Matovo,M,,,Awaiting Approval,2012-08-18T00:00:00,0001-01-01T00:00:00,,u/021772/22,Acess Basic + Funeral,true,,,,,,0
+16206,,,ABF0000424,3,Precious,PM,Matovo,F,,,Awaiting Approval,2016-08-11T00:00:00,0001-01-01T00:00:00,,u/0/21771/22,Acess Basic + Funeral,true,,,,,,0
+16207,,,ABF0000424,4,Herbert,HM,Matovo,M,,,Awaiting Approval,2022-03-28T00:00:00,0001-01-01T00:00:00,,21881/22,Acess Basic + Funeral,true,,,,,,0
+16208,,,ABF0000424,5,Hilton,HM,Marara,M,,,Awaiting Approval,2011-02-03T00:00:00,0001-01-01T00:00:00,,a6874,Acess Basic + Funeral,true,,,,,,0
+16209,,,ABF0000425,1,Richard,RM,Muteerwa,M,,,Awaiting Approval,1978-09-23T00:00:00,0001-01-01T00:00:00,,50083674A50,Acess Basic + Funeral,false,263774177974,,,,,0
+16210,,,ABF0000425,2,Betty,BC,Chari,F,,,Awaiting Approval,1984-11-20T00:00:00,0001-01-01T00:00:00,,43144281G47,Acess Basic + Funeral,true,,,,,,0
+16211,,,ABF0000425,3,Martha,MD,Dzaungwa,F,,,Awaiting Approval,1988-05-08T00:00:00,0001-01-01T00:00:00,,50111152S50,Acess Basic + Funeral,true,,,,,,0
+16212,,,ABF0000425,4,Tanaka,TM,Muteerwa,M,,,Awaiting Approval,2012-02-17T00:00:00,0001-01-01T00:00:00,,a6875,Acess Basic + Funeral,true,,,,,,0
+16213,,,ABF0000425,5,Moreblessing,MM,Muteerwa,F,,,Awaiting Approval,2019-10-02T00:00:00,0001-01-01T00:00:00,,a6876,Acess Basic + Funeral,true,,,,,,0
+16214,,,ABF0000425,6,Tafadzwa,TM,Muteerwa,M,,,Awaiting Approval,2018-09-09T00:00:00,0001-01-01T00:00:00,,a6877,Acess Basic + Funeral,true,,,,,,0
+16215,,,ABF0000425,7,Takudzwa,TM,Muteerwa,M,,,Awaiting Approval,2022-02-23T00:00:00,0001-01-01T00:00:00,,a6878,Acess Basic + Funeral,true,,,,,,0
+16216,,,ABF0000425,8,Mercyleen,MM,Muteerwa,F,,,Awaiting Approval,2023-09-29T00:00:00,0001-01-01T00:00:00,,a6879,Acess Basic + Funeral,true,,,,,,0
+16217,,,ABF0000425,9,Chantel,CC,Chitsamba,F,,,Awaiting Approval,2020-01-20T00:00:00,0001-01-01T00:00:00,,a6880,Acess Basic + Funeral,true,,,,,,0
+16218,,,ABF0000425,10,Gamuchirai,GM,Matseka,M,,,Awaiting Approval,2017-12-17T00:00:00,0001-01-01T00:00:00,,a6881,Acess Basic + Funeral,true,,,,,,0
+16219,,,ABF0000425,11,Anenyasha,AM,Muteerwa,F,,,Awaiting Approval,2021-10-16T00:00:00,0001-01-01T00:00:00,,a6882,Acess Basic + Funeral,true,,,,,,0
+16220,,,ABF0000425,12,Anesu,AM,Muteerwa,F,,,Awaiting Approval,2021-10-16T00:00:00,0001-01-01T00:00:00,,a6883,Acess Basic + Funeral,true,,,,,,0
+16221,,,ABF0000426,1,Susan,SM,Mwasiye,F,,,Awaiting Approval,1970-04-24T00:00:00,0001-01-01T00:00:00,,75194978W75,Acess Basic + Funeral,false,263780459555,,,,,0
+16222,,,ABF0000427,1,Clopas,CM,Mutichakwa,M,,,Awaiting Approval,1959-07-07T00:00:00,0001-01-01T00:00:00,,13075628N75,Acess Basic + Funeral,false,263775080594,,,,,0
+16223,,,ABF0000427,2,Barbra,BM,Makowero,F,,,Awaiting Approval,1968-08-13T00:00:00,0001-01-01T00:00:00,,75193471H75,Acess Basic + Funeral,true,,,,,,0
+16224,,,ABF0000427,3,Tafadzwa,TN,Nyambawaro,M,,,Awaiting Approval,2014-02-27T00:00:00,0001-01-01T00:00:00,,a6884,Acess Basic + Funeral,true,,,,,,0
+16225,,,ABF0000427,4,Thanks Mukudzei,TMK,Kagogoda,M,,,Awaiting Approval,2019-01-28T00:00:00,0001-01-01T00:00:00,,a6885,Acess Basic + Funeral,true,,,,,,0
+16226,,,ABF0000427,5,Tanatswa,TM,Mutichakwa,F,,,Awaiting Approval,2013-01-02T00:00:00,0001-01-01T00:00:00,,75211879Y75,Acess Basic + Funeral,true,,,,,,0
+16227,,,ABF0000427,6,Peacemaker,PM,Mutichakwa,F,,,Awaiting Approval,2002-04-26T00:00:00,0001-01-01T00:00:00,,75571168Y75,Acess Basic + Funeral,true,,,,,,0
+16228,,,ABF0000427,7,Norest,NM,Mutichakwa,F,,,Awaiting Approval,1989-03-11T00:00:00,0001-01-01T00:00:00,,75431248L75,Acess Basic + Funeral,true,,,,,,0
+16229,,,ABF0000427,8,Kashington,KM,Mutichakwa,M,,,Awaiting Approval,2000-12-20T00:00:00,0001-01-01T00:00:00,,75526406J75,Acess Basic + Funeral,true,,,,,,0
+16230,,,ABF0000428,1,Tukai,TM,Makamba,F,,,Awaiting Approval,1979-01-06T00:00:00,0001-01-01T00:00:00,,68060329S68,Acess Basic + Funeral,false,263788811274,,,,,0
+16231,,,ABF0000428,2,Mitchel,MG,Gatsi,F,,,Awaiting Approval,2016-04-18T00:00:00,0001-01-01T00:00:00,,a6888,Acess Basic + Funeral,true,,,,,,0
+16232,,,ABF0000429,1,Faxon,FG,Gorerino,M,,,Awaiting Approval,1959-12-19T00:00:00,0001-01-01T00:00:00,,610089689Q61,Acess Basic + Funeral,false,,,,,,0
+16233,,,ABF0000429,2,Shandai,SK,Karimudzandu,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6889,Acess Basic + Funeral,true,,,,,,0
+16234,,,ABF0000430,1,Juliet,JS,Shamurarira,F,,,Awaiting Approval,1968-09-21T00:00:00,0001-01-01T00:00:00,,15083110J15,Acess Basic + Funeral,false,263774372565,,,,,0
+16235,,,ABF0000430,2,Rudo J,RJN,Nhutsve,F,,,Awaiting Approval,2008-07-23T00:00:00,0001-01-01T00:00:00,,a6890,Acess Basic + Funeral,true,,,,,,0
+16236,,,ABF0000431,1,Enock,EN,Nhutsve,M,,,Awaiting Approval,1967-07-25T00:00:00,0001-01-01T00:00:00,,63724647V15,Acess Basic + Funeral,false,263774188100,,,,,0
+16237,,,ABF0000431,2,Susan,SK,Karise,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6891,Acess Basic + Funeral,true,,,,,,0
+16238,,,ABF0000432,1,Paul,PV,Vambe,F,,,Awaiting Approval,1973-05-10T00:00:00,0001-01-01T00:00:00,,15103717H15,Acess Basic + Funeral,false,263785874313,,,,,0
+16239,,,ABF0000432,2,Stella,SK,Kadungure,F,,,Awaiting Approval,1965-06-20T00:00:00,0001-01-01T00:00:00,,1508914B15,Acess Basic + Funeral,true,,,,,,0
+16240,,,ABF0000433,1,Learnmore,LU,Underson,M,,,Awaiting Approval,1986-09-19T00:00:00,0001-01-01T00:00:00,,45249996C49,Acess Basic + Funeral,false,263781835473,,,,,0
+16241,,,ABF0000433,2,Onai,ON,Nyabowa,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6892,Acess Basic + Funeral,true,,,,,,0
+16242,,,ABF0000434,1,Maxwell Manoti,MMC,Chatadza,M,,,Awaiting Approval,1957-01-01T00:00:00,0001-01-01T00:00:00,,05002733C05,Acess Basic + Funeral,false,263777626110,,,,,0
+16243,,,ABF0000434,2,Cecilia,CN,Nyambaya,F,,,Awaiting Approval,1970-08-07T00:00:00,0001-01-01T00:00:00,,05170869J05,Acess Basic + Funeral,true,,,,,,0
+16244,,,ABF0000434,3,Maxwell,MC,Chatadza,M,,,Awaiting Approval,2007-06-07T00:00:00,0001-01-01T00:00:00,,43174550K05,Acess Basic + Funeral,true,,,,,,0
+16245,,,ABF0000435,1,Amos,AS,Sereki,M,,,Awaiting Approval,1971-10-21T00:00:00,0001-01-01T00:00:00,,61023078G61,Acess Basic + Funeral,false,263713009273,,,,,0
+16246,,,ABF0000435,2,Sarah,SM,Mashayamombe,F,,,Awaiting Approval,1978-06-21T00:00:00,0001-01-01T00:00:00,,a6893,Acess Basic + Funeral,true,,,,,,0
+16247,,,ABF0000435,3,Juliet,JS,Sereki,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6894,Acess Basic + Funeral,true,,,,,,0
+16248,,,ABF0000435,4,Ronald,RS,Sereki,M,,,Awaiting Approval,2000-08-06T00:00:00,0001-01-01T00:00:00,,a6895,Acess Basic + Funeral,true,,,,,,0
+16249,,,ABF0000435,5,Ruvarashe,RS,Sereki,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6896,Acess Basic + Funeral,true,,,,,,0
+16250,,,ABF0000436,1,Monica,MR,Rojasi,F,,,Awaiting Approval,1968-03-04T00:00:00,0001-01-01T00:00:00,,68036832C68,Acess Basic + Funeral,false,263779980447,,,,,0
+16251,,,ABF0000436,2,Gift,GK,Kadembe,M,,,Awaiting Approval,1966-08-12T00:00:00,0001-01-01T00:00:00,,a6897,Acess Basic + Funeral,true,,,,,,0
+16252,,,ABF0000436,3,Gift,GK,Kadembe,M,,,Awaiting Approval,2018-01-02T00:00:00,0001-01-01T00:00:00,,a6898,Acess Basic + Funeral,true,,,,,,0
+16253,,,ABF0000437,1,Romeo,RK,Kamuwara,M,,,Awaiting Approval,1990-12-25T00:00:00,0001-01-01T00:00:00,,68584958D68,Acess Basic + Funeral,false,263773035796,,,,,0
+16254,,,ABF0000437,2,Lizimet,LC,Chipendo,F,,,Awaiting Approval,1998-04-16T00:00:00,0001-01-01T00:00:00,,a6899,Acess Basic + Funeral,true,,,,,,0
+16255,,,ABF0000437,3,Shamain,SK,Kamuwara,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6900,Acess Basic + Funeral,true,,,,,,0
+16256,,,ABF0000437,4,Alfa,AK,Kamuwara,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6901,Acess Basic + Funeral,true,,,,,,0
+16257,,,ABF0000437,5,Kelly K,KK,Kamuwara,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6902,Acess Basic + Funeral,true,,,,,,0
+16258,,,ABF0000438,1,Ellen Mutsirai,EMM,Mujongondi,F,,,Awaiting Approval,1980-12-29T00:00:00,0001-01-01T00:00:00,,15127682G15,Acess Basic + Funeral,false,263782598823,,,,,0
+16259,,,ABF0000438,2,Emelder R,ERC,Chikuvanyanga,F,,,Awaiting Approval,2003-11-11T00:00:00,0001-01-01T00:00:00,,152035136G15,Acess Basic + Funeral,true,,,,,,0
+16260,,,ABF0000438,3,Elvis R,ERC,Chikuvanyanga,M,,,Awaiting Approval,2008-03-30T00:00:00,0001-01-01T00:00:00,,15244288C15,Acess Basic + Funeral,true,,,,,,0
+16261,,,ABF0000438,4,Enisa,EC,Chikuvanyanga,F,,,Awaiting Approval,2014-12-08T00:00:00,0001-01-01T00:00:00,,a6903,Acess Basic + Funeral,true,,,,,,0
+16262,,,ABF0000439,1,Bridget,BM,Mukahiwa,F,,,Awaiting Approval,1985-04-24T00:00:00,0001-01-01T00:00:00,,11061701M15,Acess Basic + Funeral,false,263777421917,,,,,0
+16263,,,ABF0000439,2,Ropafadzo,RG,Govha,M,,,Awaiting Approval,2006-05-10T00:00:00,0001-01-01T00:00:00,,a6904,Acess Basic + Funeral,true,,,,,,0
+16264,,,ABF0000440,1,Criswell,CM,Marufu,M,,,Awaiting Approval,1966-01-07T00:00:00,0001-01-01T00:00:00,,63429484Q15,Acess Basic + Funeral,false,263771354359,,,,,0
+16265,,,ABF0000440,2,Allan,AM,Marufu,M,,,Awaiting Approval,2005-09-12T00:00:00,0001-01-01T00:00:00,,15228836G15,Acess Basic + Funeral,true,,,,,,0
+16266,,,ABF0000441,1,Maria,MM,Mutisi,F,,,Awaiting Approval,1961-01-01T00:00:00,0001-01-01T00:00:00,,63313347E 75,Acess Basic + Funeral,false,263775609438,,,,,0
+16267,,,ABF0000441,2,Colonel,CM,Mwinachibi,M,,,Awaiting Approval,2019-06-17T00:00:00,0001-01-01T00:00:00,,a6905,Acess Basic + Funeral,true,,,,,,0
+16268,,,ABF0000441,3,Cardwell,CM,Mwinachibi,M,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6906,Acess Basic + Funeral,true,,,,,,0
+16269,,,ABF0000442,1,Felistas Tatenda,FTC,Chinyere,F,,,Active,1997-04-09T00:00:00,0001-01-01T00:00:00,,632001754C47,Acess Basic + Funeral,false,263775973808,,,,,0
+16270,,,ABF0000442,2,Blessing T,BTT,Thom,M,,,Active,2016-08-17T00:00:00,0001-01-01T00:00:00,,thom,Acess Basic + Funeral,true,,,,,,0
+16271,,,ABF0000443,1,Tatenda Millicent,TMM,Mupambachuru,M,,,Active,2001-03-15T00:00:00,0001-01-01T00:00:00,,632505154B63,Acess Basic + Funeral,false,263772778593,,,,,0
+16272,,,ABF0000443,2,Travis Junior,TJM,Mandori,M,,,Active,2021-04-11T00:00:00,0001-01-01T00:00:00,,633906817Y47,Acess Basic + Funeral,true,,,,,,0
+16273,,,ABF0000443,3,Sekayi,SM,Mupambachuru,F,,,Active,1964-10-10T00:00:00,0001-01-01T00:00:00,,63526789G63,Acess Basic + Funeral,true,,,,,,0
+16274,,,ABF0000444,1,Shupikayi,SC,Chiku,F,,,Active,1970-10-15T00:00:00,0001-01-01T00:00:00,,63819079N63,Acess Basic + Funeral,false,263780543753,,,,,0
+16275,,,ABF0000445,1,Lilian,LB,Badura,F,,,Awaiting Approval,1981-06-01T00:00:00,0001-01-01T00:00:00,,3817201D38,Acess Basic + Funeral,false,263775981193,,,,,0
+16276,,,ABF0000445,2,Luke,LM,Moyana,M,,,Awaiting Approval,1966-03-13T00:00:00,0001-01-01T00:00:00,,79063992W79,Acess Basic + Funeral,true,,,,,,0
+16277,,,ABF0000446,1,Joseph,JM,Matepuka,M,,,Awaiting Approval,1965-07-10T00:00:00,0001-01-01T00:00:00,,3803124Y38,Acess Basic + Funeral,false,263784857557,,,,,0
+16278,,,ABF0000446,2,Matinetsa,MM,Masauti,F,,,Awaiting Approval,1978-01-01T00:00:00,0001-01-01T00:00:00,,38306276C38,Acess Basic + Funeral,true,,,,,,0
+16279,,,ABF0000447,1,Loyd,LK,Kanevava,M,,,Awaiting Approval,1975-03-10T00:00:00,0001-01-01T00:00:00,,38132674V38,Acess Basic + Funeral,false,263718725976,,,,,0
+16280,,,ABF0000447,2,Primrose,PK,Kanevava,F,,,Awaiting Approval,1979-06-10T00:00:00,0001-01-01T00:00:00,,a6907,Acess Basic + Funeral,true,,,,,,0
+16281,,,ABF0000447,3,John,JK,Kanevava,M,,,Awaiting Approval,2015-03-15T00:00:00,0001-01-01T00:00:00,,a6908,Acess Basic + Funeral,true,,,,,,0
+16282,,,ABF0000448,1,Ishmael,IZ,Zvigadza,M,,,Awaiting Approval,2000-03-10T00:00:00,0001-01-01T00:00:00,,7003142B70,Acess Basic + Funeral,false,263788952392,,,,,0
+16283,,,ABF0000448,2,Jessy,JK,Kapira,F,,,Awaiting Approval,2001-04-03T00:00:00,0001-01-01T00:00:00,,a6909,Acess Basic + Funeral,true,,,,,,0
+16284,,,ABF0000448,3,Wilmore,WZ,Zvigadza,M,,,Awaiting Approval,2010-01-10T00:00:00,0001-01-01T00:00:00,,a6910,Acess Basic + Funeral,true,,,,,,0
+16285,,,ABF0000448,4,Vaida,VZ,Zvigadza,F,,,Awaiting Approval,2015-03-02T00:00:00,0001-01-01T00:00:00,,a6911,Acess Basic + Funeral,true,,,,,,0
+16286,,,ABF0000449,1,Stephen,SM,Muteya,M,,,Awaiting Approval,1981-04-27T00:00:00,0001-01-01T00:00:00,,38134519N38,Acess Basic + Funeral,false,263775311696,,,,,0
+16287,,,ABF0000449,2,Rodha,RM,Muteya,F,,,Awaiting Approval,1956-06-10T00:00:00,0001-01-01T00:00:00,,a6912,Acess Basic + Funeral,true,,,,,,0
+16288,,,ABF0000449,3,Tanyaradzwa,TM,Muteya,F,,,Awaiting Approval,2011-07-03T00:00:00,0001-01-01T00:00:00,,a6913,Acess Basic + Funeral,true,,,,,,0
+16289,,,ABF0000449,4,Stella,SJ,Josiya,F,,,Awaiting Approval,1965-11-15T00:00:00,0001-01-01T00:00:00,,a6914,Acess Basic + Funeral,true,,,,,,0
+16290,,,ABF0000450,1,Moses,MT,Ticharwa,M,,,Awaiting Approval,1980-10-16T00:00:00,0001-01-01T00:00:00,,38034631G38,Acess Basic + Funeral,false,263786101356,,,,,0
+16291,,,ABF0000450,2,Jane,JM,Matipa,F,,,Awaiting Approval,1985-04-12T00:00:00,0001-01-01T00:00:00,,a6915,Acess Basic + Funeral,true,,,,,,0
+16292,,,ABF0000450,3,Chamunorwa,CT,Ticharwa,M,,,Awaiting Approval,2020-07-16T00:00:00,0001-01-01T00:00:00,,a6916,Acess Basic + Funeral,true,,,,,,0
+16293,,,ABF0000450,4,Virginia,VT,Ticharwa,F,,,Awaiting Approval,2015-07-10T00:00:00,0001-01-01T00:00:00,,a6917,Acess Basic + Funeral,true,,,,,,0
+16294,,,ABF0000451,1,Victor,VH,Hove,M,,,Awaiting Approval,1979-10-16T00:00:00,0001-01-01T00:00:00,,38361421V38,Acess Basic + Funeral,false,263719101356,,,,,0
+16295,,,ABF0000451,2,Netsai,NM,Masanga,F,,,Awaiting Approval,1984-03-10T00:00:00,0001-01-01T00:00:00,,a6918,Acess Basic + Funeral,true,,,,,,0
+16296,,,ABF0000451,3,Wilmore,WH,Hove,M,,,Awaiting Approval,2009-10-17T00:00:00,0001-01-01T00:00:00,,a6919,Acess Basic + Funeral,true,,,,,,0
+16297,,,ABF0000451,4,Dzorai,DH,Hove,M,,,Awaiting Approval,2014-03-10T00:00:00,0001-01-01T00:00:00,,a6920,Acess Basic + Funeral,true,,,,,,0
+16298,,,ABF0000452,1,Rodrick,RC,Chishanu,M,,,Awaiting Approval,1969-04-16T00:00:00,0001-01-01T00:00:00,,631531554L38,Acess Basic + Funeral,false,263777314210,,,,,0
+16299,,,ABF0000452,2,Chenai,CM,Mumba,F,,,Awaiting Approval,1975-03-10T00:00:00,0001-01-01T00:00:00,,a6921,Acess Basic + Funeral,true,,,,,,0
+16300,,,ABF0000452,3,Tapiwa,TC,Chishanu,M,,,Awaiting Approval,2014-04-16T00:00:00,0001-01-01T00:00:00,,a6922,Acess Basic + Funeral,true,,,,,,0
+16301,,,ABF0000452,4,Mufaro,MC,Chishanu,F,,,Awaiting Approval,2012-03-10T00:00:00,0001-01-01T00:00:00,,a6923,Acess Basic + Funeral,true,,,,,,0
+16302,,,ABF0000453,1,Chamunorwa,CM,Musarurwa,M,,,Awaiting Approval,1982-03-17T00:00:00,0001-01-01T00:00:00,,38063421Z38,Acess Basic + Funeral,false,263773230417,,,,,0
+16303,,,ABF0000453,2,Spiwe,SS,Sibanda,F,,,Awaiting Approval,1984-03-16T00:00:00,0001-01-01T00:00:00,,a6924,Acess Basic + Funeral,true,,,,,,0
+16304,,,ABF0000453,3,Taurai,TM,Musarurwa,M,,,Awaiting Approval,2007-02-10T00:00:00,0001-01-01T00:00:00,,a6925,Acess Basic + Funeral,true,,,,,,0
+16305,,,ABF0000453,4,Chengetai,CM,Musarurwa,F,,,Awaiting Approval,2010-06-15T00:00:00,0001-01-01T00:00:00,,a6926,Acess Basic + Funeral,true,,,,,,0
+16306,,,ABF0000453,5,Peter,PM,Musarurwa,F,,,Awaiting Approval,2012-04-16T00:00:00,0001-01-01T00:00:00,,a6927,Acess Basic + Funeral,true,,,,,,0
+16308,,,MSFAP00006,6,Evermore,EZ,Zireva,F,,,Awaiting Activation,1967-04-14T00:00:00,0001-01-01T00:00:00,,18033965K83,Private Care 20,true,,,,,,0
+16309,,,MSFAP00006,7,Tanyaradzwa,,Zireva, ,,,Awaiting Activation,2005-06-04T00:00:00,0001-01-01T00:00:00,,632439242H83,Private Care 20,true,,,,,,0
+16310,,,ABF0000454,1,Luckie,LD,Dani,M,,,Active,1967-05-28T00:00:00,0001-01-01T00:00:00,,63741135N63,Acess Basic + Funeral,false,263772645934,luckiedani@gmail.com,,,,0
+16311,,,PB0000342,1,Andrew,AM,Mudamburi,M,,,Awaiting Activation,1960-12-12T00:00:00,0001-01-01T00:00:00,,63677870Q27,Private Basic,false,263774597306,,,,,0
+16312,,,GAF0000798,1,Fungai,FC,Chamburuka,F,,,Awaiting Approval,1970-11-26T00:00:00,0001-01-01T00:00:00,,25027187N25,Access Basic + Funeral,false,263772240958,,,,,0
+16313,,,GAF0000798,2,Lindiwe,LH,Hungwe,F,,,Awaiting Approval,2002-10-10T00:00:00,0001-01-01T00:00:00,,a6930,Access Basic + Funeral,true,,,,,,0
+16314,,,GAF0000799,1,Chiratidzo,CM,Makanza,F,,,Awaiting Approval,1965-06-09T00:00:00,0001-01-01T00:00:00,,25043421J68,Access Basic + Funeral,false,263773581575,,,,,0
+16315,,,GAF0000799,2,David,DM,Makanza,M,,,Awaiting Approval,2000-05-22T00:00:00,0001-01-01T00:00:00,,a6931,Access Basic + Funeral,true,,,,,,0
+16316,,,GAF0000799,3,Masline,MM,Mutizira,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6932,Access Basic + Funeral,true,,,,,,0
+16318,,,ABF0000455,1,Vose,VN,Name,F,,,Awaiting Approval,1978-03-13T00:00:00,0001-01-01T00:00:00,,70150542N71,Acess Basic + Funeral,false,263719953129,,,,,0
+16319,,,ABF0000456,1,Tatenda,TC,Chebani,M,,,Awaiting Approval,1974-11-16T00:00:00,0001-01-01T00:00:00,,38443064K38,Acess Basic + Funeral,false,263772908499,,,,,0
+16320,,,ABF0000456,2,Tricia,TM,Mada,F,,,Awaiting Approval,1979-03-10T00:00:00,0001-01-01T00:00:00,,a6933,Acess Basic + Funeral,true,,,,,,0
+16321,,,ABF0000456,3,Tinotenda,TC,Chebani,M,,,Awaiting Approval,2000-07-06T00:00:00,0001-01-01T00:00:00,,a6934,Acess Basic + Funeral,true,,,,,,0
+16322,,,ABF0000456,4,Anashe,AC,Chebani,F,,,Awaiting Approval,2006-05-04T00:00:00,0001-01-01T00:00:00,,a6935,Acess Basic + Funeral,true,,,,,,0
+16323,,,ABF0000456,5,Priscilla,PM,Makaihwa,F,,,Awaiting Approval,1962-01-04T00:00:00,0001-01-01T00:00:00,,a6936,Acess Basic + Funeral,true,,,,,,0
+16324,,,ABF0000457,1,Trevor,TM,Mandaza,M,,,Awaiting Approval,1964-03-22T00:00:00,0001-01-01T00:00:00,,38004407W38,Acess Basic + Funeral,false,263777094454,,,,,0
+16325,,,ABF0000457,2,Sarudzai,SC,Chipanda,F,,,Awaiting Approval,1969-07-07T00:00:00,0001-01-01T00:00:00,,38070411F,Acess Basic + Funeral,true,,,,,,0
+16326,,,ABF0000457,3,Portia,PM,Murungweni,F,,,Awaiting Approval,2002-11-16T00:00:00,0001-01-01T00:00:00,,a6937,Acess Basic + Funeral,true,,,,,,0
+16327,,,ABF0000457,4,Trevor,TM,Murungweni,M,,,Awaiting Approval,2015-06-10T00:00:00,0001-01-01T00:00:00,,a6938,Acess Basic + Funeral,true,,,,,,0
+16328,,,ABF0000457,5,Clever,CM,Murungweni,M,,,Awaiting Approval,2015-06-10T00:00:00,0001-01-01T00:00:00,,a6939,Acess Basic + Funeral,true,,,,,,0
+16329,,,ABF0000458,1,Chabhururuka,CS,Sautu,M,,,Awaiting Approval,1973-03-02T00:00:00,0001-01-01T00:00:00,,37024447N37,Acess Basic + Funeral,false,263778316474,,,,,0
+16330,,,ABF0000458,2,Esnath,EM,Munyinya,F,,,Awaiting Approval,1975-09-04T00:00:00,0001-01-01T00:00:00,,a6940,Acess Basic + Funeral,true,,,,,,0
+16331,,,ABF0000458,3,Ester,ES,Siambembe,F,,,Awaiting Approval,1977-02-04T00:00:00,0001-01-01T00:00:00,,a6941,Acess Basic + Funeral,true,,,,,,0
+16332,,,ABF0000458,4,Kesina,KK,Kainga,F,,,Awaiting Approval,1984-11-09T00:00:00,0001-01-01T00:00:00,,a6942,Acess Basic + Funeral,true,,,,,,0
+16333,,,ABF0000458,5,Chipo,CS,Sautu,F,,,Awaiting Approval,2007-03-01T00:00:00,0001-01-01T00:00:00,,a6943,Acess Basic + Funeral,true,,,,,,0
+16334,,,ABF0000458,6,John,JS,Sautu,M,,,Awaiting Approval,2011-04-06T00:00:00,0001-01-01T00:00:00,,a6944,Acess Basic + Funeral,true,,,,,,0
+16335,,,ABF0000458,7,Francis,FS,Sautu,M,,,Awaiting Approval,2017-07-13T00:00:00,0001-01-01T00:00:00,,a6945,Acess Basic + Funeral,true,,,,,,0
+16336,,,ABF0000458,8,Special,SS,Sautu,M,,,Awaiting Approval,2019-02-16T00:00:00,0001-01-01T00:00:00,,a6946,Acess Basic + Funeral,true,,,,,,0
+16337,,,ABF0000459,1,Macdonald,MO,Office,M,,,Awaiting Approval,1993-03-06T00:00:00,0001-01-01T00:00:00,,38231430B38,Acess Basic + Funeral,false,263789100699,,,,,0
+16338,,,ABF0000459,2,Barbra,BM,Moyana,F,,,Awaiting Approval,2000-01-01T00:00:00,0001-01-01T00:00:00,,a6947,Acess Basic + Funeral,true,,,,,,0
+16339,,,ABF0000459,3,Dorothy,DO,Office,F,,,Awaiting Approval,2016-05-01T00:00:00,0001-01-01T00:00:00,,a6948,Acess Basic + Funeral,true,,,,,,0
+16340,,,ABF0000459,4,Faith,FO,Office,F,,,Awaiting Approval,2010-01-01T00:00:00,0001-01-01T00:00:00,,a6949,Acess Basic + Funeral,true,,,,,,0
+16341,,,ABF0000459,5,Tafadzwa,TO,Office,M,,,Awaiting Approval,2009-06-01T00:00:00,0001-01-01T00:00:00,,a6950,Acess Basic + Funeral,true,,,,,,0
+16342,,,ABF0000460,1,Kudakwashe,KM,Mapanzure,M,,,Awaiting Approval,1984-11-10T00:00:00,0001-01-01T00:00:00,,38444369H38,Acess Basic + Funeral,false,263774846200,,,,,0
+16343,,,ABF0000460,2,Aida,AM,Mapanzure,F,,,Awaiting Approval,1989-11-10T00:00:00,0001-01-01T00:00:00,,a6951,Acess Basic + Funeral,true,,,,,,0
+16344,,,ABF0000460,3,Kudzai,KM,Mapanzure,F,,,Awaiting Approval,2009-02-01T00:00:00,0001-01-01T00:00:00,,a6952,Acess Basic + Funeral,true,,,,,,0
+16345,,,ABF0000461,1,Sara,SM,Minezi,F,,,Awaiting Approval,1982-10-20T00:00:00,0001-01-01T00:00:00,,86043199G86,Acess Basic + Funeral,false,263788036083,,,,,0
+16346,,,ABF0000461,2,Andrew,AM,Muyanga,M,,,Awaiting Approval,1979-04-14T00:00:00,0001-01-01T00:00:00,,a6953,Acess Basic + Funeral,true,,,,,,0
+16347,,,ABF0000461,3,Yeukai,YM,Muyanga,F,,,Awaiting Approval,2000-11-10T00:00:00,0001-01-01T00:00:00,,a6954,Acess Basic + Funeral,true,,,,,,0
+16348,,,ABF0000461,4,Sekai,SM,Muyanga,F,,,Awaiting Approval,2009-09-22T00:00:00,0001-01-01T00:00:00,,a6955,Acess Basic + Funeral,true,,,,,,0
+16349,,,ABF0000461,5,Pedzisai,PM,Muyanga,M,,,Awaiting Approval,1963-04-11T00:00:00,0001-01-01T00:00:00,,a6956,Acess Basic + Funeral,true,,,,,,0
+16350,,,ABF0000462,1,Siziwe,SN,Ncube,F,,,Awaiting Approval,1969-07-05T00:00:00,0001-01-01T00:00:00,,24076763T38,Acess Basic + Funeral,false,263787243591,,,,,0
+16351,,,ABF0000462,2,Maidei,MN,Ncube,F,,,Awaiting Approval,2008-11-10T00:00:00,0001-01-01T00:00:00,,a6957,Acess Basic + Funeral,true,,,,,,0
+16352,,,ABF0000463,1,Charles,CM,Mhembere,M,,,Awaiting Approval,1991-04-26T00:00:00,0001-01-01T00:00:00,,27443617X38,Acess Basic + Funeral,false,26377737013,,,,,0
+16353,,,ABF0000463,2,Fadzai,FM,Mhandu,F,,,Awaiting Approval,1995-04-06T00:00:00,0001-01-01T00:00:00,,a6958,Acess Basic + Funeral,true,,,,,,0
+16354,,,ABF0000463,3,Tinei,TM,Mhembere,M,,,Awaiting Approval,2014-06-01T00:00:00,0001-01-01T00:00:00,,a6959,Acess Basic + Funeral,true,,,,,,0
+16355,,,ABF0000463,4,Tricia,TM,Mhembere,F,,,Awaiting Approval,2020-09-06T00:00:00,0001-01-01T00:00:00,,a6960,Acess Basic + Funeral,true,,,,,,0
+16356,,,ABF0000463,5,Kudakwashe,KM,Mhembere,M,,,Awaiting Approval,1973-11-07T00:00:00,0001-01-01T00:00:00,,a6961,Acess Basic + Funeral,true,,,,,,0
+16357,,,ABF0000463,6,Tendai,TS,Shamhu,F,,,Awaiting Approval,1976-03-04T00:00:00,0001-01-01T00:00:00,,a6962,Acess Basic + Funeral,true,,,,,,0
+16358,,,ABF0000464,1,Paradzai,PM,Muringani,M,,,Awaiting Approval,1991-06-29T00:00:00,0001-01-01T00:00:00,,38221342G38,Acess Basic + Funeral,false,263775981881,,,,,0
+16359,,,ABF0000464,2,Patricia,PS,Sibanda,F,,,Awaiting Approval,1995-03-14T00:00:00,0001-01-01T00:00:00,,a6963,Acess Basic + Funeral,true,,,,,,0
+16360,,,ABF0000464,3,Fungai,FM,Muringani,M,,,Awaiting Approval,2015-11-10T00:00:00,0001-01-01T00:00:00,,a6964,Acess Basic + Funeral,true,,,,,,0
+16361,,,ABF0000464,4,Jaqueline,JM,Muringani,F,,,Awaiting Approval,2021-03-05T00:00:00,0001-01-01T00:00:00,,a6965,Acess Basic + Funeral,true,,,,,,0
+16362,,,ABF0000464,5,Chenai,CM,Murapi,F,,,Awaiting Approval,1976-03-04T00:00:00,0001-01-01T00:00:00,,a6966,Acess Basic + Funeral,true,,,,,,0
+16363,,,ABF0000465,1,Philip,PB,Baloyi,M,,,Awaiting Approval,1967-01-21T00:00:00,0001-01-01T00:00:00,,54027608K54,Acess Basic + Funeral,false,263772223079,,,,,0
+16364,,,ABF0000465,2,Rayina,RK,Komani,F,,,Awaiting Approval,1970-04-20T00:00:00,0001-01-01T00:00:00,,5404934F54,Acess Basic + Funeral,true,,,,,,0
+16365,,,PB0000343,1,Alexander,AN,Ndoda,M,,,Awaiting Approval,1949-09-28T00:00:00,0001-01-01T00:00:00,,14039295C70,Private Basic,false,263772740534,,,,,0
+16366,,,PB0000343,2,Edith,EN,Ndoda,F,,,Awaiting Approval,1956-01-31T00:00:00,0001-01-01T00:00:00,,14039297E 70,Private Basic,true,263772740534,,,,,0
+16367,,,GAF0000490,6,Parson B,PBM,Mbekiswa,M,,,Active,2021-11-14T00:00:00,0001-01-01T00:00:00,,parsonbmbekiwe,Access Basic + Funeral,true,,,,,,0
+16368,,,ABF0000466,1,Blessing,BM,Mungoriwo,F,,,Awaiting Approval,1982-01-17T00:00:00,0001-01-01T00:00:00,,47141011D34,Acess Basic + Funeral,false,263777631407,,,,,0
+16369,,,ABF0000466,2,Gift,GS,Steel,M,,,Awaiting Approval,1979-07-07T00:00:00,0001-01-01T00:00:00,,15121783V15,Acess Basic + Funeral,true,,,,,,0
+16370,,,ABF0000466,3,Modesta,MS,Steel,F,,,Awaiting Approval,2003-06-15T00:00:00,0001-01-01T00:00:00,,432018440K15,Acess Basic + Funeral,true,,,,,,0
+16371,,,ABF0000466,4,Gift Jnr,GJS,Steel,M,,,Awaiting Approval,2008-06-17T00:00:00,0001-01-01T00:00:00,,432029359D15,Acess Basic + Funeral,true,,,,,,0
+16372,,,ABF0000466,5,Given,GS,Steel,M,,,Awaiting Approval,2017-05-11T00:00:00,0001-01-01T00:00:00,,432061185X43,Acess Basic + Funeral,true,,,,,,0
+16373,,,ABF0000466,6,Gerald,GS,Steel,M,,,Awaiting Approval,2021-08-21T00:00:00,0001-01-01T00:00:00,,432083904R43,Acess Basic + Funeral,true,,,,,,0
+16374,,,ABF0000466,7,Norma,NK,Kamhiripiri,F,,,Awaiting Approval,1964-02-08T00:00:00,0001-01-01T00:00:00,,43018424F43,Acess Basic + Funeral,true,,,,,,0
+16375,,,ABF0000467,1,Malven,MM,Matumbura,M,,,Awaiting Approval,1986-11-25T00:00:00,0001-01-01T00:00:00,,34093111D47,Acess Basic + Funeral,false,263782501807,,,,,0
+16376,,,ABF0000467,2,Effort,EC,Chirova,F,,,Awaiting Approval,1996-12-25T00:00:00,0001-01-01T00:00:00,,a6967,Acess Basic + Funeral,true,,,,,,0
+16377,,,ABF0000467,3,Talent,TM,Matumbura,F,,,Awaiting Approval,2014-01-14T00:00:00,0001-01-01T00:00:00,,a6968,Acess Basic + Funeral,true,,,,,,0
+16378,,,ABF0000467,4,Arlington,AM,Matumbura,M,,,Awaiting Approval,2016-02-20T00:00:00,0001-01-01T00:00:00,,a6969,Acess Basic + Funeral,true,,,,,,0
+16379,,,ABF0000467,5,Trish,TM,Matumbura,F,,,Awaiting Approval,2023-10-03T00:00:00,0001-01-01T00:00:00,,a6970,Acess Basic + Funeral,true,,,,,,0
+16380,,,ABF0000467,6,Peace,PM,Matumbura,M,,,Awaiting Approval,2025-11-24T00:00:00,0001-01-01T00:00:00,,a6971,Acess Basic + Funeral,true,,,,,,0
+16381,,,ABF0000468,1,Sindisiwe,SC,Chapukira,F,,,Awaiting Approval,1993-01-01T00:00:00,0001-01-01T00:00:00,,052019798H48,Acess Basic + Funeral,false,263779284216,,,,,0
+16382,,,ABF0000468,2,Elizabeth,EH,Homani,F,,,Awaiting Approval,1956-03-23T00:00:00,0001-01-01T00:00:00,,43072836Z43,Acess Basic + Funeral,true,,,,,,0
+16383,,,ABF0000468,3,Alel,AT,Tavuyanago,M,,,Awaiting Approval,1991-02-27T00:00:00,0001-01-01T00:00:00,,a6990,Acess Basic + Funeral,true,,,,,,0
+16384,,,ABF0000468,4,Blessed,BC,Chikukwa,M,,,Awaiting Approval,2016-03-13T00:00:00,0001-01-01T00:00:00,,a6987,Acess Basic + Funeral,true,,,,,,0
+16385,,,ABF0000468,5,Blessing,BC,Chikukwa,M,,,Awaiting Approval,2014-06-14T00:00:00,0001-01-01T00:00:00,,a6988,Acess Basic + Funeral,true,,,,,,0
+16386,,,ABF0000468,6,Pauline,PZ,Zambuko,F,,,Awaiting Approval,1998-10-06T00:00:00,0001-01-01T00:00:00,,a6989,Acess Basic + Funeral,true,,,,,,0
+16387,,,ABF0000469,1,Bernard,BN,Nhau,M,,,Awaiting Approval,1967-03-15T00:00:00,0001-01-01T00:00:00,,25067200F43,Acess Basic + Funeral,false,263771353957,,,,,0
+16388,,,ABF0000469,2,Aploniah,AM,Maromo,F,,,Awaiting Approval,1994-05-11T00:00:00,0001-01-01T00:00:00,,a6972,Acess Basic + Funeral,true,,,,,,0
+16389,,,ABF0000469,3,Blessed,BN,Nhau,F,,,Awaiting Approval,2011-09-24T00:00:00,0001-01-01T00:00:00,,a6973,Acess Basic + Funeral,true,,,,,,0
+16390,,,ABF0000469,4,Brenda,BN,Nhau,F,,,Awaiting Approval,2015-04-16T00:00:00,0001-01-01T00:00:00,,a6974,Acess Basic + Funeral,true,,,,,,0
+16391,,,ABF0000469,5,Sandra,SN,Nhau,F,,,Awaiting Approval,2019-07-21T00:00:00,0001-01-01T00:00:00,,a6975,Acess Basic + Funeral,true,,,,,,0
+16392,,,ABF0000469,6,Makatendeka,MN,Nhau,F,,,Awaiting Approval,2023-04-15T00:00:00,0001-01-01T00:00:00,,a6976,Acess Basic + Funeral,true,,,,,,0
+16393,,,ABF0000470,1,Evelyn,EM,Masenda,F,,,Awaiting Approval,1999-09-04T00:00:00,0001-01-01T00:00:00,,43120984T42,Acess Basic + Funeral,false,263782679479,,,,,0
+16394,,,ABF0000470,2,Hilary,HM,Masenda,M,,,Awaiting Approval,1999-09-04T00:00:00,0001-01-01T00:00:00,,a6977,Acess Basic + Funeral,true,,,,,,0
+16395,,,ABF0000470,3,Heather,HM,Masenda,F,,,Awaiting Approval,1999-09-04T00:00:00,0001-01-01T00:00:00,,a6978,Acess Basic + Funeral,true,,,,,,0
+16396,,,ABF0000471,1,Davison Garai,DGM,Muchero,M,,,Awaiting Approval,1981-10-18T00:00:00,0001-01-01T00:00:00,,75358763Y75,Acess Basic + Funeral,false,263777814032,,,,,0
+16397,,,ABF0000471,2,Primrose,PC,Chikwizo,F,,,Awaiting Approval,1996-09-11T00:00:00,0001-01-01T00:00:00,,59196126P13,Acess Basic + Funeral,true,,,,,,0
+16398,,,ABF0000471,3,Davison Tadiwanashe,DTM,Muchero,M,,,Awaiting Approval,2007-09-14T00:00:00,0001-01-01T00:00:00,,a6979,Acess Basic + Funeral,true,,,,,,0
+16399,,,ABF0000471,4,Divine,DM,Muchero,M,,,Awaiting Approval,2011-08-12T00:00:00,0001-01-01T00:00:00,,a6980,Acess Basic + Funeral,true,,,,,,0
+16400,,,ABF0000472,1,Fanwell,FM,Moyo,M,,,Awaiting Approval,1977-06-02T00:00:00,0001-01-01T00:00:00,,35018977E 67,Acess Basic + Funeral,false,263774806136,,,,,0
+16401,,,ABF0000472,2,Sheilah,SC,Chasaya,F,,,Awaiting Approval,1979-03-16T00:00:00,0001-01-01T00:00:00,,25060134A48,Acess Basic + Funeral,true,,,,,,0
+16402,,,ABF0000472,3,Misheck,MM,Moyo,M,,,Awaiting Approval,2012-06-04T00:00:00,0001-01-01T00:00:00,,432059723H67,Acess Basic + Funeral,true,,,,,,0
+16403,,,ABF0000472,4,Shadreck,SM,Moyo,M,,,Awaiting Approval,2017-06-08T00:00:00,0001-01-01T00:00:00,,432061545N67,Acess Basic + Funeral,true,,,,,,0
+16404,,,ABF0000472,5,Wayne D,WDN,Nyandoro,M,,,Awaiting Approval,2019-03-11T00:00:00,0001-01-01T00:00:00,,432089355R43,Acess Basic + Funeral,true,,,,,,0
+16405,,,ABF0000472,6,Ryne Mukudzei,RMN,Nyandoro,M,,,Awaiting Approval,2022-02-13T00:00:00,0001-01-01T00:00:00,,432089354Q43,Acess Basic + Funeral,true,,,,,,0
+16406,,,ABF0000473,1,John,JH,Hlupo,M,,,Awaiting Approval,1980-08-01T00:00:00,0001-01-01T00:00:00,,38138310J38,Acess Basic + Funeral,false,263772872029,,,,,0
+16407,,,ABF0000473,2,Masciline,MB,Buka,F,,,Awaiting Approval,1985-05-13T00:00:00,0001-01-01T00:00:00,,a6981,Acess Basic + Funeral,true,,,,,,0
+16408,,,ABF0000473,3,Deloris N,DNH,Hlupo,F,,,Awaiting Approval,2009-10-19T00:00:00,0001-01-01T00:00:00,,a6982,Acess Basic + Funeral,true,,,,,,0
+16409,,,ABF0000473,4,Delsy R,DRH,Hlupo,F,,,Awaiting Approval,2013-10-11T00:00:00,0001-01-01T00:00:00,,a6983,Acess Basic + Funeral,true,,,,,,0
+16410,,,ABF0000473,5,Riley,RH,Hlupo,M,,,Awaiting Approval,2018-03-20T00:00:00,0001-01-01T00:00:00,,a6984,Acess Basic + Funeral,true,,,,,,0
+16411,,,ABF0000473,6,Elsy,EH,Hlupo,F,,,Awaiting Approval,2022-03-28T00:00:00,0001-01-01T00:00:00,,a6985,Acess Basic + Funeral,true,,,,,,0
+16412,,,ABF0000473,7,Deola,DH,Hlupo,F,,,Awaiting Approval,2025-09-01T00:00:00,0001-01-01T00:00:00,,a6986,Acess Basic + Funeral,true,,,,,,0
